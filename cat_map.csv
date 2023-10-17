@@ -1,0 +1,167 @@
+dcsname,uuid,cat
+disc golf/bag,d6670c0b-88da-43e6-8814-8e05f177cc5e,Disc Golf > Bags & Caddies
+electronic/audio,,
+electronic/camera/accessory,,
+eyewear/goggles/accessory,,
+eyewear/goggles/moto,,
+eyewear/goggles/rep. lens,,
+eyewear/goggles/unisex,06c086f0-2ed4-4cd3-a976-457b81875255,Skiing > Goggles
+eyewear/goggles/womens,06c086f0-2ed4-4cd3-a976-457b81875255,Skiing > Goggles
+eyewear/goggles/youth,06c086f0-2ed4-4cd3-a976-457b81875255,Skiing > Goggles
+eyewear/sunglasses/accessory,d58a823e-ea2c-4399-8c11-6935a49f01f9,Apparel > Sunglasses
+eyewear/sunglasses/unisex,d58a823e-ea2c-4399-8c11-6935a49f01f9,Apparel > Sunglasses
+eyewear/sunglasses/womens,d58a823e-ea2c-4399-8c11-6935a49f01f9,Apparel > Sunglasses
+headwear/beanie,1f3f253f-0a38-4086-b377-d8de76e2552a,Skiing > Apparel & Outerwear > Hats
+headwear/facemask,,
+headwear/hat,25a5eb58-b6eb-4afe-a923-39372221e56a,Apparel > Hats
+hike/pack/accessory,02c9b15d-60bf-400b-84d1-46dc954989d0,Hike & Camp > Other
+hike/pack/hydration,27abfb4f-3e6a-4513-801d-fc25e0164c6f,Hike & Camp > Backpacks
+hike/pack/map/book,,
+hike/pack/mens/shoes,4a15f280-bd7f-4bd2-bdf3-4e9086829d2d,Hike & Camp > Hiking Boots & Shoes
+hike/pack/womens/shoes,4a15f280-bd7f-4bd2-bdf3-4e9086829d2d,Hike & Camp > Hiking Boots & Shoes
+kayak/accessory,5ebeb6b1-b1ee-4a2b-ae8c-f66e851e5594,"Outdoors > Surf, Wake & Water Sports > Other"
+lifejacket/neoprene/dog,e7e1db54-2714-4b3d-94e9-d77ea453a333,"Surf, Wake & Water Sports > Life Jackets"
+lifejacket/neoprene/men,e7e1db54-2714-4b3d-94e9-d77ea453a333,"Surf, Wake & Water Sports > Life Jackets"
+lifejacket/neoprene/womens,e7e1db54-2714-4b3d-94e9-d77ea453a333,"Surf, Wake & Water Sports > Life Jackets"
+lifejacket/neoprene/youth,e7e1db54-2714-4b3d-94e9-d77ea453a333,"Surf, Wake & Water Sports > Life Jackets"
+lifejacket/nylon/men,e7e1db54-2714-4b3d-94e9-d77ea453a333,"Surf, Wake & Water Sports > Life Jackets"
+lifejacket/nylon/womens,e7e1db54-2714-4b3d-94e9-d77ea453a333,"Surf, Wake & Water Sports > Life Jackets"
+lifejacket/nylon/youth,e7e1db54-2714-4b3d-94e9-d77ea453a333,"Surf, Wake & Water Sports > Life Jackets"
+mens/baselayer/bottom,bafa1091-fb7f-4f77-95cc-ea0e288897d6,Skiing > Apparel & Outerwear > Base Layers
+mens/baselayer/suit,bafa1091-fb7f-4f77-95cc-ea0e288897d6,Skiing > Apparel & Outerwear > Base Layers
+mens/baselayer/top,bafa1091-fb7f-4f77-95cc-ea0e288897d6,Skiing > Apparel & Outerwear > Base Layers
+mens/lifestyle/accessory,c56cd2dc-3e19-430c-ae53-3007408d4040,Apparel > Other
+mens/lifestyle/bag,7487eb43-eae7-4c64-ab43-682810aa71e3,Apparel > Backpacks & Bags
+mens/lifestyle/jacket,ef55e795-41f6-4132-8580-630409e6a158,Apparel > Jackets & Coats
+mens/lifestyle/pants,72427126-4874-48eb-a31c-29ee1a7b7a3b,Apparel > Pants
+mens/lifestyle/shoes,0afa7c6e-08da-4654-875e-f38e3e63be62,"Footwear > Turfs, Indoor, Sneakers & Training"
+mens/lifestyle/shorts,4ead05ea-264a-487b-800a-e60255bf109f,Apparel > Shorts
+mens/lifestyle/top,42b1a293-c06b-4b44-b0b9-04f49e809e57,Apparel > Shirts
+mens/midlayer,16a1a4eb-882b-4563-b4bd-285add085a39,Apparel > Base Layers & Compression
+mens/outerwear/gloves,d962d3d4-623c-4b43-8324-d7d4aa69466d,Skiing > Apparel & Outerwear > Gloves & Mittens
+mens/outerwear/jackets,c101d61d-eaeb-4b55-af1b-6d4c42f6d942,Skiing > Apparel & Outerwear > Jackets & Coats
+mens/outerwear/mittens,d962d3d4-623c-4b43-8324-d7d4aa69466d,Skiing > Apparel & Outerwear > Gloves & Mittens
+mens/outerwear/pants,72427126-4874-48eb-a31c-29ee1a7b7a3b,Apparel > Pants
+mens/outerwear/suit,,
+mens/swimwear/shorts,b206bbc5-7ee6-4a3d-9d9f-2f3cb6cb8449	,Apparel > Swimsuits
+race/night,,
+safety/avalanche/probe,1768df28-72ae-4f98-9ed4-a4223bf8805e,"Skiing > Training, Accessories, Backcountry & Other > Avalanche Safety Gear"
+safety/avalanche/shovel,1768df28-72ae-4f98-9ed4-a4223bf8805e,"Skiing > Training, Accessories, Backcountry & Other > Avalanche Safety Gear"
+safety/avalanche/tranceiver,1768df28-72ae-4f98-9ed4-a4223bf8805e,"Skiing > Training, Accessories, Backcountry & Other > Avalanche Safety Gear"
+safety/helmet/skate,,
+safety/helmet/ski,c9f4632b-7497-46b3-8243-97d0855a2313,Skiing > Helmets
+safety/helmet/wakeboard,9f2840e8-4509-4867-8831-b20c11b7226a,"Outdoors > Surf, Wake & Water Sports > Accessories"
+safety/pad/skate,,
+safety/pad/snow,cfd33ce4-7b67-4005-a639-100eea0ffd09,"Snowboarding > Training, Accessories, Backcountry & Other > Other"
+safety/race/ski,5a7ec962-9aa7-4ef2-a63d-7146d7a115c2,"Skiing > Training, Accessories, Backcountry & Other > Other"
+skateboard/accessory,,
+skateboard/bearings,,
+skateboard/complete/street,,
+skateboard/completes/long board,,
+skateboard/deck/street,,
+skateboard/griptape,,
+skateboard/hardware,,
+skateboard/shoes/mens,,
+skateboard/shoes/womens,,
+skateboard/trucks/street,,
+skateboard/wheels/longboard,,
+skateboard/wheels/street,,
+ski/accessory,5a7ec962-9aa7-4ef2-a63d-7146d7a115c2,"Skiing > Training, Accessories, Backcountry & Other > Other"
+ski/accessory/insoles,5a7ec962-9aa7-4ef2-a63d-7146d7a115c2,"Skiing > Training, Accessories, Backcountry & Other > Other"
+ski/bags/backpack,1b5926a2-d416-4ede-ab70-762909defc48,Skiing > Skiing Bags & Packs > Backpacks
+ski/bags/boot,a6ad19e5-8594-44a8-b89b-8c3497ab77ed,Skiing > Skiing Bags & Packs > Boot Bags
+ski/bags/outerwear/,,
+ski/bags/ski,732896ac-68c2-4bf0-87c2-af19c14e0088,Skiing > Skiing Bags & Packs > Ski Bags
+ski/bindings/mens,89bc2302-30cc-4da7-af5c-b5eeda4caf4c,Skiing > Bindings > Downhill Bindings
+ski/bindings/womens,89bc2302-30cc-4da7-af5c-b5eeda4caf4c,Skiing > Bindings > Downhill Bindings
+ski/bindings/youth,89bc2302-30cc-4da7-af5c-b5eeda4caf4c,Skiing > Bindings > Downhill Bindings
+ski/boots/accessory,5a7ec962-9aa7-4ef2-a63d-7146d7a115c2,"Skiing > Training, Accessories, Backcountry & Other > Other"
+ski/boots/liner,5a7ec962-9aa7-4ef2-a63d-7146d7a115c2,"Skiing > Training, Accessories, Backcountry & Other > Other"
+ski/boots/mens,	22b5b42a-68c3-4927-9f93-fde549898a5d,Skiing > Boots > Downhill Boots
+ski/boots/parts,	22b5b42a-68c3-4927-9f93-fde549898a5d,Skiing > Boots > Downhill Boots
+ski/boots/womens,	22b5b42a-68c3-4927-9f93-fde549898a5d,Skiing > Boots > Downhill Boots
+ski/boots/youth,	22b5b42a-68c3-4927-9f93-fde549898a5d,Skiing > Boots > Downhill Boots
+ski/poles/accessory,5a7ec962-9aa7-4ef2-a63d-7146d7a115c2,"Skiing > Training, Accessories, Backcountry & Other > Other"
+ski/poles/adult,456d28fa-a3bd-4d98-aa7b-6cd43ff03fe9,Skiing > Poles
+ski/poles/baskets,5a7ec962-9aa7-4ef2-a63d-7146d7a115c2,"Skiing > Training, Accessories, Backcountry & Other > Other"
+ski/poles/youth,456d28fa-a3bd-4d98-aa7b-6cd43ff03fe9,Skiing > Poles
+ski/skis/men,19d750c7-bc15-431c-bb83-e647ceab40ce,Skiing > Skis > Downhill Skis
+ski/skis/women,19d750c7-bc15-431c-bb83-e647ceab40ce,Skiing > Skis > Downhill Skis
+ski/skis/youth,19d750c7-bc15-431c-bb83-e647ceab40ce,Skiing > Skis > Downhill Skis
+ski/socks/adult,b3d547e7-2f1f-424b-bb3b-00268a0b2298,Skiing > Apparel & Outerwear > Ski Socks
+ski/socks/youth,b3d547e7-2f1f-424b-bb3b-00268a0b2298,Skiing > Apparel & Outerwear > Ski Socks
+ski/tune/wax,8f6bf410-7893-4b97-8c15-98197111ce73,"Skiing > Training, Accessories, Backcountry & Other > Tuning & Wax"
+ski/tuning/tool,8f6bf410-7893-4b97-8c15-98197111ce73,"Skiing > Training, Accessories, Backcountry & Other > Tuning & Wax"
+ski/x-country/bindings,9e436858-26ca-41ae-9206-e9fa90691172,Skiing > Bindings > Cross Country Bindings
+ski/x-country/boots,57f1aff4-8ffc-48d8-a524-057a1cb15699,Skiing > Boots > Cross Country Boots
+ski/x-country/skis,1b803ee2-b6b2-4e1e-94dd-7632586ec296,Skiing > Skis > Cross Country Skis
+snowboard/accessory,cfd33ce4-7b67-4005-a639-100eea0ffd09,"Snowboarding > Training, Accessories, Backcountry & Other > Other"
+snowboard/bags/backpack,76e7a978-fb06-42dd-990e-30fbef5876e2,Snowboarding > Bags & Packs > Backpacks
+snowboard/bags/board bag,84e9eb0f-225e-46a8-b1c0-9373782bc5e7,Snowboarding > Bags & Packs > Board Bags
+snowboard/bags/outerwear/,,
+snowboard/bags/travel,84e9eb0f-225e-46a8-b1c0-9373782bc5e7,Snowboarding > Bags & Packs > Board Bags
+snowboard/bags/wheel,84e9eb0f-225e-46a8-b1c0-9373782bc5e7,Snowboarding > Bags & Packs > Board Bags
+snowboard/bindings/unisex,969bd132-640f-4eed-bf89-f70603a9b8fc,Snowboarding > Bindings
+snowboard/bindings/women,969bd132-640f-4eed-bf89-f70603a9b8fc,Snowboarding > Bindings
+snowboard/bindings/youth,969bd132-640f-4eed-bf89-f70603a9b8fc,Snowboarding > Bindings
+snowboard/board/mens,7fb07d0d-29b9-48ea-84ab-b91c1cb97c5b,Snowboarding > Snowboards
+snowboard/board/womens,7fb07d0d-29b9-48ea-84ab-b91c1cb97c5b,Snowboarding > Snowboards
+snowboard/board/youth,7fb07d0d-29b9-48ea-84ab-b91c1cb97c5b,Snowboarding > Snowboards
+snowboard/boots/mens,12567e95-a363-4a96-9289-1e9a194bff17,Snowboarding > Boots
+snowboard/boots/womens,12567e95-a363-4a96-9289-1e9a194bff17,Snowboarding > Boots
+snowboard/boots/youth,12567e95-a363-4a96-9289-1e9a194bff17,Snowboarding > Boots
+snowboard/socks/adult,743ba06a-8f4d-4fa2-9b4a-7e9cdfc05e06,Snowboarding > Apparel & Outerwear > Socks
+snowboard/socks/youth,743ba06a-8f4d-4fa2-9b4a-7e9cdfc05e06,Snowboarding > Apparel & Outerwear > Socks
+stupid/misc/crap,,
+wakeboard/accessory,9f2840e8-4509-4867-8831-b20c11b7226a,"Outdoors > Surf, Wake & Water Sports > Accessories"
+wakeboard/bags,c88e75c5-1611-4d2f-b7ad-ca592c707e37,"Surf, Wake & Water Sports > Board Bags & Socks"
+wakeboard/board/mens,6893ecd3-c093-493f-a350-86586b5790e9,"Surf, Wake & Water Sports > Boards > Wakeboards"
+wakeboard/boots/unisex,a23ede35-96ee-474f-82b2-724c505bc016,"Surf, Wake & Water Sports > Bindings > Wakeboard Bindings"
+wakeboard/boots/womens,a23ede35-96ee-474f-82b2-724c505bc016,"Surf, Wake & Water Sports > Bindings > Wakeboard Bindings"
+wakeboard/packages/unisex,6893ecd3-c093-493f-a350-86586b5790e9,"Surf, Wake & Water Sports > Boards > Wakeboards"
+wakeboard/packages/womens,6893ecd3-c093-493f-a350-86586b5790e9,"Surf, Wake & Water Sports > Boards > Wakeboards"
+wakeboard/packages/youth,6893ecd3-c093-493f-a350-86586b5790e9,"Surf, Wake & Water Sports > Boards > Wakeboards"
+wakeboard/surf/accessory,9f2840e8-4509-4867-8831-b20c11b7226a,"Outdoors > Surf, Wake & Water Sports > Accessories"
+wakeboard/surf/bag,c88e75c5-1611-4d2f-b7ad-ca592c707e37,"Surf, Wake & Water Sports > Board Bags & Socks"
+wakeboard/wakeskate,3e5045ea-0d84-4a01-ac0b-52863ebb6edd,"Surf, Wake & Water Sports > Boards > Wakeskates"
+wakeboard/wakesurfs,0a638760-d8bd-41f3-b09e-82c2312c577c,"Surf, Wake & Water Sports > Boards > Wakesurf"
+watersport/kneeboard/board,0610a8f8-e1e7-497b-89aa-0f7ea710bdfd,"Surf, Wake & Water Sports > Boards > Kneeboards"
+watersport/rashguard/mens,c93138b0-7113-4534-aa0b-60ae49537ae1,"Outdoors > Surf, Wake & Water Sports > Wetsuits & Rashguards"
+watersport/rashguard/womens,c93138b0-7113-4534-aa0b-60ae49537ae1,"Outdoors > Surf, Wake & Water Sports > Wetsuits & Rashguards"
+watersport/ski/accessory,9f2840e8-4509-4867-8831-b20c11b7226a,"Outdoors > Surf, Wake & Water Sports > Accessories"
+watersport/ski/bag,c88e75c5-1611-4d2f-b7ad-ca592c707e37,"Surf, Wake & Water Sports > Board Bags & Socks"
+watersport/ski/bindings,e58e280b-8741-4621-ae41-6b9cf5bc2aca,"Surf, Wake & Water Sports > Bindings > Water Ski Bindings"
+watersport/ski/combo,a0d7e5fc-a91e-4579-b36e-324e18c723e3,"Surf, Wake & Water Sports > Water Skis"
+watersport/ski/handle,9f2840e8-4509-4867-8831-b20c11b7226a,"Outdoors > Surf, Wake & Water Sports > Accessories"
+watersport/ski/single,9f2840e8-4509-4867-8831-b20c11b7226a,"Outdoors > Surf, Wake & Water Sports > Accessories"
+watersport/towable/accessory,9f2840e8-4509-4867-8831-b20c11b7226a,"Outdoors > Surf, Wake & Water Sports > Accessories"
+watersport/towable/tube,5ebeb6b1-b1ee-4a2b-ae8c-f66e851e5594,"Outdoors > Surf, Wake & Water Sports > Other"
+watersport/wetsuit/mens,c93138b0-7113-4534-aa0b-60ae49537ae1,"	Outdoors > Surf, Wake & Water Sports > Wetsuits & Rashguards"
+watersport/wetsuit/womens,c93138b0-7113-4534-aa0b-60ae49537ae1,"	Outdoors > Surf, Wake & Water Sports > Wetsuits & Rashguards"
+watersport/wetsuit/youth,c93138b0-7113-4534-aa0b-60ae49537ae1,"Outdoors > Surf, Wake & Water Sports > Wetsuits & Rashguards"
+winter/equipment,,
+women/outerwear/suit,,
+womens/baselayer/bottom,bafa1091-fb7f-4f77-95cc-ea0e288897d6,Skiing > Apparel & Outerwear > Base Layers
+womens/baselayer/suit,bafa1091-fb7f-4f77-95cc-ea0e288897d6,Skiing > Apparel & Outerwear > Base Layers
+womens/baselayer/top,bafa1091-fb7f-4f77-95cc-ea0e288897d6,Skiing > Apparel & Outerwear > Base Layers
+womens/lifestyle/accessory,c56cd2dc-3e19-430c-ae53-3007408d4040,Apparel > Other
+womens/lifestyle/dress,,
+womens/lifestyle/jacket,ef55e795-41f6-4132-8580-630409e6a158,Apparel > Jackets & Coats
+womens/lifestyle/jumpsuit,,
+womens/lifestyle/pants,72427126-4874-48eb-a31c-29ee1a7b7a3b,Apparel > Pants
+womens/lifestyle/shoes,0afa7c6e-08da-4654-875e-f38e3e63be62,"Footwear > Turfs, Indoor, Sneakers & Training"
+womens/lifestyle/shorts,4ead05ea-264a-487b-800a-e60255bf109f,Apparel > Shorts
+womens/lifestyle/top,42b1a293-c06b-4b44-b0b9-04f49e809e57,Apparel > Shirts
+womens/midlayer,16a1a4eb-882b-4563-b4bd-285add085a39,Apparel > Base Layers & Compression
+womens/outerwear/gloves,d962d3d4-623c-4b43-8324-d7d4aa69466d,Skiing > Apparel & Outerwear > Gloves & Mittens
+womens/outerwear/jacket,c101d61d-eaeb-4b55-af1b-6d4c42f6d942,Skiing > Apparel & Outerwear > Jackets & Coats
+womens/outerwear/mittens,d962d3d4-623c-4b43-8324-d7d4aa69466d,Skiing > Apparel & Outerwear > Gloves & Mittens
+womens/outerwear/pants,72427126-4874-48eb-a31c-29ee1a7b7a3b,Apparel > Pants
+womens/swimwear,b206bbc5-7ee6-4a3d-9d9f-2f3cb6cb8449,Apparel > Swimsuits
+youth/baselayer/bottom,bafa1091-fb7f-4f77-95cc-ea0e288897d6,Skiing > Apparel & Outerwear > Base Layers
+youth/baselayer/suit,bafa1091-fb7f-4f77-95cc-ea0e288897d6,Skiing > Apparel & Outerwear > Base Layers
+youth/baselayer/top,bafa1091-fb7f-4f77-95cc-ea0e288897d6,Skiing > Apparel & Outerwear > Base Layers
+youth/outerwear/gloves,d962d3d4-623c-4b43-8324-d7d4aa69466d,Skiing > Apparel & Outerwear > Gloves & Mittens
+youth/outerwear/jacket,c101d61d-eaeb-4b55-af1b-6d4c42f6d942,Skiing > Apparel & Outerwear > Jackets & Coats
+youth/outerwear/mittens,d962d3d4-623c-4b43-8324-d7d4aa69466d,Skiing > Apparel & Outerwear > Gloves & Mittens
+youth/outerwear/pants,72427126-4874-48eb-a31c-29ee1a7b7a3b,Apparel > Pants

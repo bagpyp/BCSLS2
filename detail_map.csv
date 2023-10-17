@@ -1,0 +1,190 @@
+﻿dcsname,field,detail
+electronic/audio,,
+electronic/camera/accessory,,
+eyewear/goggles/accessory,,
+eyewear/goggles/moto,,
+eyewear/goggles/rep. lens,,
+eyewear/goggles/unisex,s,Gender
+eyewear/goggles/unisex,size,Frame Size
+eyewear/goggles/womens,s,Gender
+eyewear/goggles/womens,size,Frame Size
+eyewear/goggles/youth,size,Frame Size
+eyewear/sunglasses/accessory,size,Size
+eyewear/sunglasses/unisex,s,Gender
+eyewear/sunglasses/womens,s,Gender
+headwear/facemask,,
+hike/pack/map/book,,
+hike/pack/mens/shoes,size,Size
+hike/pack/mens/shoes,c,Gender
+hike/pack/womens/shoes,size,Size
+hike/pack/womens/shoes,c,Gender
+kayak/accessory,,
+mens/baselayer/bottom,d,Gender
+mens/baselayer/bottom,size,Size
+mens/baselayer/suit,d,Gender
+mens/baselayer/suit,size,Size
+mens/baselayer/top,d,Gender
+mens/baselayer/top,size,Size
+mens/lifestyle/accessory,d,Gender
+mens/lifestyle/accessory,size,Size
+mens/lifestyle/bag,d,Gender
+mens/lifestyle/bag,size,Size
+mens/lifestyle/jacket,d,Gender
+mens/lifestyle/jacket,size,Size
+mens/lifestyle/pants,d,Gender
+mens/lifestyle/pants,size,Size
+mens/lifestyle/shoes,d,Gender
+mens/lifestyle/shoes,size,Size
+mens/lifestyle/shorts,d,Gender
+mens/lifestyle/shorts,size,Size
+mens/lifestyle/top,d,Gender
+mens/lifestyle/top,size,Size
+mens/midlayer,d,Gender
+mens/midlayer,size,Size
+mens/outerwear/gloves,d,Gender
+mens/outerwear/gloves,size,Size
+mens/outerwear/jackets,d,Gender
+mens/outerwear/jackets,size,Size
+mens/outerwear/mittens,d,Gender
+mens/outerwear/mittens,size,Size
+mens/outerwear/pants,d,Gender
+mens/outerwear/pants,size,Size
+mens/outerwear/suit,,
+mens/swimwear/shorts,d,Gender
+mens/swimwear/shorts,size,Size
+race/night,,
+safety/helmet/skate,,
+safety/helmet/wakeboard,,
+safety/pad/skate,,
+skateboard/accessory,,
+skateboard/bearings,,
+skateboard/complete/street,,
+skateboard/completes/long board,,
+skateboard/deck/street,,
+skateboard/griptape,,
+skateboard/hardware,,
+skateboard/shoes/mens,,
+skateboard/shoes/womens,,
+skateboard/trucks/street,,
+skateboard/wheels/longboard,,
+skateboard/wheels/street,,
+ski/bags/backpack,size,Capacity (Liters)
+ski/bags/backpack,color,Color
+ski/bags/outerwear/,,
+ski/bindings/mens,size,Brake Width
+ski/bindings/womens,size,Brake Width
+ski/bindings/youth,size,Brake Width
+ski/boots/mens,s,Gender
+ski/boots/mens,size,Boot Size
+ski/boots/parts,size,Boot Size
+ski/boots/womens,size,Boot Size
+ski/boots/womens,s,Gender
+ski/boots/youth,s,Gender
+ski/boots/youth,size,Boot Size
+ski/poles/adult,size,Size
+ski/poles/youth,size,Size
+ski/skis/men,s,Gender
+ski/skis/men,size,Size
+ski/skis/women,s,Gender
+ski/skis/women,size,Size
+ski/skis/youth,s,Gender
+ski/skis/youth,size,Size
+ski/socks/adult,size,Size
+ski/socks/adult,s,Age Group
+ski/socks/adult,color,Color
+ski/socks/youth,size,Size
+ski/socks/youth,s,Age Group
+ski/socks/youth,color,Color
+ski/tune/wax,s,Type
+ski/tuning/tool,s,Type
+ski/x-country/bindings,c,Cross Country Style
+ski/x-country/boots,size,Boot Size
+ski/x-country/boots,c,Cross Country Style
+ski/x-country/skis,size,Size
+ski/x-country/skis,c,Cross Country Style
+snowboard/bags/backpack,size,Capacity (Liters)
+snowboard/bags/backpack,color,Color
+snowboard/bags/outerwear/,,
+snowboard/bindings/unisex,s,Gender
+snowboard/bindings/unisex,size,Size
+snowboard/bindings/women,s,Gender
+snowboard/bindings/women,size,Size
+snowboard/bindings/youth,s,Gender
+snowboard/bindings/youth,size,Size
+snowboard/board/mens,s,Gender
+snowboard/board/mens,size,Size
+snowboard/board/womens,s,Gender
+snowboard/board/womens,size,Size
+snowboard/board/youth,s,Gender
+snowboard/board/youth,size,Size
+snowboard/boots/mens,s,Gender
+snowboard/boots/mens,size,Size
+snowboard/boots/womens,s,Gender
+snowboard/boots/womens,size,Size
+snowboard/boots/youth,s,Gender
+snowboard/boots/youth,size,Size
+snowboard/socks/adult,s,Gender
+snowboard/socks/adult,size,Size
+snowboard/socks/adult,color,Color
+snowboard/socks/youth,s,Age Group
+stupid/misc/crap,,
+wakeboard/bags,,
+wakeboard/boots/unisex,s,Gender
+wakeboard/boots/womens,s,Gender
+wakeboard/surf/bag,,
+wakeboard/wakeskate,,
+wakeboard/wakesurfs,,
+watersport/kneeboard/board,,
+watersport/ski/bag,,
+watersport/ski/handle,,
+watersport/ski/single,,
+watersport/towable/tube,,
+winter/equipment,,
+women/outerwear/suit,,
+womens/baselayer/bottom,d,Gender
+womens/baselayer/bottom,size,Size
+womens/baselayer/suit,d,Gender
+womens/baselayer/suit,size,Size
+womens/baselayer/top,d,Gender
+womens/baselayer/top,size,Size
+womens/lifestyle/accessory,d,Gender
+womens/lifestyle/accessory,size,Size
+womens/lifestyle/dress,,
+womens/lifestyle/jacket,d,Gender
+womens/lifestyle/jacket,size,Size
+womens/lifestyle/jumpsuit,,
+womens/lifestyle/pants,d,Gender
+womens/lifestyle/pants,size,Size
+womens/lifestyle/shoes,d,Gender
+womens/lifestyle/shorts,d,Gender
+womens/lifestyle/shorts,size,Size
+womens/lifestyle/top,d,Gender
+womens/lifestyle/top,size,Size
+womens/midlayer,d,Gender
+womens/midlayer,size,Size
+womens/outerwear/gloves,d,Gender
+womens/outerwear/gloves,s,Type
+womens/outerwear/gloves,size,Size
+womens/outerwear/jacket,d,Gender
+womens/outerwear/jacket,s,Size
+womens/outerwear/mittens,d,Gender
+womens/outerwear/mittens,s,Type
+womens/outerwear/mittens,size,Size
+womens/outerwear/pants,d,Gender
+womens/outerwear/pants,size,Size
+womens/swimwear,d,Gender
+womens/swimwear,size,Size
+youth/baselayer/bottom,d,Age Group
+youth/baselayer/bottom,size,Size
+youth/baselayer/suit,d,Age Group
+youth/baselayer/suit,size,Size
+youth/baselayer/top,d,Age Group
+youth/baselayer/top,size,Size
+youth/outerwear/gloves,d,Age Group
+youth/outerwear/gloves,size,Size
+youth/outerwear/jacket,d,Age Group
+youth/outerwear/jacket,size,Size
+youth/outerwear/mittens,d,Age Group
+youth/outerwear/mittens,size,Size
+youth/outerwear/pants,d,Age Group
+youth/outerwear/pants,size,Size

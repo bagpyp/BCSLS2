@@ -1,0 +1,2930 @@
+catname,cID,mID,field,required
+"Apparel > Backpacks & Bags",110616,18785,"Size",0
+"Apparel > Backpacks & Bags",110616,23041,"Age Group",0
+"Apparel > Backpacks & Bags",110616,22281,"Color",1
+"Apparel > Backpacks & Bags",110616,18786,"Brand",1
+"Apparel > Backpacks & Bags",110616,18787,"Gender",1
+"Apparel > Backpacks & Bags",110616,24435,"Sport",1
+"Apparel > Backpacks & Bags",110616,24834,"Team Issued",0
+"Apparel > Backpacks & Bags",110616,23961,"Bag Type",0
+"Apparel > Backpacks & Bags",110616,24863,"Bag Use",0
+"Apparel > Backpacks & Bags",110616,24078,"Capacity (Liters)",0
+"Apparel > Backpacks & Bags",110616,18797,"Condition",1
+"Apparel > Base Layers & Compression",110220,18785,"Size",1
+"Apparel > Base Layers & Compression",110220,18786,"Brand",1
+"Apparel > Base Layers & Compression",110220,23041,"Age Group",1
+"Apparel > Base Layers & Compression",110220,22281,"Color",1
+"Apparel > Base Layers & Compression",110220,18787,"Gender",1
+"Apparel > Base Layers & Compression",110220,24435,"Sport",1
+"Apparel > Base Layers & Compression",110220,24834,"Team Issued",0
+"Apparel > Base Layers & Compression",110220,24817,"Compression Type",0
+"Apparel > Base Layers & Compression",110220,24853,"Compression Use",0
+"Apparel > Base Layers & Compression",110220,18797,"Condition",1
+"Apparel > Hats",110224,18785,"Size",1
+"Apparel > Hats",110224,18786,"Brand",1
+"Apparel > Hats",110224,22281,"Color",1
+"Apparel > Hats",110224,24435,"Sport",1
+"Apparel > Hats",110224,23041,"Age Group",1
+"Apparel > Hats",110224,18787,"Gender",1
+"Apparel > Hats",110224,24837,"Clothing Style",0
+"Apparel > Hats",110224,24826,"Hat Type",0
+"Apparel > Hats",110224,24834,"Team Issued",0
+"Apparel > Hats",110224,18797,"Condition",1
+"Apparel > Jackets & Coats",110225,18785,"Size",1
+"Apparel > Jackets & Coats",110225,18786,"Brand",1
+"Apparel > Jackets & Coats",110225,23041,"Age Group",1
+"Apparel > Jackets & Coats",110225,22281,"Color",1
+"Apparel > Jackets & Coats",110225,18787,"Gender",1
+"Apparel > Jackets & Coats",110225,24435,"Sport",1
+"Apparel > Jackets & Coats",110225,24834,"Team Issued",0
+"Apparel > Jackets & Coats",110225,24837,"Clothing Style",0
+"Apparel > Jackets & Coats",110225,24844,"Hooded",0
+"Apparel > Jackets & Coats",110225,24859,"Liner",0
+"Apparel > Jackets & Coats",110225,24821,"Jacket Type",0
+"Apparel > Jackets & Coats",110225,18797,"Condition",1
+"Apparel > Jerseys",110219,18785,"Size",1
+"Apparel > Jerseys",110219,18786,"Brand",1
+"Apparel > Jerseys",110219,23041,"Age Group",1
+"Apparel > Jerseys",110219,22281,"Color",1
+"Apparel > Jerseys",110219,18787,"Gender",1
+"Apparel > Jerseys",110219,24435,"Sport",1
+"Apparel > Jerseys",110219,24834,"Team Issued",0
+"Apparel > Jerseys",110219,24837,"Clothing Style",0
+"Apparel > Jerseys",110219,24115,"Jersey Type",0
+"Apparel > Jerseys",110219,18797,"Condition",1
+"Apparel > Other",110230,18785,"Size",1
+"Apparel > Other",110230,18786,"Brand",1
+"Apparel > Other",110230,23041,"Age Group",1
+"Apparel > Other",110230,22281,"Color",1
+"Apparel > Other",110230,18787,"Gender",1
+"Apparel > Other",110230,24435,"Sport",1
+"Apparel > Other",110230,24834,"Team Issued",0
+"Apparel > Other",110230,24837,"Clothing Style",0
+"Apparel > Other",110230,18797,"Condition",1
+"Apparel > Pants",110221,18785,"Size",1
+"Apparel > Pants",110221,18786,"Brand",1
+"Apparel > Pants",110221,23041,"Age Group",1
+"Apparel > Pants",110221,22281,"Color",1
+"Apparel > Pants",110221,18787,"Gender",1
+"Apparel > Pants",110221,24435,"Sport",1
+"Apparel > Pants",110221,24834,"Team Issued",0
+"Apparel > Pants",110221,24837,"Clothing Style",0
+"Apparel > Pants",110221,24803,"Pant Type",0
+"Apparel > Pants",110221,18797,"Condition",1
+"Apparel > Shirts",110223,18785,"Size",1
+"Apparel > Shirts",110223,18786,"Brand",1
+"Apparel > Shirts",110223,23041,"Age Group",1
+"Apparel > Shirts",110223,22281,"Color",1
+"Apparel > Shirts",110223,18787,"Gender",1
+"Apparel > Shirts",110223,24435,"Sport",1
+"Apparel > Shirts",110223,24834,"Team Issued",0
+"Apparel > Shirts",110223,24837,"Clothing Style",0
+"Apparel > Shirts",110223,24132,"Shirt Type",0
+"Apparel > Shirts",110223,24869,"Sleeve Length",0
+"Apparel > Shirts",110223,18797,"Condition",1
+"Apparel > Shorts",110222,18785,"Size",1
+"Apparel > Shorts",110222,18786,"Brand",1
+"Apparel > Shorts",110222,23041,"Age Group",1
+"Apparel > Shorts",110222,22281,"Color",1
+"Apparel > Shorts",110222,18787,"Gender",1
+"Apparel > Shorts",110222,24435,"Sport",1
+"Apparel > Shorts",110222,24834,"Team Issued",0
+"Apparel > Shorts",110222,24837,"Clothing Style",0
+"Apparel > Shorts",110222,24799,"Short Type",0
+"Apparel > Shorts",110222,24873,"Length",0
+"Apparel > Shorts",110222,18797,"Condition",1
+"Apparel > Socks",110228,18785,"Size",1
+"Apparel > Socks",110228,18786,"Brand",1
+"Apparel > Socks",110228,23041,"Age Group",1
+"Apparel > Socks",110228,22281,"Color",1
+"Apparel > Socks",110228,18787,"Gender",1
+"Apparel > Socks",110228,24435,"Sport",1
+"Apparel > Socks",110228,24848,"Number of Pairs",0
+"Apparel > Socks",110228,24873,"Length",0
+"Apparel > Socks",110228,18797,"Condition",1
+"Apparel > Sunglasses",110229,18786,"Brand",1
+"Apparel > Sunglasses",110229,22281,"Color",1
+"Apparel > Sunglasses",110229,18787,"Gender",1
+"Apparel > Sunglasses",110229,24435,"Sport",1
+"Apparel > Sunglasses",110229,18785,"Size",1
+"Apparel > Sunglasses",110229,23041,"Age Group",1
+"Apparel > Sunglasses",110229,24841,"Lens Type",0
+"Apparel > Sunglasses",110229,18797,"Condition",1
+"Apparel > Sweatshirts & Hoodies",110227,18785,"Size",1
+"Apparel > Sweatshirts & Hoodies",110227,18786,"Brand",1
+"Apparel > Sweatshirts & Hoodies",110227,23041,"Age Group",1
+"Apparel > Sweatshirts & Hoodies",110227,22281,"Color",1
+"Apparel > Sweatshirts & Hoodies",110227,18787,"Gender",1
+"Apparel > Sweatshirts & Hoodies",110227,24435,"Sport",1
+"Apparel > Sweatshirts & Hoodies",110227,24834,"Team Issued",0
+"Apparel > Sweatshirts & Hoodies",110227,24837,"Clothing Style",0
+"Apparel > Sweatshirts & Hoodies",110227,24811,"Type",0
+"Apparel > Sweatshirts & Hoodies",110227,24844,"Hooded",0
+"Apparel > Sweatshirts & Hoodies",110227,18797,"Condition",1
+"Apparel > Swimsuits",110615,18785,"Size",1
+"Apparel > Swimsuits",110615,23041,"Age Group",1
+"Apparel > Swimsuits",110615,22281,"Color",1
+"Apparel > Swimsuits",110615,18787,"Gender",1
+"Apparel > Swimsuits",110615,18786,"Brand",1
+"Apparel > Swimsuits",110615,18797,"Condition",1
+"Apparel > Vests",110240,18785,"Size",1
+"Apparel > Vests",110240,18786,"Brand",1
+"Apparel > Vests",110240,23041,"Age Group",1
+"Apparel > Vests",110240,22281,"Color",1
+"Apparel > Vests",110240,18787,"Gender",1
+"Apparel > Vests",110240,24435,"Sport",1
+"Apparel > Vests",110240,24834,"Team Issued",0
+"Apparel > Vests",110240,24837,"Clothing Style",0
+"Apparel > Vests",110240,24811,"Type",0
+"Apparel > Vests",110240,18797,"Condition",1
+"Apparel > Winter Gloves",110226,18785,"Size",1
+"Apparel > Winter Gloves",110226,18786,"Brand",1
+"Apparel > Winter Gloves",110226,23041,"Age Group",1
+"Apparel > Winter Gloves",110226,22281,"Color",1
+"Apparel > Winter Gloves",110226,18787,"Gender",1
+"Apparel > Winter Gloves",110226,24435,"Sport",1
+"Apparel > Winter Gloves",110226,18797,"Condition",1
+"Baseball > Accessories & Other > Glove Care",110374,18786,"Brand",1
+"Baseball > Accessories & Other > Glove Care",110374,18797,"Condition",1
+"Baseball > Accessories & Other > Hitting Accessories",110375,18786,"Brand",1
+"Baseball > Accessories & Other > Hitting Accessories",110375,18797,"Condition",1
+"Baseball > Accessories & Other > Other",110062,18786,"Brand",1
+"Baseball > Accessories & Other > Other",110062,18797,"Condition",1
+"Baseball > Accessories & Other > Sunglasses",110064,18785,"Size",1
+"Baseball > Accessories & Other > Sunglasses",110064,18786,"Brand",1
+"Baseball > Accessories & Other > Sunglasses",110064,18787,"Gender",0
+"Baseball > Accessories & Other > Sunglasses",110064,23041,"Age Group",1
+"Baseball > Accessories & Other > Sunglasses",110064,22281,"Color",0
+"Baseball > Accessories & Other > Sunglasses",110064,24841,"Lens Type",0
+"Baseball > Accessories & Other > Sunglasses",110064,18797,"Condition",1
+"Baseball > Accessories & Other > Tape",110373,18786,"Brand",1
+"Baseball > Accessories & Other > Tape",110373,18797,"Condition",1
+"Baseball > Apparel & Jerseys > Compression & Base Layers",110366,18787,"Gender",1
+"Baseball > Apparel & Jerseys > Compression & Base Layers",110366,18785,"Size",1
+"Baseball > Apparel & Jerseys > Compression & Base Layers",110366,18786,"Brand",1
+"Baseball > Apparel & Jerseys > Compression & Base Layers",110366,23041,"Age Group",1
+"Baseball > Apparel & Jerseys > Compression & Base Layers",110366,22281,"Color",1
+"Baseball > Apparel & Jerseys > Compression & Base Layers",110366,24834,"Team Issued",0
+"Baseball > Apparel & Jerseys > Compression & Base Layers",110366,24817,"Compression Type",0
+"Baseball > Apparel & Jerseys > Compression & Base Layers",110366,24853,"Compression Use",0
+"Baseball > Apparel & Jerseys > Compression & Base Layers",110366,18797,"Condition",1
+"Baseball > Apparel & Jerseys > Hats",110056,18785,"Size",1
+"Baseball > Apparel & Jerseys > Hats",110056,18786,"Brand",1
+"Baseball > Apparel & Jerseys > Hats",110056,22281,"Color",1
+"Baseball > Apparel & Jerseys > Hats",110056,23041,"Age Group",1
+"Baseball > Apparel & Jerseys > Hats",110056,18787,"Gender",1
+"Baseball > Apparel & Jerseys > Hats",110056,24837,"Clothing Style",0
+"Baseball > Apparel & Jerseys > Hats",110056,24826,"Hat Type",0
+"Baseball > Apparel & Jerseys > Hats",110056,24834,"Team Issued",0
+"Baseball > Apparel & Jerseys > Hats",110056,18797,"Condition",1
+"Baseball > Apparel & Jerseys > Jackets & Coats",110363,18786,"Brand",1
+"Baseball > Apparel & Jerseys > Jackets & Coats",110363,18787,"Gender",1
+"Baseball > Apparel & Jerseys > Jackets & Coats",110363,18785,"Size",1
+"Baseball > Apparel & Jerseys > Jackets & Coats",110363,22281,"Color",1
+"Baseball > Apparel & Jerseys > Jackets & Coats",110363,23041,"Age Group",1
+"Baseball > Apparel & Jerseys > Jackets & Coats",110363,24834,"Team Issued",0
+"Baseball > Apparel & Jerseys > Jackets & Coats",110363,24837,"Clothing Style",0
+"Baseball > Apparel & Jerseys > Jackets & Coats",110363,24844,"Hooded",0
+"Baseball > Apparel & Jerseys > Jackets & Coats",110363,24859,"Liner",0
+"Baseball > Apparel & Jerseys > Jackets & Coats",110363,24821,"Jacket Type",0
+"Baseball > Apparel & Jerseys > Jackets & Coats",110363,18797,"Condition",1
+"Baseball > Apparel & Jerseys > Jerseys",110180,18786,"Brand",1
+"Baseball > Apparel & Jerseys > Jerseys",110180,18787,"Gender",1
+"Baseball > Apparel & Jerseys > Jerseys",110180,18785,"Size",1
+"Baseball > Apparel & Jerseys > Jerseys",110180,23041,"Age Group",1
+"Baseball > Apparel & Jerseys > Jerseys",110180,22281,"Color",1
+"Baseball > Apparel & Jerseys > Jerseys",110180,24834,"Team Issued",0
+"Baseball > Apparel & Jerseys > Jerseys",110180,24837,"Clothing Style",0
+"Baseball > Apparel & Jerseys > Jerseys",110180,24115,"Jersey Type",0
+"Baseball > Apparel & Jerseys > Jerseys",110180,18797,"Condition",1
+"Baseball > Apparel & Jerseys > Other",110386,18786,"Brand",1
+"Baseball > Apparel & Jerseys > Other",110386,18787,"Gender",1
+"Baseball > Apparel & Jerseys > Other",110386,18785,"Size",1
+"Baseball > Apparel & Jerseys > Other",110386,23041,"Age Group",1
+"Baseball > Apparel & Jerseys > Other",110386,22281,"Color",1
+"Baseball > Apparel & Jerseys > Other",110386,24834,"Team Issued",0
+"Baseball > Apparel & Jerseys > Other",110386,24837,"Clothing Style",0
+"Baseball > Apparel & Jerseys > Other",110386,18797,"Condition",1
+"Baseball > Apparel & Jerseys > Pants",110369,18787,"Gender",1
+"Baseball > Apparel & Jerseys > Pants",110369,18785,"Size",1
+"Baseball > Apparel & Jerseys > Pants",110369,18786,"Brand",1
+"Baseball > Apparel & Jerseys > Pants",110369,23041,"Age Group",1
+"Baseball > Apparel & Jerseys > Pants",110369,22281,"Color",1
+"Baseball > Apparel & Jerseys > Pants",110369,24834,"Team Issued",0
+"Baseball > Apparel & Jerseys > Pants",110369,24837,"Clothing Style",0
+"Baseball > Apparel & Jerseys > Pants",110369,24803,"Pant Type",0
+"Baseball > Apparel & Jerseys > Pants",110369,18797,"Condition",1
+"Baseball > Apparel & Jerseys > Shirts",110367,18787,"Gender",1
+"Baseball > Apparel & Jerseys > Shirts",110367,18785,"Size",1
+"Baseball > Apparel & Jerseys > Shirts",110367,18786,"Brand",1
+"Baseball > Apparel & Jerseys > Shirts",110367,23041,"Age Group",1
+"Baseball > Apparel & Jerseys > Shirts",110367,22281,"Color",1
+"Baseball > Apparel & Jerseys > Shirts",110367,24834,"Team Issued",0
+"Baseball > Apparel & Jerseys > Shirts",110367,24837,"Clothing Style",0
+"Baseball > Apparel & Jerseys > Shirts",110367,24132,"Shirt Type",0
+"Baseball > Apparel & Jerseys > Shirts",110367,24869,"Sleeve Length",0
+"Baseball > Apparel & Jerseys > Shirts",110367,18797,"Condition",1
+"Baseball > Apparel & Jerseys > Shorts",110368,18787,"Gender",1
+"Baseball > Apparel & Jerseys > Shorts",110368,18785,"Size",1
+"Baseball > Apparel & Jerseys > Shorts",110368,18786,"Brand",1
+"Baseball > Apparel & Jerseys > Shorts",110368,23041,"Age Group",1
+"Baseball > Apparel & Jerseys > Shorts",110368,22281,"Color",1
+"Baseball > Apparel & Jerseys > Shorts",110368,24834,"Team Issued",0
+"Baseball > Apparel & Jerseys > Shorts",110368,24837,"Clothing Style",0
+"Baseball > Apparel & Jerseys > Shorts",110368,24799,"Short Type",0
+"Baseball > Apparel & Jerseys > Shorts",110368,24873,"Length",0
+"Baseball > Apparel & Jerseys > Shorts",110368,18797,"Condition",1
+"Baseball > Apparel & Jerseys > Sweatshirts & Hoodies",110364,18786,"Brand",1
+"Baseball > Apparel & Jerseys > Sweatshirts & Hoodies",110364,18787,"Gender",1
+"Baseball > Apparel & Jerseys > Sweatshirts & Hoodies",110364,18785,"Size",1
+"Baseball > Apparel & Jerseys > Sweatshirts & Hoodies",110364,23041,"Age Group",1
+"Baseball > Apparel & Jerseys > Sweatshirts & Hoodies",110364,22281,"Color",1
+"Baseball > Apparel & Jerseys > Sweatshirts & Hoodies",110364,24834,"Team Issued",0
+"Baseball > Apparel & Jerseys > Sweatshirts & Hoodies",110364,24837,"Clothing Style",0
+"Baseball > Apparel & Jerseys > Sweatshirts & Hoodies",110364,24811,"Type",0
+"Baseball > Apparel & Jerseys > Sweatshirts & Hoodies",110364,24844,"Hooded",0
+"Baseball > Apparel & Jerseys > Sweatshirts & Hoodies",110364,18797,"Condition",1
+"Baseball > Bags & Batpacks",110061,18786,"Brand",1
+"Baseball > Bags & Batpacks",110061,22281,"Color",0
+"Baseball > Bags & Batpacks",110061,23961,"Bag Type",0
+"Baseball > Bags & Batpacks",110061,18797,"Condition",1
+"Baseball > Baseballs",110177,18786,"Brand",1
+"Baseball > Baseballs",110177,24679,"Number of Balls",0
+"Baseball > Baseballs",110177,18797,"Condition",1
+"Baseball > Bats",110053,23041,"Age Group",0
+"Baseball > Bats",110053,23337,"Bat Certification",0
+"Baseball > Bats",110053,18789,"Length",1
+"Baseball > Bats",110053,18795,"Barrel",0
+"Baseball > Bats",110053,23034,"Bat Material",0
+"Baseball > Bats",110053,18790,"Drop",0
+"Baseball > Bats",110053,24203,"Weight",0
+"Baseball > Bats",110053,23258,"Year",0
+"Baseball > Bats",110053,18786,"Brand",1
+"Baseball > Bats",110053,18797,"Condition",1
+"Baseball > Batter's Protection > Batter's Leg, Arm & Wrist Guards",110370,18785,"Size",0
+"Baseball > Batter's Protection > Batter's Leg, Arm & Wrist Guards",110370,24530,"Type",1
+"Baseball > Batter's Protection > Batter's Leg, Arm & Wrist Guards",110370,18786,"Brand",1
+"Baseball > Batter's Protection > Batter's Leg, Arm & Wrist Guards",110370,18797,"Condition",1
+"Baseball > Batter's Protection > Batting Helmets",110057,18786,"Brand",1
+"Baseball > Batter's Protection > Batting Helmets",110057,22281,"Color",0
+"Baseball > Batter's Protection > Batting Helmets",110057,18785,"Size",1
+"Baseball > Batter's Protection > Batting Helmets",110057,18797,"Condition",1
+"Baseball > Batting Gloves",110063,18785,"Size",1
+"Baseball > Batting Gloves",110063,18786,"Brand",1
+"Baseball > Batting Gloves",110063,22281,"Color",0
+"Baseball > Batting Gloves",110063,18797,"Condition",1
+"Baseball > Catcher's Equipment > Catcher's Chest Protectors",110059,23041,"Age Group",0
+"Baseball > Catcher's Equipment > Catcher's Chest Protectors",110059,18786,"Brand",1
+"Baseball > Catcher's Equipment > Catcher's Chest Protectors",110059,22281,"Color",0
+"Baseball > Catcher's Equipment > Catcher's Chest Protectors",110059,24015,"Size",0
+"Baseball > Catcher's Equipment > Catcher's Chest Protectors",110059,18797,"Condition",1
+"Baseball > Catcher's Equipment > Catcher's Gloves",110385,23041,"Age Group",0
+"Baseball > Catcher's Equipment > Catcher's Gloves",110385,23189,"Size",1
+"Baseball > Catcher's Equipment > Catcher's Gloves",110385,18786,"Brand",1
+"Baseball > Catcher's Equipment > Catcher's Gloves",110385,23048,"Throwing Hand",1
+"Baseball > Catcher's Equipment > Catcher's Gloves",110385,18797,"Condition",1
+"Baseball > Catcher's Equipment > Catcher's Headgear",110383,23041,"Age Group",0
+"Baseball > Catcher's Equipment > Catcher's Headgear",110383,18786,"Brand",1
+"Baseball > Catcher's Equipment > Catcher's Headgear",110383,18797,"Condition",1
+"Baseball > Catcher's Equipment > Catcher's Leg Guards",110377,23041,"Age Group",0
+"Baseball > Catcher's Equipment > Catcher's Leg Guards",110377,24015,"Size",0
+"Baseball > Catcher's Equipment > Catcher's Leg Guards",110377,18786,"Brand",1
+"Baseball > Catcher's Equipment > Catcher's Leg Guards",110377,22281,"Color",0
+"Baseball > Catcher's Equipment > Catcher's Leg Guards",110377,18797,"Condition",1
+"Baseball > Catcher's Equipment > Catcher's Sets",110384,23041,"Age Group",0
+"Baseball > Catcher's Equipment > Catcher's Sets",110384,18786,"Brand",1
+"Baseball > Catcher's Equipment > Catcher's Sets",110384,18797,"Condition",1
+"Baseball > Footwear",110055,23041,"Age Group",0
+"Baseball > Footwear",110055,23850,"Type",0
+"Baseball > Footwear",110055,18785,"Size",1
+"Baseball > Footwear",110055,18786,"Brand",1
+"Baseball > Footwear",110055,22281,"Color",0
+"Baseball > Footwear",110055,18787,"Gender",0
+"Baseball > Footwear",110055,23864,"Cleat Height",0
+"Baseball > Footwear",110055,18797,"Condition",1
+"Baseball > Gloves & Mitts",110054,23041,"Age Group",0
+"Baseball > Gloves & Mitts",110054,23048,"Throwing Hand",1
+"Baseball > Gloves & Mitts",110054,23189,"Size",1
+"Baseball > Gloves & Mitts",110054,18786,"Brand",1
+"Baseball > Gloves & Mitts",110054,22281,"Color",0
+"Baseball > Gloves & Mitts",110054,18794,"Position",0
+"Baseball > Gloves & Mitts",110054,18797,"Condition",1
+"Baseball > Training & Field > Bases, Mounds & Mats",110381,18786,"Brand",1
+"Baseball > Training & Field > Bases, Mounds & Mats",110381,18797,"Condition",1
+"Baseball > Training & Field > Batting",110379,18786,"Brand",1
+"Baseball > Training & Field > Batting",110379,18797,"Condition",1
+"Baseball > Training & Field > Field Maintenance",110378,18786,"Brand",1
+"Baseball > Training & Field > Field Maintenance",110378,18797,"Condition",1
+"Baseball > Training & Field > Nets & Screens",110382,18786,"Brand",1
+"Baseball > Training & Field > Nets & Screens",110382,18797,"Condition",1
+"Baseball > Training & Field > Pitching",110380,18786,"Brand",1
+"Baseball > Training & Field > Pitching",110380,18797,"Condition",1
+"Basketball > Apparel & Jerseys > Compression & Base Layers",110500,18786,"Brand",1
+"Basketball > Apparel & Jerseys > Compression & Base Layers",110500,18785,"Size",1
+"Basketball > Apparel & Jerseys > Compression & Base Layers",110500,22281,"Color",1
+"Basketball > Apparel & Jerseys > Compression & Base Layers",110500,18787,"Gender",1
+"Basketball > Apparel & Jerseys > Compression & Base Layers",110500,23041,"Age Group",1
+"Basketball > Apparel & Jerseys > Compression & Base Layers",110500,24834,"Team Issued",0
+"Basketball > Apparel & Jerseys > Compression & Base Layers",110500,24817,"Compression Type",0
+"Basketball > Apparel & Jerseys > Compression & Base Layers",110500,24853,"Compression Use",0
+"Basketball > Apparel & Jerseys > Compression & Base Layers",110500,18797,"Condition",1
+"Basketball > Apparel & Jerseys > Hats",110100,18785,"Size",1
+"Basketball > Apparel & Jerseys > Hats",110100,18786,"Brand",1
+"Basketball > Apparel & Jerseys > Hats",110100,22281,"Color",1
+"Basketball > Apparel & Jerseys > Hats",110100,18787,"Gender",1
+"Basketball > Apparel & Jerseys > Hats",110100,23041,"Age Group",1
+"Basketball > Apparel & Jerseys > Hats",110100,24837,"Clothing Style",0
+"Basketball > Apparel & Jerseys > Hats",110100,24826,"Hat Type",0
+"Basketball > Apparel & Jerseys > Hats",110100,24834,"Team Issued",0
+"Basketball > Apparel & Jerseys > Hats",110100,18797,"Condition",1
+"Basketball > Apparel & Jerseys > Jerseys",110102,18785,"Size",1
+"Basketball > Apparel & Jerseys > Jerseys",110102,18786,"Brand",1
+"Basketball > Apparel & Jerseys > Jerseys",110102,22281,"Color",1
+"Basketball > Apparel & Jerseys > Jerseys",110102,18787,"Gender",1
+"Basketball > Apparel & Jerseys > Jerseys",110102,23041,"Age Group",1
+"Basketball > Apparel & Jerseys > Jerseys",110102,24834,"Team Issued",0
+"Basketball > Apparel & Jerseys > Jerseys",110102,24837,"Clothing Style",0
+"Basketball > Apparel & Jerseys > Jerseys",110102,24115,"Jersey Type",0
+"Basketball > Apparel & Jerseys > Jerseys",110102,18797,"Condition",1
+"Basketball > Apparel & Jerseys > Pants",110499,18786,"Brand",1
+"Basketball > Apparel & Jerseys > Pants",110499,18785,"Size",1
+"Basketball > Apparel & Jerseys > Pants",110499,22281,"Color",1
+"Basketball > Apparel & Jerseys > Pants",110499,18787,"Gender",1
+"Basketball > Apparel & Jerseys > Pants",110499,23041,"Age Group",1
+"Basketball > Apparel & Jerseys > Pants",110499,24834,"Team Issued",0
+"Basketball > Apparel & Jerseys > Pants",110499,24837,"Clothing Style",0
+"Basketball > Apparel & Jerseys > Pants",110499,24803,"Pant Type",0
+"Basketball > Apparel & Jerseys > Pants",110499,18797,"Condition",1
+"Basketball > Apparel & Jerseys > Shirts",110502,18786,"Brand",1
+"Basketball > Apparel & Jerseys > Shirts",110502,18785,"Size",1
+"Basketball > Apparel & Jerseys > Shirts",110502,22281,"Color",1
+"Basketball > Apparel & Jerseys > Shirts",110502,18787,"Gender",1
+"Basketball > Apparel & Jerseys > Shirts",110502,23041,"Age Group",1
+"Basketball > Apparel & Jerseys > Shirts",110502,24834,"Team Issued",0
+"Basketball > Apparel & Jerseys > Shirts",110502,24837,"Clothing Style",0
+"Basketball > Apparel & Jerseys > Shirts",110502,24132,"Shirt Type",0
+"Basketball > Apparel & Jerseys > Shirts",110502,24869,"Sleeve Length",0
+"Basketball > Apparel & Jerseys > Shirts",110502,18797,"Condition",1
+"Basketball > Apparel & Jerseys > Shorts",110498,18786,"Brand",1
+"Basketball > Apparel & Jerseys > Shorts",110498,18785,"Size",1
+"Basketball > Apparel & Jerseys > Shorts",110498,22281,"Color",1
+"Basketball > Apparel & Jerseys > Shorts",110498,18787,"Gender",1
+"Basketball > Apparel & Jerseys > Shorts",110498,23041,"Age Group",1
+"Basketball > Apparel & Jerseys > Shorts",110498,24834,"Team Issued",0
+"Basketball > Apparel & Jerseys > Shorts",110498,24837,"Clothing Style",0
+"Basketball > Apparel & Jerseys > Shorts",110498,24799,"Short Type",0
+"Basketball > Apparel & Jerseys > Shorts",110498,24873,"Length",0
+"Basketball > Apparel & Jerseys > Shorts",110498,18797,"Condition",1
+"Basketball > Apparel & Jerseys > Socks",110501,18786,"Brand",1
+"Basketball > Apparel & Jerseys > Socks",110501,18785,"Size",1
+"Basketball > Apparel & Jerseys > Socks",110501,22281,"Color",1
+"Basketball > Apparel & Jerseys > Socks",110501,18787,"Gender",1
+"Basketball > Apparel & Jerseys > Socks",110501,23041,"Age Group",1
+"Basketball > Apparel & Jerseys > Socks",110501,24848,"Number of Pairs",0
+"Basketball > Apparel & Jerseys > Socks",110501,24873,"Length",0
+"Basketball > Apparel & Jerseys > Socks",110501,18797,"Condition",1
+"Basketball > Apparel & Jerseys > Sweatshirts & Hoodies",110503,18786,"Brand",1
+"Basketball > Apparel & Jerseys > Sweatshirts & Hoodies",110503,18785,"Size",1
+"Basketball > Apparel & Jerseys > Sweatshirts & Hoodies",110503,22281,"Color",1
+"Basketball > Apparel & Jerseys > Sweatshirts & Hoodies",110503,18787,"Gender",1
+"Basketball > Apparel & Jerseys > Sweatshirts & Hoodies",110503,23041,"Age Group",1
+"Basketball > Apparel & Jerseys > Sweatshirts & Hoodies",110503,24834,"Team Issued",0
+"Basketball > Apparel & Jerseys > Sweatshirts & Hoodies",110503,24837,"Clothing Style",0
+"Basketball > Apparel & Jerseys > Sweatshirts & Hoodies",110503,24811,"Type",0
+"Basketball > Apparel & Jerseys > Sweatshirts & Hoodies",110503,24844,"Hooded",0
+"Basketball > Apparel & Jerseys > Sweatshirts & Hoodies",110503,18797,"Condition",1
+"Basketball > Basketballs",110103,18786,"Brand",1
+"Basketball > Basketballs",110103,22281,"Color",0
+"Basketball > Basketballs",110103,18787,"Gender",0
+"Basketball > Basketballs",110103,18797,"Condition",1
+"Basketball > Court > Ball Racks & Storage",110512,18786,"Brand",1
+"Basketball > Court > Ball Racks & Storage",110512,18797,"Condition",1
+"Basketball > Court > Court Markings & Grip",110510,18786,"Brand",1
+"Basketball > Court > Court Markings & Grip",110510,18797,"Condition",1
+"Basketball > Court > Mounting Kits & Accessories",110513,18786,"Brand",1
+"Basketball > Court > Mounting Kits & Accessories",110513,18797,"Condition",1
+"Basketball > Court > Pole & Backboard Pads",110514,18786,"Brand",1
+"Basketball > Court > Pole & Backboard Pads",110514,18797,"Condition",1
+"Basketball > Court > Rims",110508,18786,"Brand",1
+"Basketball > Court > Rims",110508,18797,"Condition",1
+"Basketball > Court > Scoreboards & Clipboards",110511,18786,"Brand",1
+"Basketball > Court > Scoreboards & Clipboards",110511,18797,"Condition",1
+"Basketball > Shoes",110101,18785,"Size",1
+"Basketball > Shoes",110101,18786,"Brand",1
+"Basketball > Shoes",110101,22281,"Color",0
+"Basketball > Shoes",110101,18787,"Gender",0
+"Basketball > Shoes",110101,18797,"Condition",1
+"Basketball > Training, Accessories & Other > Ball Returns & Rebounding Nets",110507,18786,"Brand",1
+"Basketball > Training, Accessories & Other > Ball Returns & Rebounding Nets",110507,18797,"Condition",1
+"Basketball > Training, Accessories & Other > Other",110104,22281,"Color",0
+"Basketball > Training, Accessories & Other > Other",110104,18786,"Brand",1
+"Basketball > Training, Accessories & Other > Other",110104,18787,"Gender",0
+"Basketball > Training, Accessories & Other > Other",110104,18797,"Condition",1
+"Basketball > Training, Accessories & Other > Training",110505,18786,"Brand",1
+"Basketball > Training, Accessories & Other > Training",110505,18797,"Condition",1
+"Basketball > Training, Accessories & Other > Water Bottles",110506,18786,"Brand",1
+"Basketball > Training, Accessories & Other > Water Bottles",110506,18797,"Condition",1
+"Bikes > Apparel > Jackets & Coats",110529,18786,"Brand",1
+"Bikes > Apparel > Jackets & Coats",110529,18785,"Size",1
+"Bikes > Apparel > Jackets & Coats",110529,23041,"Age Group",1
+"Bikes > Apparel > Jackets & Coats",110529,18787,"Gender",1
+"Bikes > Apparel > Jackets & Coats",110529,22281,"Color",1
+"Bikes > Apparel > Jackets & Coats",110529,24834,"Team Issued",0
+"Bikes > Apparel > Jackets & Coats",110529,24837,"Clothing Style",0
+"Bikes > Apparel > Jackets & Coats",110529,24844,"Hooded",0
+"Bikes > Apparel > Jackets & Coats",110529,24859,"Liner",0
+"Bikes > Apparel > Jackets & Coats",110529,24821,"Jacket Type",0
+"Bikes > Apparel > Jackets & Coats",110529,18797,"Condition",1
+"Bikes > Apparel > Jerseys",110126,18786,"Brand",1
+"Bikes > Apparel > Jerseys",110126,18785,"Size",1
+"Bikes > Apparel > Jerseys",110126,18787,"Gender",1
+"Bikes > Apparel > Jerseys",110126,23041,"Age Group",1
+"Bikes > Apparel > Jerseys",110126,22281,"Color",1
+"Bikes > Apparel > Jerseys",110126,24834,"Team Issued",0
+"Bikes > Apparel > Jerseys",110126,24837,"Clothing Style",0
+"Bikes > Apparel > Jerseys",110126,24115,"Jersey Type",0
+"Bikes > Apparel > Jerseys",110126,18797,"Condition",1
+"Bikes > Apparel > Other",110573,18786,"Brand",1
+"Bikes > Apparel > Other",110573,18785,"Size",1
+"Bikes > Apparel > Other",110573,23041,"Age Group",1
+"Bikes > Apparel > Other",110573,18787,"Gender",1
+"Bikes > Apparel > Other",110573,22281,"Color",1
+"Bikes > Apparel > Other",110573,24834,"Team Issued",0
+"Bikes > Apparel > Other",110573,24837,"Clothing Style",0
+"Bikes > Apparel > Other",110573,18797,"Condition",1
+"Bikes > Apparel > Pants",110536,18786,"Brand",1
+"Bikes > Apparel > Pants",110536,18785,"Size",1
+"Bikes > Apparel > Pants",110536,23041,"Age Group",1
+"Bikes > Apparel > Pants",110536,18787,"Gender",1
+"Bikes > Apparel > Pants",110536,22281,"Color",1
+"Bikes > Apparel > Pants",110536,24834,"Team Issued",0
+"Bikes > Apparel > Pants",110536,24837,"Clothing Style",0
+"Bikes > Apparel > Pants",110536,18797,"Condition",1
+"Bikes > Apparel > Shirts",110532,18786,"Brand",1
+"Bikes > Apparel > Shirts",110532,18785,"Size",1
+"Bikes > Apparel > Shirts",110532,23041,"Age Group",1
+"Bikes > Apparel > Shirts",110532,18787,"Gender",1
+"Bikes > Apparel > Shirts",110532,22281,"Color",1
+"Bikes > Apparel > Shirts",110532,24834,"Team Issued",0
+"Bikes > Apparel > Shirts",110532,24837,"Clothing Style",0
+"Bikes > Apparel > Shirts",110532,24132,"Shirt Type",0
+"Bikes > Apparel > Shirts",110532,24869,"Sleeve Length",0
+"Bikes > Apparel > Shirts",110532,18797,"Condition",1
+"Bikes > Apparel > Shorts",110530,18786,"Brand",1
+"Bikes > Apparel > Shorts",110530,18785,"Size",1
+"Bikes > Apparel > Shorts",110530,23041,"Age Group",1
+"Bikes > Apparel > Shorts",110530,18787,"Gender",1
+"Bikes > Apparel > Shorts",110530,22281,"Color",1
+"Bikes > Apparel > Shorts",110530,24834,"Team Issued",0
+"Bikes > Apparel > Shorts",110530,24837,"Clothing Style",0
+"Bikes > Apparel > Shorts",110530,24799,"Short Type",0
+"Bikes > Apparel > Shorts",110530,24873,"Length",0
+"Bikes > Apparel > Shorts",110530,18797,"Condition",1
+"Bikes > Apparel > Socks",110535,18786,"Brand",1
+"Bikes > Apparel > Socks",110535,18785,"Size",1
+"Bikes > Apparel > Socks",110535,23041,"Age Group",1
+"Bikes > Apparel > Socks",110535,18787,"Gender",1
+"Bikes > Apparel > Socks",110535,22281,"Color",1
+"Bikes > Apparel > Socks",110535,24848,"Number of Pairs",0
+"Bikes > Apparel > Socks",110535,24873,"Length",0
+"Bikes > Apparel > Socks",110535,18797,"Condition",1
+"Bikes > Apparel > Sweatshirts & Hoodies",110540,18786,"Brand",1
+"Bikes > Apparel > Sweatshirts & Hoodies",110540,18785,"Size",1
+"Bikes > Apparel > Sweatshirts & Hoodies",110540,23041,"Age Group",1
+"Bikes > Apparel > Sweatshirts & Hoodies",110540,18787,"Gender",1
+"Bikes > Apparel > Sweatshirts & Hoodies",110540,22281,"Color",1
+"Bikes > Apparel > Sweatshirts & Hoodies",110540,24834,"Team Issued",0
+"Bikes > Apparel > Sweatshirts & Hoodies",110540,24837,"Clothing Style",0
+"Bikes > Apparel > Sweatshirts & Hoodies",110540,24811,"Type",0
+"Bikes > Apparel > Sweatshirts & Hoodies",110540,24844,"Hooded",0
+"Bikes > Apparel > Sweatshirts & Hoodies",110540,18797,"Condition",1
+"Bikes > Bags & Packs > Backpacks",110546,18786,"Brand",1
+"Bikes > Bags & Packs > Backpacks",110546,24078,"Capacity (Liters)",0
+"Bikes > Bags & Packs > Backpacks",110546,18797,"Condition",1
+"Bikes > Bags & Packs > Handlebar Bags, Saddle Bags & Panniers",110129,18786,"Brand",1
+"Bikes > Bags & Packs > Handlebar Bags, Saddle Bags & Panniers",110129,18797,"Condition",1
+"Bikes > Complete Bikes > All Mountain & Enduro Bikes",110558,23402,"Wheel Size",0
+"Bikes > Complete Bikes > All Mountain & Enduro Bikes",110558,22998,"Frame Size",0
+"Bikes > Complete Bikes > All Mountain & Enduro Bikes",110558,23417,"Suspension",0
+"Bikes > Complete Bikes > All Mountain & Enduro Bikes",110558,18786,"Brand",1
+"Bikes > Complete Bikes > All Mountain & Enduro Bikes",110558,23258,"Year",0
+"Bikes > Complete Bikes > All Mountain & Enduro Bikes",110558,23517,"Brake Type",0
+"Bikes > Complete Bikes > All Mountain & Enduro Bikes",110558,18787,"Gender",0
+"Bikes > Complete Bikes > All Mountain & Enduro Bikes",110558,18797,"Condition",1
+"Bikes > Complete Bikes > BMX Bikes",110552,23402,"Wheel Size",0
+"Bikes > Complete Bikes > BMX Bikes",110552,22998,"Frame Size",0
+"Bikes > Complete Bikes > BMX Bikes",110552,18786,"Brand",1
+"Bikes > Complete Bikes > BMX Bikes",110552,23258,"Year",0
+"Bikes > Complete Bikes > BMX Bikes",110552,23517,"Brake Type",0
+"Bikes > Complete Bikes > BMX Bikes",110552,18787,"Gender",0
+"Bikes > Complete Bikes > BMX Bikes",110552,18797,"Condition",1
+"Bikes > Complete Bikes > Cross Country (XC) Bikes",110556,23402,"Wheel Size",0
+"Bikes > Complete Bikes > Cross Country (XC) Bikes",110556,22998,"Frame Size",0
+"Bikes > Complete Bikes > Cross Country (XC) Bikes",110556,18786,"Brand",1
+"Bikes > Complete Bikes > Cross Country (XC) Bikes",110556,23258,"Year",0
+"Bikes > Complete Bikes > Cross Country (XC) Bikes",110556,23517,"Brake Type",0
+"Bikes > Complete Bikes > Cross Country (XC) Bikes",110556,18787,"Gender",0
+"Bikes > Complete Bikes > Cross Country (XC) Bikes",110556,23417,"Suspension",0
+"Bikes > Complete Bikes > Cross Country (XC) Bikes",110556,18797,"Condition",1
+"Bikes > Complete Bikes > Cyclocross Bikes",110553,23402,"Wheel Size",0
+"Bikes > Complete Bikes > Cyclocross Bikes",110553,22998,"Frame Size",0
+"Bikes > Complete Bikes > Cyclocross Bikes",110553,18786,"Brand",1
+"Bikes > Complete Bikes > Cyclocross Bikes",110553,23258,"Year",0
+"Bikes > Complete Bikes > Cyclocross Bikes",110553,23517,"Brake Type",0
+"Bikes > Complete Bikes > Cyclocross Bikes",110553,18787,"Gender",0
+"Bikes > Complete Bikes > Cyclocross Bikes",110553,18797,"Condition",1
+"Bikes > Complete Bikes > Dj, Street & Park Bikes",110550,23402,"Wheel Size",0
+"Bikes > Complete Bikes > Dj, Street & Park Bikes",110550,22998,"Frame Size",0
+"Bikes > Complete Bikes > Dj, Street & Park Bikes",110550,18786,"Brand",1
+"Bikes > Complete Bikes > Dj, Street & Park Bikes",110550,23258,"Year",0
+"Bikes > Complete Bikes > Dj, Street & Park Bikes",110550,23517,"Brake Type",0
+"Bikes > Complete Bikes > Dj, Street & Park Bikes",110550,18787,"Gender",0
+"Bikes > Complete Bikes > Dj, Street & Park Bikes",110550,18797,"Condition",1
+"Bikes > Complete Bikes > Downhill (DH) Bikes",110555,22998,"Frame Size",0
+"Bikes > Complete Bikes > Downhill (DH) Bikes",110555,18786,"Brand",1
+"Bikes > Complete Bikes > Downhill (DH) Bikes",110555,23402,"Wheel Size",1
+"Bikes > Complete Bikes > Downhill (DH) Bikes",110555,23258,"Year",0
+"Bikes > Complete Bikes > Downhill (DH) Bikes",110555,23517,"Brake Type",0
+"Bikes > Complete Bikes > Downhill (DH) Bikes",110555,18787,"Gender",0
+"Bikes > Complete Bikes > Downhill (DH) Bikes",110555,23417,"Suspension",0
+"Bikes > Complete Bikes > Downhill (DH) Bikes",110555,18797,"Condition",1
+"Bikes > Complete Bikes > E-Bikes",110548,23402,"Wheel Size",0
+"Bikes > Complete Bikes > E-Bikes",110548,22998,"Frame Size",0
+"Bikes > Complete Bikes > E-Bikes",110548,18786,"Brand",1
+"Bikes > Complete Bikes > E-Bikes",110548,23258,"Year",0
+"Bikes > Complete Bikes > E-Bikes",110548,23517,"Brake Type",0
+"Bikes > Complete Bikes > E-Bikes",110548,18787,"Gender",0
+"Bikes > Complete Bikes > E-Bikes",110548,18797,"Condition",1
+"Bikes > Complete Bikes > Fat Bikes",110551,23402,"Wheel Size",0
+"Bikes > Complete Bikes > Fat Bikes",110551,22998,"Frame Size",0
+"Bikes > Complete Bikes > Fat Bikes",110551,18786,"Brand",1
+"Bikes > Complete Bikes > Fat Bikes",110551,23258,"Year",0
+"Bikes > Complete Bikes > Fat Bikes",110551,23517,"Brake Type",0
+"Bikes > Complete Bikes > Fat Bikes",110551,18787,"Gender",0
+"Bikes > Complete Bikes > Fat Bikes",110551,18797,"Condition",1
+"Bikes > Complete Bikes > Other Bikes",110549,23402,"Wheel Size",0
+"Bikes > Complete Bikes > Other Bikes",110549,22998,"Frame Size",0
+"Bikes > Complete Bikes > Other Bikes",110549,18786,"Brand",1
+"Bikes > Complete Bikes > Other Bikes",110549,23258,"Year",0
+"Bikes > Complete Bikes > Other Bikes",110549,23517,"Brake Type",0
+"Bikes > Complete Bikes > Other Bikes",110549,18787,"Gender",0
+"Bikes > Complete Bikes > Other Bikes",110549,18797,"Condition",1
+"Bikes > Complete Bikes > Road Bikes",110138,23402,"Wheel Size",0
+"Bikes > Complete Bikes > Road Bikes",110138,22998,"Frame Size",0
+"Bikes > Complete Bikes > Road Bikes",110138,23258,"Year",0
+"Bikes > Complete Bikes > Road Bikes",110138,18786,"Brand",1
+"Bikes > Complete Bikes > Road Bikes",110138,23517,"Brake Type",0
+"Bikes > Complete Bikes > Road Bikes",110138,18787,"Gender",0
+"Bikes > Complete Bikes > Road Bikes",110138,18797,"Condition",1
+"Bikes > Complete Bikes > Triathlon Bikes",110557,23402,"Wheel Size",0
+"Bikes > Complete Bikes > Triathlon Bikes",110557,22998,"Frame Size",0
+"Bikes > Complete Bikes > Triathlon Bikes",110557,18786,"Brand",1
+"Bikes > Complete Bikes > Triathlon Bikes",110557,23258,"Year",0
+"Bikes > Complete Bikes > Triathlon Bikes",110557,23517,"Brake Type",0
+"Bikes > Complete Bikes > Triathlon Bikes",110557,18787,"Gender",0
+"Bikes > Complete Bikes > Triathlon Bikes",110557,18797,"Condition",1
+"Bikes > Drive Train > Brakes",110134,23351,"Bike Type",0
+"Bikes > Drive Train > Brakes",110134,18786,"Brand",1
+"Bikes > Drive Train > Brakes",110134,23511,"Mount Type",0
+"Bikes > Drive Train > Brakes",110134,23517,"Brake Type",0
+"Bikes > Drive Train > Brakes",110134,18797,"Condition",1
+"Bikes > Drive Train > Cassettes & Cogs",110531,18786,"Brand",1
+"Bikes > Drive Train > Cassettes & Cogs",110531,18797,"Condition",1
+"Bikes > Drive Train > Chains",110534,18786,"Brand",1
+"Bikes > Drive Train > Chains",110534,18797,"Condition",1
+"Bikes > Drive Train > Cranks & Bottom Brackets",110533,18786,"Brand",1
+"Bikes > Drive Train > Cranks & Bottom Brackets",110533,18797,"Condition",1
+"Bikes > Drive Train > Derailleurs & Shifters",110139,23508,"Placement",0
+"Bikes > Drive Train > Derailleurs & Shifters",110139,23351,"Bike Type",0
+"Bikes > Drive Train > Derailleurs & Shifters",110139,18786,"Brand",1
+"Bikes > Drive Train > Derailleurs & Shifters",110139,18797,"Condition",1
+"Bikes > Drive Train > Handlebars",110128,23351,"Bike Type",0
+"Bikes > Drive Train > Handlebars",110128,18786,"Brand",1
+"Bikes > Drive Train > Handlebars",110128,18797,"Condition",1
+"Bikes > Drive Train > Hubs",110538,23402,"Wheel Size",1
+"Bikes > Drive Train > Hubs",110538,18786,"Brand",1
+"Bikes > Drive Train > Hubs",110538,23351,"Bike Type",0
+"Bikes > Drive Train > Hubs",110538,18797,"Condition",1
+"Bikes > Drive Train > Pedals",110135,18786,"Brand",1
+"Bikes > Drive Train > Pedals",110135,23351,"Bike Type",0
+"Bikes > Drive Train > Pedals",110135,24297,"Cleat Design",0
+"Bikes > Drive Train > Pedals",110135,18797,"Condition",1
+"Bikes > Drive Train > Rims",110541,23402,"Wheel Size",1
+"Bikes > Drive Train > Rims",110541,18786,"Brand",1
+"Bikes > Drive Train > Rims",110541,23351,"Bike Type",0
+"Bikes > Drive Train > Rims",110541,18797,"Condition",1
+"Bikes > Drive Train > Seats & Seatposts",110137,23351,"Bike Type",0
+"Bikes > Drive Train > Seats & Seatposts",110137,18786,"Brand",1
+"Bikes > Drive Train > Seats & Seatposts",110137,24301,"Type",0
+"Bikes > Drive Train > Seats & Seatposts",110137,24304,"Rail Material",0
+"Bikes > Drive Train > Seats & Seatposts",110137,18797,"Condition",1
+"Bikes > Drive Train > Stems & Headsets",110136,23351,"Bike Type",0
+"Bikes > Drive Train > Stems & Headsets",110136,18786,"Brand",1
+"Bikes > Drive Train > Stems & Headsets",110136,18797,"Condition",1
+"Bikes > Drive Train > Tires",110539,23402,"Wheel Size",1
+"Bikes > Drive Train > Tires",110539,18786,"Brand",1
+"Bikes > Drive Train > Tires",110539,23351,"Bike Type",0
+"Bikes > Drive Train > Tires",110539,18797,"Condition",1
+"Bikes > Drive Train > Tubes",110537,23402,"Wheel Size",1
+"Bikes > Drive Train > Tubes",110537,18786,"Brand",1
+"Bikes > Drive Train > Tubes",110537,23351,"Bike Type",0
+"Bikes > Drive Train > Tubes",110537,18797,"Condition",1
+"Bikes > Drive Train > Wheels & Wheelsets",110130,23402,"Wheel Size",1
+"Bikes > Drive Train > Wheels & Wheelsets",110130,23258,"Year",0
+"Bikes > Drive Train > Wheels & Wheelsets",110130,18786,"Brand",1
+"Bikes > Drive Train > Wheels & Wheelsets",110130,23351,"Bike Type",0
+"Bikes > Drive Train > Wheels & Wheelsets",110130,23762,"Material",0
+"Bikes > Drive Train > Wheels & Wheelsets",110130,23878,"Set or single",0
+"Bikes > Drive Train > Wheels & Wheelsets",110130,23758,"Tire Type",0
+"Bikes > Drive Train > Wheels & Wheelsets",110130,23768,"Brake Compatibility",0
+"Bikes > Drive Train > Wheels & Wheelsets",110130,18797,"Condition",1
+"Bikes > Footwear",110141,18785,"Size",1
+"Bikes > Footwear",110141,23351,"Bike Type",0
+"Bikes > Footwear",110141,18786,"Brand",1
+"Bikes > Footwear",110141,18787,"Gender",0
+"Bikes > Footwear",110141,24297,"Cleat Design",0
+"Bikes > Footwear",110141,18797,"Condition",1
+"Bikes > Frames > All Mountain & Enduro Bike Frames",110561,22998,"Frame Size",0
+"Bikes > Frames > All Mountain & Enduro Bike Frames",110561,18786,"Brand",1
+"Bikes > Frames > All Mountain & Enduro Bike Frames",110561,23258,"Year",0
+"Bikes > Frames > All Mountain & Enduro Bike Frames",110561,23517,"Brake Type",0
+"Bikes > Frames > All Mountain & Enduro Bike Frames",110561,23417,"Suspension",0
+"Bikes > Frames > All Mountain & Enduro Bike Frames",110561,18787,"Gender",0
+"Bikes > Frames > All Mountain & Enduro Bike Frames",110561,18797,"Condition",1
+"Bikes > Frames > BMX Bike Frames",110566,22998,"Frame Size",0
+"Bikes > Frames > BMX Bike Frames",110566,18786,"Brand",1
+"Bikes > Frames > BMX Bike Frames",110566,23258,"Year",0
+"Bikes > Frames > BMX Bike Frames",110566,23517,"Brake Type",0
+"Bikes > Frames > BMX Bike Frames",110566,18787,"Gender",0
+"Bikes > Frames > BMX Bike Frames",110566,18797,"Condition",1
+"Bikes > Frames > Cross Country (XC) Bike Frames",110563,22998,"Frame Size",0
+"Bikes > Frames > Cross Country (XC) Bike Frames",110563,18786,"Brand",1
+"Bikes > Frames > Cross Country (XC) Bike Frames",110563,23258,"Year",0
+"Bikes > Frames > Cross Country (XC) Bike Frames",110563,23517,"Brake Type",0
+"Bikes > Frames > Cross Country (XC) Bike Frames",110563,18787,"Gender",0
+"Bikes > Frames > Cross Country (XC) Bike Frames",110563,23417,"Suspension",0
+"Bikes > Frames > Cross Country (XC) Bike Frames",110563,18797,"Condition",1
+"Bikes > Frames > Cyclocross Bike Frames",110565,22998,"Frame Size",0
+"Bikes > Frames > Cyclocross Bike Frames",110565,18786,"Brand",1
+"Bikes > Frames > Cyclocross Bike Frames",110565,23258,"Year",0
+"Bikes > Frames > Cyclocross Bike Frames",110565,23517,"Brake Type",0
+"Bikes > Frames > Cyclocross Bike Frames",110565,18787,"Gender",0
+"Bikes > Frames > Cyclocross Bike Frames",110565,18797,"Condition",1
+"Bikes > Frames > Dj, Street & Park Bike Frames",110567,22998,"Frame Size",0
+"Bikes > Frames > Dj, Street & Park Bike Frames",110567,18786,"Brand",1
+"Bikes > Frames > Dj, Street & Park Bike Frames",110567,23258,"Year",0
+"Bikes > Frames > Dj, Street & Park Bike Frames",110567,23517,"Brake Type",0
+"Bikes > Frames > Dj, Street & Park Bike Frames",110567,18787,"Gender",0
+"Bikes > Frames > Dj, Street & Park Bike Frames",110567,18797,"Condition",1
+"Bikes > Frames > Downhill (DH) Bike Frames",110564,22998,"Frame Size",0
+"Bikes > Frames > Downhill (DH) Bike Frames",110564,23417,"Suspension",0
+"Bikes > Frames > Downhill (DH) Bike Frames",110564,18786,"Brand",1
+"Bikes > Frames > Downhill (DH) Bike Frames",110564,23258,"Year",0
+"Bikes > Frames > Downhill (DH) Bike Frames",110564,23517,"Brake Type",0
+"Bikes > Frames > Downhill (DH) Bike Frames",110564,18787,"Gender",0
+"Bikes > Frames > Downhill (DH) Bike Frames",110564,18797,"Condition",1
+"Bikes > Frames > Fat Bike Frames",110570,22998,"Frame Size",0
+"Bikes > Frames > Fat Bike Frames",110570,18786,"Brand",1
+"Bikes > Frames > Fat Bike Frames",110570,23258,"Year",0
+"Bikes > Frames > Fat Bike Frames",110570,23517,"Brake Type",0
+"Bikes > Frames > Fat Bike Frames",110570,18787,"Gender",0
+"Bikes > Frames > Fat Bike Frames",110570,18797,"Condition",1
+"Bikes > Frames > Other Frames",110571,22998,"Frame Size",0
+"Bikes > Frames > Other Frames",110571,18786,"Brand",1
+"Bikes > Frames > Other Frames",110571,23258,"Year",0
+"Bikes > Frames > Other Frames",110571,23517,"Brake Type",0
+"Bikes > Frames > Other Frames",110571,18787,"Gender",0
+"Bikes > Frames > Other Frames",110571,18797,"Condition",1
+"Bikes > Frames > Road Bike Frames",110125,22998,"Frame Size",0
+"Bikes > Frames > Road Bike Frames",110125,23258,"Year",0
+"Bikes > Frames > Road Bike Frames",110125,18786,"Brand",1
+"Bikes > Frames > Road Bike Frames",110125,23517,"Brake Type",0
+"Bikes > Frames > Road Bike Frames",110125,18787,"Gender",0
+"Bikes > Frames > Road Bike Frames",110125,18797,"Condition",1
+"Bikes > Frames > Triathlon Bike Frames",110562,22998,"Frame Size",0
+"Bikes > Frames > Triathlon Bike Frames",110562,18786,"Brand",1
+"Bikes > Frames > Triathlon Bike Frames",110562,23258,"Year",0
+"Bikes > Frames > Triathlon Bike Frames",110562,23517,"Brake Type",0
+"Bikes > Frames > Triathlon Bike Frames",110562,18787,"Gender",0
+"Bikes > Frames > Triathlon Bike Frames",110562,18797,"Condition",1
+"Bikes > Helmets",110131,18785,"Size",1
+"Bikes > Helmets",110131,18786,"Brand",1
+"Bikes > Helmets",110131,23351,"Bike Type",0
+"Bikes > Helmets",110131,18787,"Gender",0
+"Bikes > Helmets",110131,18797,"Condition",1
+"Bikes > Suspension > Dual Crown Forks",110142,18786,"Brand",1
+"Bikes > Suspension > Dual Crown Forks",110142,23351,"Bike Type",0
+"Bikes > Suspension > Dual Crown Forks",110142,18797,"Condition",1
+"Bikes > Suspension > Rear Shocks",110544,18786,"Brand",1
+"Bikes > Suspension > Rear Shocks",110544,23351,"Bike Type",0
+"Bikes > Suspension > Rear Shocks",110544,18797,"Condition",1
+"Bikes > Suspension > Single Crown Forks",110543,18786,"Brand",1
+"Bikes > Suspension > Single Crown Forks",110543,23351,"Bike Type",0
+"Bikes > Suspension > Single Crown Forks",110543,18797,"Condition",1
+"Bikes > Training, Accessories & Other > Bike Computers",110132,23351,"Bike Type",0
+"Bikes > Training, Accessories & Other > Bike Computers",110132,18786,"Brand",1
+"Bikes > Training, Accessories & Other > Bike Computers",110132,23776,"Features",0
+"Bikes > Training, Accessories & Other > Bike Computers",110132,18797,"Condition",1
+"Bikes > Training, Accessories & Other > Cables",110572,18786,"Brand",1
+"Bikes > Training, Accessories & Other > Cables",110572,18797,"Condition",1
+"Bikes > Training, Accessories & Other > Gloves",110569,18786,"Brand",1
+"Bikes > Training, Accessories & Other > Gloves",110569,18785,"Size",1
+"Bikes > Training, Accessories & Other > Gloves",110569,18797,"Condition",1
+"Bikes > Training, Accessories & Other > Goggles",110560,18786,"Brand",1
+"Bikes > Training, Accessories & Other > Goggles",110560,18797,"Condition",1
+"Bikes > Training, Accessories & Other > Other",110133,18786,"Brand",1
+"Bikes > Training, Accessories & Other > Other",110133,18797,"Condition",1
+"Bikes > Training, Accessories & Other > Sunglasses",110140,18786,"Brand",1
+"Bikes > Training, Accessories & Other > Sunglasses",110140,18785,"Size",1
+"Bikes > Training, Accessories & Other > Sunglasses",110140,23041,"Age Group",1
+"Bikes > Training, Accessories & Other > Sunglasses",110140,22281,"Color",0
+"Bikes > Training, Accessories & Other > Sunglasses",110140,18787,"Gender",0
+"Bikes > Training, Accessories & Other > Sunglasses",110140,24841,"Lens Type",0
+"Bikes > Training, Accessories & Other > Sunglasses",110140,18797,"Condition",1
+"Bikes > Training, Accessories & Other > Tape & Handle Bar Grips",110568,18786,"Brand",1
+"Bikes > Training, Accessories & Other > Tape & Handle Bar Grips",110568,18797,"Condition",1
+"Bikes > Training, Accessories & Other > Tools & Maintenance",110127,18786,"Brand",1
+"Bikes > Training, Accessories & Other > Tools & Maintenance",110127,24328,"Type",0
+"Bikes > Training, Accessories & Other > Tools & Maintenance",110127,18797,"Condition",1
+"Disc Golf > Bags & Caddies",110620,18786,"Brand",1
+"Disc Golf > Bags & Caddies",110620,18797,"Condition",1
+"Disc Golf > Discs Driver",110613,18786,"Brand",1
+"Disc Golf > Discs Driver",110613,18797,"Condition",1
+"Disc Golf > Other",110614,18786,"Brand",1
+"Disc Golf > Other",110614,18797,"Condition",1
+"Electronics, Gaming & Esports > Computer Gaming > Computer Games",110652,18797,"Condition",1
+"Electronics, Gaming & Esports > Computer Gaming > Computer VR",110653,18797,"Condition",1
+"Electronics, Gaming & Esports > Computer Gaming > Gaming Keyboards",110645,18786,"Brand",1
+"Electronics, Gaming & Esports > Computer Gaming > Gaming Keyboards",110645,18797,"Condition",1
+"Electronics, Gaming & Esports > Computer Gaming > Gaming Mice",110644,18786,"Brand",1
+"Electronics, Gaming & Esports > Computer Gaming > Gaming Mice",110644,18797,"Condition",1
+"Electronics, Gaming & Esports > Computer Gaming > Other",110654,18797,"Condition",1
+"Electronics, Gaming & Esports > Console Gaming > Consoles",110647,18797,"Condition",1
+"Electronics, Gaming & Esports > Console Gaming > Games",110649,18797,"Condition",1
+"Electronics, Gaming & Esports > Console Gaming > Other",110650,18797,"Condition",1
+"Electronics, Gaming & Esports > Console Gaming > VR",110648,18797,"Condition",1
+"Electronics, Gaming & Esports > Electronics & Accessories > Headphones",110643,18786,"Brand",0
+"Electronics, Gaming & Esports > Electronics & Accessories > Headphones",110643,18797,"Condition",1
+"Electronics, Gaming & Esports > Electronics & Accessories > Other Electronics",110166,22281,"Color",0
+"Electronics, Gaming & Esports > Electronics & Accessories > Other Electronics",110166,18786,"Brand",1
+"Electronics, Gaming & Esports > Electronics & Accessories > Other Electronics",110166,18797,"Condition",1
+"Electronics, Gaming & Esports > Electronics & Accessories > Speakers",110642,18786,"Brand",1
+"Electronics, Gaming & Esports > Electronics & Accessories > Speakers",110642,18797,"Condition",1
+"Electronics, Gaming & Esports > Electronics & Accessories > Wearables",110641,18786,"Brand",1
+"Electronics, Gaming & Esports > Electronics & Accessories > Wearables",110641,18797,"Condition",1
+"Field Hockey > Field Hockey Apparel > Compression & Base Layers",110585,18785,"Size",1
+"Field Hockey > Field Hockey Apparel > Compression & Base Layers",110585,18786,"Brand",1
+"Field Hockey > Field Hockey Apparel > Compression & Base Layers",110585,23041,"Age Group",1
+"Field Hockey > Field Hockey Apparel > Compression & Base Layers",110585,18787,"Gender",1
+"Field Hockey > Field Hockey Apparel > Compression & Base Layers",110585,18797,"Condition",1
+"Field Hockey > Field Hockey Apparel > Jackets & Coats",110583,18785,"Size",1
+"Field Hockey > Field Hockey Apparel > Jackets & Coats",110583,18786,"Brand",1
+"Field Hockey > Field Hockey Apparel > Jackets & Coats",110583,23041,"Age Group",1
+"Field Hockey > Field Hockey Apparel > Jackets & Coats",110583,18787,"Gender",1
+"Field Hockey > Field Hockey Apparel > Jackets & Coats",110583,22281,"Color",1
+"Field Hockey > Field Hockey Apparel > Jackets & Coats",110583,24834,"Team Issued",0
+"Field Hockey > Field Hockey Apparel > Jackets & Coats",110583,24837,"Clothing Style",0
+"Field Hockey > Field Hockey Apparel > Jackets & Coats",110583,24844,"Hooded",0
+"Field Hockey > Field Hockey Apparel > Jackets & Coats",110583,24859,"Liner",0
+"Field Hockey > Field Hockey Apparel > Jackets & Coats",110583,24821,"Jacket Type",0
+"Field Hockey > Field Hockey Apparel > Jackets & Coats",110583,18797,"Condition",1
+"Field Hockey > Field Hockey Apparel > Pants",110584,18785,"Size",1
+"Field Hockey > Field Hockey Apparel > Pants",110584,18786,"Brand",1
+"Field Hockey > Field Hockey Apparel > Pants",110584,23041,"Age Group",1
+"Field Hockey > Field Hockey Apparel > Pants",110584,18787,"Gender",1
+"Field Hockey > Field Hockey Apparel > Pants",110584,22281,"Color",1
+"Field Hockey > Field Hockey Apparel > Pants",110584,24834,"Team Issued",0
+"Field Hockey > Field Hockey Apparel > Pants",110584,24837,"Clothing Style",0
+"Field Hockey > Field Hockey Apparel > Pants",110584,24803,"Pant Type",0
+"Field Hockey > Field Hockey Apparel > Pants",110584,18797,"Condition",1
+"Field Hockey > Field Hockey Apparel > Shirts",110580,18785,"Size",1
+"Field Hockey > Field Hockey Apparel > Shirts",110580,23041,"Age Group",1
+"Field Hockey > Field Hockey Apparel > Shirts",110580,18787,"Gender",1
+"Field Hockey > Field Hockey Apparel > Shirts",110580,18786,"Brand",1
+"Field Hockey > Field Hockey Apparel > Shirts",110580,22281,"Color",1
+"Field Hockey > Field Hockey Apparel > Shirts",110580,24834,"Team Issued",0
+"Field Hockey > Field Hockey Apparel > Shirts",110580,24837,"Clothing Style",0
+"Field Hockey > Field Hockey Apparel > Shirts",110580,24132,"Shirt Type",0
+"Field Hockey > Field Hockey Apparel > Shirts",110580,24869,"Sleeve Length",0
+"Field Hockey > Field Hockey Apparel > Shirts",110580,18797,"Condition",1
+"Field Hockey > Field Hockey Apparel > Shorts",110582,18785,"Size",1
+"Field Hockey > Field Hockey Apparel > Shorts",110582,18786,"Brand",1
+"Field Hockey > Field Hockey Apparel > Shorts",110582,23041,"Age Group",1
+"Field Hockey > Field Hockey Apparel > Shorts",110582,18787,"Gender",1
+"Field Hockey > Field Hockey Apparel > Shorts",110582,22281,"Color",1
+"Field Hockey > Field Hockey Apparel > Shorts",110582,24834,"Team Issued",0
+"Field Hockey > Field Hockey Apparel > Shorts",110582,24837,"Clothing Style",0
+"Field Hockey > Field Hockey Apparel > Shorts",110582,24799,"Short Type",0
+"Field Hockey > Field Hockey Apparel > Shorts",110582,24873,"Length",0
+"Field Hockey > Field Hockey Apparel > Shorts",110582,18797,"Condition",1
+"Field Hockey > Field Hockey Goalie",110578,18786,"Brand",1
+"Field Hockey > Field Hockey Goalie",110578,18797,"Condition",1
+"Field Hockey > Field Hockey Goggles",110577,18786,"Brand",1
+"Field Hockey > Field Hockey Goggles",110577,18797,"Condition",1
+"Field Hockey > Field Hockey Sticks",110172,18786,"Brand",1
+"Field Hockey > Field Hockey Sticks",110172,22281,"Color",0
+"Field Hockey > Field Hockey Sticks",110172,18797,"Condition",1
+"Field Hockey > Other",110604,18786,"Brand",1
+"Field Hockey > Other",110604,18797,"Condition",1
+"Figure Skating > Figure Skates",110167,22281,"Color",0
+"Figure Skating > Figure Skates",110167,18786,"Brand",1
+"Figure Skating > Figure Skates",110167,23290,"Skate Size",1
+"Figure Skating > Figure Skates",110167,18797,"Condition",1
+"Figure Skating > Other",110575,18786,"Brand",1
+"Figure Skating > Other",110575,18797,"Condition",1
+"Fishing > Apparel > Hats",110692,18785,"Size",1
+"Fishing > Apparel > Hats",110692,23041,"Age Group",1
+"Fishing > Apparel > Hats",110692,18787,"Gender",1
+"Fishing > Apparel > Hats",110692,22281,"Color",1
+"Fishing > Apparel > Hats",110692,24837,"Clothing Style",0
+"Fishing > Apparel > Hats",110692,18786,"Brand",1
+"Fishing > Apparel > Hats",110692,24826,"Hat Type",0
+"Fishing > Apparel > Hats",110692,18797,"Condition",1
+"Fishing > Apparel > Jackets & Coats",110699,18785,"Size",1
+"Fishing > Apparel > Jackets & Coats",110699,22281,"Color",1
+"Fishing > Apparel > Jackets & Coats",110699,23041,"Age Group",1
+"Fishing > Apparel > Jackets & Coats",110699,24837,"Clothing Style",0
+"Fishing > Apparel > Jackets & Coats",110699,24844,"Hooded",0
+"Fishing > Apparel > Jackets & Coats",110699,24859,"Liner",0
+"Fishing > Apparel > Jackets & Coats",110699,18787,"Gender",1
+"Fishing > Apparel > Jackets & Coats",110699,18786,"Brand",1
+"Fishing > Apparel > Jackets & Coats",110699,18797,"Condition",1
+"Fishing > Apparel > Pants",110697,18785,"Size",1
+"Fishing > Apparel > Pants",110697,23041,"Age Group",1
+"Fishing > Apparel > Pants",110697,22281,"Color",1
+"Fishing > Apparel > Pants",110697,24837,"Clothing Style",0
+"Fishing > Apparel > Pants",110697,18787,"Gender",1
+"Fishing > Apparel > Pants",110697,18786,"Brand",1
+"Fishing > Apparel > Pants",110697,18797,"Condition",1
+"Fishing > Apparel > Shirts",110693,18785,"Size",1
+"Fishing > Apparel > Shirts",110693,23041,"Age Group",1
+"Fishing > Apparel > Shirts",110693,22281,"Color",1
+"Fishing > Apparel > Shirts",110693,24837,"Clothing Style",0
+"Fishing > Apparel > Shirts",110693,18787,"Gender",1
+"Fishing > Apparel > Shirts",110693,18786,"Brand",1
+"Fishing > Apparel > Shirts",110693,24132,"Shirt Type",0
+"Fishing > Apparel > Shirts",110693,24869,"Sleeve Length",0
+"Fishing > Apparel > Shirts",110693,18797,"Condition",1
+"Fishing > Apparel > Shorts",110695,18785,"Size",1
+"Fishing > Apparel > Shorts",110695,23041,"Age Group",1
+"Fishing > Apparel > Shorts",110695,22281,"Color",1
+"Fishing > Apparel > Shorts",110695,24837,"Clothing Style",0
+"Fishing > Apparel > Shorts",110695,18787,"Gender",1
+"Fishing > Apparel > Shorts",110695,18786,"Brand",1
+"Fishing > Apparel > Shorts",110695,24799,"Short Type",0
+"Fishing > Apparel > Shorts",110695,24873,"Length",0
+"Fishing > Apparel > Shorts",110695,18797,"Condition",1
+"Fishing > Apparel > Sunglasses",110698,18785,"Size",1
+"Fishing > Apparel > Sunglasses",110698,23041,"Age Group",1
+"Fishing > Apparel > Sunglasses",110698,22281,"Color",1
+"Fishing > Apparel > Sunglasses",110698,18787,"Gender",1
+"Fishing > Apparel > Sunglasses",110698,18786,"Brand",1
+"Fishing > Apparel > Sunglasses",110698,24841,"Lens Type",0
+"Fishing > Apparel > Sunglasses",110698,18797,"Condition",1
+"Fishing > Apparel > Vests",110694,18785,"Size",1
+"Fishing > Apparel > Vests",110694,22281,"Color",1
+"Fishing > Apparel > Vests",110694,23041,"Age Group",1
+"Fishing > Apparel > Vests",110694,24837,"Clothing Style",0
+"Fishing > Apparel > Vests",110694,24811,"Type",0
+"Fishing > Apparel > Vests",110694,18787,"Gender",1
+"Fishing > Apparel > Vests",110694,18786,"Brand",1
+"Fishing > Apparel > Vests",110694,18797,"Condition",1
+"Fishing > Apparel > Waders",110696,23041,"Age Group",1
+"Fishing > Apparel > Waders",110696,22281,"Color",1
+"Fishing > Apparel > Waders",110696,18787,"Gender",1
+"Fishing > Apparel > Waders",110696,18786,"Brand",1
+"Fishing > Apparel > Waders",110696,18797,"Condition",1
+"Fitness & Training > Ab, Core & Stability",110634,18786,"Brand",1
+"Fitness & Training > Ab, Core & Stability",110634,18797,"Condition",1
+"Fitness & Training > Accessories & Other",110168,22281,"Color",0
+"Fitness & Training > Accessories & Other",110168,18786,"Brand",1
+"Fitness & Training > Accessories & Other",110168,18787,"Gender",0
+"Fitness & Training > Accessories & Other",110168,18797,"Condition",1
+"Fitness & Training > Bands",110711,18786,"Brand",1
+"Fitness & Training > Bands",110711,18797,"Condition",1
+"Fitness & Training > Boxing & MMA > Clothing, Shoes & Accessories",110636,18786,"Brand",1
+"Fitness & Training > Boxing & MMA > Clothing, Shoes & Accessories",110636,18797,"Condition",1
+"Fitness & Training > Boxing & MMA > Gloves & Pads",110611,18786,"Brand",1
+"Fitness & Training > Boxing & MMA > Gloves & Pads",110611,18797,"Condition",1
+"Fitness & Training > Climbing & Combat Ropes",110712,18786,"Brand",1
+"Fitness & Training > Climbing & Combat Ropes",110712,18797,"Condition",1
+"Fitness & Training > Electronics > Headphones",110659,18797,"Condition",1
+"Fitness & Training > Electronics > Speakers",110660,18797,"Condition",1
+"Fitness & Training > Electronics > Stopwatches",110721,18797,"Condition",1
+"Fitness & Training > Electronics > Wearables",110661,18797,"Condition",1
+"Fitness & Training > Foam Rollers",110720,18786,"Brand",1
+"Fitness & Training > Foam Rollers",110720,18797,"Condition",1
+"Fitness & Training > Mats",110631,18786,"Brand",1
+"Fitness & Training > Mats",110631,18797,"Condition",1
+"Fitness & Training > Skipping Ropes",110637,18786,"Brand",1
+"Fitness & Training > Skipping Ropes",110637,18797,"Condition",1
+"Fitness & Training > Speed & Agility Training > Cones",110718,18786,"Brand",1
+"Fitness & Training > Speed & Agility Training > Cones",110718,18797,"Condition",1
+"Fitness & Training > Speed & Agility Training > Hurdles",110716,18786,"Brand",1
+"Fitness & Training > Speed & Agility Training > Hurdles",110716,18797,"Condition",1
+"Fitness & Training > Speed & Agility Training > Ladders",110717,18786,"Brand",1
+"Fitness & Training > Speed & Agility Training > Ladders",110717,18797,"Condition",1
+"Fitness & Training > Speed & Agility Training > Other",110632,18786,"Brand",1
+"Fitness & Training > Speed & Agility Training > Other",110632,18797,"Condition",1
+"Fitness & Training > Speed & Agility Training > Plyo",110715,18786,"Brand",1
+"Fitness & Training > Speed & Agility Training > Plyo",110715,18797,"Condition",1
+"Fitness & Training > Speed & Agility Training > Sliders",110719,18786,"Brand",1
+"Fitness & Training > Speed & Agility Training > Sliders",110719,18797,"Condition",1
+"Fitness & Training > Strength Training > Bars",110703,18786,"Brand",1
+"Fitness & Training > Strength Training > Bars",110703,18797,"Condition",1
+"Fitness & Training > Strength Training > Collars",110704,18786,"Brand",1
+"Fitness & Training > Strength Training > Collars",110704,18797,"Condition",1
+"Fitness & Training > Strength Training > Dumbells",110701,18786,"Brand",1
+"Fitness & Training > Strength Training > Dumbells",110701,18797,"Condition",1
+"Fitness & Training > Strength Training > Kettlebells",110708,18786,"Brand",1
+"Fitness & Training > Strength Training > Kettlebells",110708,18797,"Condition",1
+"Fitness & Training > Strength Training > Medicine Balls",110707,18786,"Brand",1
+"Fitness & Training > Strength Training > Medicine Balls",110707,18797,"Condition",1
+"Fitness & Training > Strength Training > Other",110630,18786,"Brand",1
+"Fitness & Training > Strength Training > Other",110630,18797,"Condition",1
+"Fitness & Training > Strength Training > Plates",110702,18786,"Brand",1
+"Fitness & Training > Strength Training > Plates",110702,18797,"Condition",1
+"Fitness & Training > Strength Training > Pull-Up Bars",110709,18786,"Brand",1
+"Fitness & Training > Strength Training > Pull-Up Bars",110709,18797,"Condition",1
+"Fitness & Training > Strength Training > Pushup Stand",110710,18786,"Brand",1
+"Fitness & Training > Strength Training > Pushup Stand",110710,18797,"Condition",1
+"Fitness & Training > Strength Training > Sandbags",110706,18786,"Brand",1
+"Fitness & Training > Strength Training > Sandbags",110706,18797,"Condition",1
+"Fitness & Training > Strength Training > Weighted Vests",110705,18786,"Brand",1
+"Fitness & Training > Strength Training > Weighted Vests",110705,18797,"Condition",1
+"Football > Apparel > Base Layers & Compression",110516,18785,"Size",1
+"Football > Apparel > Base Layers & Compression",110516,23041,"Age Group",1
+"Football > Apparel > Base Layers & Compression",110516,22281,"Color",1
+"Football > Apparel > Base Layers & Compression",110516,18786,"Brand",1
+"Football > Apparel > Base Layers & Compression",110516,24834,"Team Issued",0
+"Football > Apparel > Base Layers & Compression",110516,18787,"Gender",1
+"Football > Apparel > Base Layers & Compression",110516,24817,"Compression Type",0
+"Football > Apparel > Base Layers & Compression",110516,24853,"Compression Use",0
+"Football > Apparel > Base Layers & Compression",110516,18797,"Condition",1
+"Football > Apparel > Hats",110090,18785,"Size",1
+"Football > Apparel > Hats",110090,18786,"Brand",1
+"Football > Apparel > Hats",110090,22281,"Color",1
+"Football > Apparel > Hats",110090,23041,"Age Group",1
+"Football > Apparel > Hats",110090,18787,"Gender",1
+"Football > Apparel > Hats",110090,24837,"Clothing Style",0
+"Football > Apparel > Hats",110090,24826,"Hat Type",0
+"Football > Apparel > Hats",110090,24834,"Team Issued",0
+"Football > Apparel > Hats",110090,18797,"Condition",1
+"Football > Apparel > Jackets & Coats",110607,18785,"Size",1
+"Football > Apparel > Jackets & Coats",110607,18786,"Brand",1
+"Football > Apparel > Jackets & Coats",110607,23041,"Age Group",1
+"Football > Apparel > Jackets & Coats",110607,18787,"Gender",1
+"Football > Apparel > Jackets & Coats",110607,22281,"Color",1
+"Football > Apparel > Jackets & Coats",110607,24834,"Team Issued",0
+"Football > Apparel > Jackets & Coats",110607,24837,"Clothing Style",0
+"Football > Apparel > Jackets & Coats",110607,24844,"Hooded",0
+"Football > Apparel > Jackets & Coats",110607,24859,"Liner",0
+"Football > Apparel > Jackets & Coats",110607,24821,"Jacket Type",0
+"Football > Apparel > Jackets & Coats",110607,18797,"Condition",1
+"Football > Apparel > Jerseys",110098,18785,"Size",1
+"Football > Apparel > Jerseys",110098,18786,"Brand",1
+"Football > Apparel > Jerseys",110098,22281,"Color",1
+"Football > Apparel > Jerseys",110098,23041,"Age Group",1
+"Football > Apparel > Jerseys",110098,24834,"Team Issued",0
+"Football > Apparel > Jerseys",110098,24837,"Clothing Style",0
+"Football > Apparel > Jerseys",110098,18787,"Gender",1
+"Football > Apparel > Jerseys",110098,24115,"Jersey Type",0
+"Football > Apparel > Jerseys",110098,18797,"Condition",1
+"Football > Apparel > Pants",110099,18786,"Brand",1
+"Football > Apparel > Pants",110099,18785,"Size",1
+"Football > Apparel > Pants",110099,23041,"Age Group",1
+"Football > Apparel > Pants",110099,22281,"Color",1
+"Football > Apparel > Pants",110099,24834,"Team Issued",0
+"Football > Apparel > Pants",110099,24837,"Clothing Style",0
+"Football > Apparel > Pants",110099,18787,"Gender",1
+"Football > Apparel > Pants",110099,24803,"Pant Type",0
+"Football > Apparel > Pants",110099,18797,"Condition",1
+"Football > Apparel > Shirts",110518,18785,"Size",1
+"Football > Apparel > Shirts",110518,18786,"Brand",1
+"Football > Apparel > Shirts",110518,23041,"Age Group",1
+"Football > Apparel > Shirts",110518,18787,"Gender",1
+"Football > Apparel > Shirts",110518,22281,"Color",1
+"Football > Apparel > Shirts",110518,24834,"Team Issued",0
+"Football > Apparel > Shirts",110518,24837,"Clothing Style",0
+"Football > Apparel > Shirts",110518,24132,"Shirt Type",0
+"Football > Apparel > Shirts",110518,24869,"Sleeve Length",0
+"Football > Apparel > Shirts",110518,18797,"Condition",1
+"Football > Apparel > Shorts",110517,18785,"Size",1
+"Football > Apparel > Shorts",110517,23041,"Age Group",1
+"Football > Apparel > Shorts",110517,18787,"Gender",1
+"Football > Apparel > Shorts",110517,18786,"Brand",1
+"Football > Apparel > Shorts",110517,22281,"Color",1
+"Football > Apparel > Shorts",110517,24834,"Team Issued",0
+"Football > Apparel > Shorts",110517,24837,"Clothing Style",0
+"Football > Apparel > Shorts",110517,24799,"Short Type",0
+"Football > Apparel > Shorts",110517,24873,"Length",0
+"Football > Apparel > Shorts",110517,18797,"Condition",1
+"Football > Apparel > Sweatshirts & Hoodies",110519,18785,"Size",1
+"Football > Apparel > Sweatshirts & Hoodies",110519,18786,"Brand",1
+"Football > Apparel > Sweatshirts & Hoodies",110519,23041,"Age Group",1
+"Football > Apparel > Sweatshirts & Hoodies",110519,18787,"Gender",1
+"Football > Apparel > Sweatshirts & Hoodies",110519,22281,"Color",1
+"Football > Apparel > Sweatshirts & Hoodies",110519,24834,"Team Issued",0
+"Football > Apparel > Sweatshirts & Hoodies",110519,24837,"Clothing Style",0
+"Football > Apparel > Sweatshirts & Hoodies",110519,24811,"Type",0
+"Football > Apparel > Sweatshirts & Hoodies",110519,24844,"Hooded",0
+"Football > Apparel > Sweatshirts & Hoodies",110519,18797,"Condition",1
+"Football > Cleats",110089,18785,"Size",1
+"Football > Cleats",110089,18786,"Brand",1
+"Football > Cleats",110089,22281,"Color",0
+"Football > Cleats",110089,23850,"Type",0
+"Football > Cleats",110089,23864,"Cleat Height",0
+"Football > Cleats",110089,23041,"Age Group",1
+"Football > Cleats",110089,18787,"Gender",0
+"Football > Cleats",110089,18797,"Condition",1
+"Football > Footballs",110181,18786,"Brand",1
+"Football > Footballs",110181,18797,"Condition",1
+"Football > Gloves",110094,18786,"Brand",1
+"Football > Gloves",110094,18797,"Condition",1
+"Football > Protective > Back Plates",110097,18786,"Brand",1
+"Football > Protective > Back Plates",110097,18797,"Condition",1
+"Football > Protective > Girdles",110091,18786,"Brand",1
+"Football > Protective > Girdles",110091,18785,"Size",1
+"Football > Protective > Girdles",110091,18797,"Condition",1
+"Football > Protective > Helmets",110093,18786,"Brand",1
+"Football > Protective > Helmets",110093,18785,"Size",1
+"Football > Protective > Helmets",110093,18797,"Condition",1
+"Football > Protective > Shoulder Pads",110095,18786,"Brand",1
+"Football > Protective > Shoulder Pads",110095,24577,"Position",0
+"Football > Protective > Shoulder Pads",110095,18785,"Size",1
+"Football > Protective > Shoulder Pads",110095,18797,"Condition",1
+"Football > Training, Accessories & Other > Field Maintenance",110526,18786,"Brand",1
+"Football > Training, Accessories & Other > Field Maintenance",110526,18797,"Condition",1
+"Football > Training, Accessories & Other > Handwarmers & Towels",110522,18786,"Brand",1
+"Football > Training, Accessories & Other > Handwarmers & Towels",110522,18797,"Condition",1
+"Football > Training, Accessories & Other > Mouthguards",110521,18786,"Brand",1
+"Football > Training, Accessories & Other > Mouthguards",110521,18797,"Condition",1
+"Football > Training, Accessories & Other > Other",110092,18786,"Brand",1
+"Football > Training, Accessories & Other > Other",110092,18797,"Condition",1
+"Football > Training, Accessories & Other > Referee",110525,18786,"Brand",1
+"Football > Training, Accessories & Other > Referee",110525,18797,"Condition",1
+"Football > Training, Accessories & Other > Scoreboards & Clipboards",110523,18786,"Brand",1
+"Football > Training, Accessories & Other > Scoreboards & Clipboards",110523,18797,"Condition",1
+"Football > Training, Accessories & Other > Visors & Cages",110096,18786,"Brand",1
+"Football > Training, Accessories & Other > Visors & Cages",110096,18797,"Condition",1
+"Football > Training, Accessories & Other > Wrist Coach",110524,18786,"Brand",1
+"Football > Training, Accessories & Other > Wrist Coach",110524,18797,"Condition",1
+"Footwear > Boots",110236,18785,"Size",1
+"Footwear > Boots",110236,18786,"Brand",1
+"Footwear > Boots",110236,23041,"Age Group",1
+"Footwear > Boots",110236,22281,"Color",0
+"Footwear > Boots",110236,18787,"Gender",0
+"Footwear > Boots",110236,24435,"Sport",1
+"Footwear > Boots",110236,18797,"Condition",1
+"Footwear > Cleats",110232,18785,"Size",1
+"Footwear > Cleats",110232,18786,"Brand",1
+"Footwear > Cleats",110232,23041,"Age Group",1
+"Footwear > Cleats",110232,22281,"Color",0
+"Footwear > Cleats",110232,18787,"Gender",0
+"Footwear > Cleats",110232,24435,"Sport",1
+"Footwear > Cleats",110232,23850,"Type",0
+"Footwear > Cleats",110232,18797,"Condition",1
+"Footwear > Cycling",110237,18785,"Size",1
+"Footwear > Cycling",110237,18786,"Brand",1
+"Footwear > Cycling",110237,23041,"Age Group",1
+"Footwear > Cycling",110237,22281,"Color",0
+"Footwear > Cycling",110237,18787,"Gender",0
+"Footwear > Cycling",110237,18797,"Condition",1
+"Footwear > Golf",110235,18785,"Size",1
+"Footwear > Golf",110235,18786,"Brand",1
+"Footwear > Golf",110235,23041,"Age Group",1
+"Footwear > Golf",110235,22281,"Color",0
+"Footwear > Golf",110235,18787,"Gender",0
+"Footwear > Golf",110235,18797,"Condition",1
+"Footwear > Other",110238,18785,"Size",1
+"Footwear > Other",110238,18786,"Brand",1
+"Footwear > Other",110238,23041,"Age Group",1
+"Footwear > Other",110238,22281,"Color",0
+"Footwear > Other",110238,18787,"Gender",0
+"Footwear > Other",110238,24435,"Sport",1
+"Footwear > Other",110238,18797,"Condition",1
+"Footwear > Sandals & Slides",110234,18785,"Size",1
+"Footwear > Sandals & Slides",110234,18786,"Brand",1
+"Footwear > Sandals & Slides",110234,23041,"Age Group",1
+"Footwear > Sandals & Slides",110234,22281,"Color",0
+"Footwear > Sandals & Slides",110234,18787,"Gender",0
+"Footwear > Sandals & Slides",110234,24435,"Sport",1
+"Footwear > Sandals & Slides",110234,18797,"Condition",1
+"Footwear > Turfs, Indoor, Sneakers & Training",110233,18785,"Size",1
+"Footwear > Turfs, Indoor, Sneakers & Training",110233,18786,"Brand",1
+"Footwear > Turfs, Indoor, Sneakers & Training",110233,23041,"Age Group",1
+"Footwear > Turfs, Indoor, Sneakers & Training",110233,22281,"Color",0
+"Footwear > Turfs, Indoor, Sneakers & Training",110233,18787,"Gender",0
+"Footwear > Turfs, Indoor, Sneakers & Training",110233,24435,"Sport",1
+"Footwear > Turfs, Indoor, Sneakers & Training",110233,18797,"Condition",1
+"Golf > Apparel > Hats & Visors",110074,18785,"Size",1
+"Golf > Apparel > Hats & Visors",110074,18786,"Brand",1
+"Golf > Apparel > Hats & Visors",110074,22281,"Color",1
+"Golf > Apparel > Hats & Visors",110074,18787,"Gender",1
+"Golf > Apparel > Hats & Visors",110074,23041,"Age Group",1
+"Golf > Apparel > Hats & Visors",110074,24837,"Clothing Style",0
+"Golf > Apparel > Hats & Visors",110074,24826,"Hat Type",0
+"Golf > Apparel > Hats & Visors",110074,24834,"Team Issued",0
+"Golf > Apparel > Hats & Visors",110074,18797,"Condition",1
+"Golf > Apparel > Jackets & Coats",110425,18787,"Gender",1
+"Golf > Apparel > Jackets & Coats",110425,18786,"Brand",1
+"Golf > Apparel > Jackets & Coats",110425,18785,"Size",1
+"Golf > Apparel > Jackets & Coats",110425,22281,"Color",1
+"Golf > Apparel > Jackets & Coats",110425,23041,"Age Group",1
+"Golf > Apparel > Jackets & Coats",110425,24834,"Team Issued",0
+"Golf > Apparel > Jackets & Coats",110425,24837,"Clothing Style",0
+"Golf > Apparel > Jackets & Coats",110425,24844,"Hooded",0
+"Golf > Apparel > Jackets & Coats",110425,24859,"Liner",0
+"Golf > Apparel > Jackets & Coats",110425,18797,"Condition",1
+"Golf > Apparel > Other",110447,18786,"Brand",1
+"Golf > Apparel > Other",110447,22281,"Color",1
+"Golf > Apparel > Other",110447,18787,"Gender",1
+"Golf > Apparel > Other",110447,23041,"Age Group",1
+"Golf > Apparel > Other",110447,18785,"Size",1
+"Golf > Apparel > Other",110447,24834,"Team Issued",0
+"Golf > Apparel > Other",110447,24837,"Clothing Style",0
+"Golf > Apparel > Other",110447,18797,"Condition",1
+"Golf > Apparel > Pants",110424,18787,"Gender",1
+"Golf > Apparel > Pants",110424,18786,"Brand",1
+"Golf > Apparel > Pants",110424,18785,"Size",1
+"Golf > Apparel > Pants",110424,22281,"Color",1
+"Golf > Apparel > Pants",110424,23041,"Age Group",1
+"Golf > Apparel > Pants",110424,24834,"Team Issued",0
+"Golf > Apparel > Pants",110424,24837,"Clothing Style",0
+"Golf > Apparel > Pants",110424,18797,"Condition",1
+"Golf > Apparel > Shirts",110075,18787,"Gender",1
+"Golf > Apparel > Shirts",110075,18785,"Size",1
+"Golf > Apparel > Shirts",110075,18786,"Brand",1
+"Golf > Apparel > Shirts",110075,22281,"Color",1
+"Golf > Apparel > Shirts",110075,23041,"Age Group",1
+"Golf > Apparel > Shirts",110075,24834,"Team Issued",0
+"Golf > Apparel > Shirts",110075,24837,"Clothing Style",0
+"Golf > Apparel > Shirts",110075,24869,"Sleeve Length",0
+"Golf > Apparel > Shirts",110075,18797,"Condition",1
+"Golf > Apparel > Shorts",110423,18787,"Gender",1
+"Golf > Apparel > Shorts",110423,18786,"Brand",1
+"Golf > Apparel > Shorts",110423,18785,"Size",1
+"Golf > Apparel > Shorts",110423,22281,"Color",1
+"Golf > Apparel > Shorts",110423,23041,"Age Group",1
+"Golf > Apparel > Shorts",110423,24834,"Team Issued",0
+"Golf > Apparel > Shorts",110423,24837,"Clothing Style",0
+"Golf > Apparel > Shorts",110423,24873,"Length",0
+"Golf > Apparel > Shorts",110423,18797,"Condition",1
+"Golf > Apparel > Socks",110427,18787,"Gender",1
+"Golf > Apparel > Socks",110427,18786,"Brand",1
+"Golf > Apparel > Socks",110427,18785,"Size",1
+"Golf > Apparel > Socks",110427,22281,"Color",1
+"Golf > Apparel > Socks",110427,23041,"Age Group",1
+"Golf > Apparel > Socks",110427,24848,"Number of Pairs",0
+"Golf > Apparel > Socks",110427,24873,"Length",0
+"Golf > Apparel > Socks",110427,18797,"Condition",1
+"Golf > Apparel > Sweatshirts & Hoodies",110426,18787,"Gender",1
+"Golf > Apparel > Sweatshirts & Hoodies",110426,18786,"Brand",1
+"Golf > Apparel > Sweatshirts & Hoodies",110426,18785,"Size",1
+"Golf > Apparel > Sweatshirts & Hoodies",110426,22281,"Color",1
+"Golf > Apparel > Sweatshirts & Hoodies",110426,23041,"Age Group",1
+"Golf > Apparel > Sweatshirts & Hoodies",110426,24834,"Team Issued",0
+"Golf > Apparel > Sweatshirts & Hoodies",110426,24837,"Clothing Style",0
+"Golf > Apparel > Sweatshirts & Hoodies",110426,24811,"Type",0
+"Golf > Apparel > Sweatshirts & Hoodies",110426,24844,"Hooded",0
+"Golf > Apparel > Sweatshirts & Hoodies",110426,18797,"Condition",1
+"Golf > Bags & Carts > Carry Bags",110439,18786,"Brand",1
+"Golf > Bags & Carts > Carry Bags",110439,22281,"Color",0
+"Golf > Bags & Carts > Carry Bags",110439,18787,"Gender",0
+"Golf > Bags & Carts > Carry Bags",110439,18797,"Condition",1
+"Golf > Bags & Carts > Push Carts",110442,18786,"Brand",1
+"Golf > Bags & Carts > Push Carts",110442,22281,"Color",0
+"Golf > Bags & Carts > Push Carts",110442,18787,"Gender",0
+"Golf > Bags & Carts > Push Carts",110442,18797,"Condition",1
+"Golf > Bags & Carts > Standing Bags",110072,18786,"Brand",1
+"Golf > Bags & Carts > Standing Bags",110072,22281,"Color",0
+"Golf > Bags & Carts > Standing Bags",110072,18787,"Gender",0
+"Golf > Bags & Carts > Standing Bags",110072,18797,"Condition",1
+"Golf > Bags & Carts > Tour Staff Bags",110444,18786,"Brand",1
+"Golf > Bags & Carts > Tour Staff Bags",110444,22281,"Color",0
+"Golf > Bags & Carts > Tour Staff Bags",110444,18787,"Gender",0
+"Golf > Bags & Carts > Tour Staff Bags",110444,18797,"Condition",1
+"Golf > Bags & Carts > Travel Covers",110440,18786,"Brand",1
+"Golf > Bags & Carts > Travel Covers",110440,22281,"Color",0
+"Golf > Bags & Carts > Travel Covers",110440,18797,"Condition",1
+"Golf > Balls",110082,18786,"Brand",1
+"Golf > Balls",110082,22281,"Color",0
+"Golf > Balls",110082,24679,"Number of Balls",0
+"Golf > Balls",110082,18797,"Condition",1
+"Golf > Clubs > Club Heads",110432,18787,"Gender",0
+"Golf > Clubs > Club Heads",110432,18792,"Hand",1
+"Golf > Clubs > Club Heads",110432,24537,"Club Type",1
+"Golf > Clubs > Club Heads",110432,18786,"Brand",1
+"Golf > Clubs > Club Heads",110432,18797,"Condition",1
+"Golf > Clubs > Complete Sets",110077,23127,"Flex",0
+"Golf > Clubs > Complete Sets",110077,18787,"Gender",0
+"Golf > Clubs > Complete Sets",110077,18792,"Hand",1
+"Golf > Clubs > Complete Sets",110077,18786,"Brand",1
+"Golf > Clubs > Complete Sets",110077,23967,"Number of Clubs",0
+"Golf > Clubs > Complete Sets",110077,18797,"Condition",1
+"Golf > Clubs > Drivers",110065,23133,"Loft",0
+"Golf > Clubs > Drivers",110065,23127,"Flex",0
+"Golf > Clubs > Drivers",110065,18787,"Gender",0
+"Golf > Clubs > Drivers",110065,18792,"Hand",1
+"Golf > Clubs > Drivers",110065,24750,"Tool Included?",0
+"Golf > Clubs > Drivers",110065,18786,"Brand",1
+"Golf > Clubs > Drivers",110065,24747,"Headcover Included?",0
+"Golf > Clubs > Drivers",110065,18797,"Condition",1
+"Golf > Clubs > Fairway Woods",110066,23133,"Loft",0
+"Golf > Clubs > Fairway Woods",110066,23127,"Flex",0
+"Golf > Clubs > Fairway Woods",110066,18787,"Gender",0
+"Golf > Clubs > Fairway Woods",110066,18792,"Hand",1
+"Golf > Clubs > Fairway Woods",110066,24750,"Tool Included?",0
+"Golf > Clubs > Fairway Woods",110066,18786,"Brand",1
+"Golf > Clubs > Fairway Woods",110066,24747,"Headcover Included?",0
+"Golf > Clubs > Fairway Woods",110066,18797,"Condition",1
+"Golf > Clubs > Grips",110079,22281,"Color",0
+"Golf > Clubs > Grips",110079,18786,"Brand",1
+"Golf > Clubs > Grips",110079,18797,"Condition",1
+"Golf > Clubs > Hybrids",110067,23127,"Flex",0
+"Golf > Clubs > Hybrids",110067,23133,"Loft",0
+"Golf > Clubs > Hybrids",110067,18787,"Gender",0
+"Golf > Clubs > Hybrids",110067,18792,"Hand",1
+"Golf > Clubs > Hybrids",110067,18786,"Brand",1
+"Golf > Clubs > Hybrids",110067,24747,"Headcover Included?",0
+"Golf > Clubs > Hybrids",110067,24750,"Tool Included?",0
+"Golf > Clubs > Hybrids",110067,18797,"Condition",1
+"Golf > Clubs > Iron Sets",110068,23127,"Flex",0
+"Golf > Clubs > Iron Sets",110068,18792,"Hand",1
+"Golf > Clubs > Iron Sets",110068,18787,"Gender",0
+"Golf > Clubs > Iron Sets",110068,18786,"Brand",1
+"Golf > Clubs > Iron Sets",110068,23179,"Shaft Material",0
+"Golf > Clubs > Iron Sets",110068,18797,"Condition",1
+"Golf > Clubs > Putters",110070,23269,"Length",0
+"Golf > Clubs > Putters",110070,23176,"Putter Type",0
+"Golf > Clubs > Putters",110070,18787,"Gender",0
+"Golf > Clubs > Putters",110070,18786,"Brand",1
+"Golf > Clubs > Putters",110070,18792,"Hand",1
+"Golf > Clubs > Putters",110070,18797,"Condition",1
+"Golf > Clubs > Shafts",110078,23127,"Flex",0
+"Golf > Clubs > Shafts",110078,18786,"Brand",1
+"Golf > Clubs > Shafts",110078,18787,"Gender",0
+"Golf > Clubs > Shafts",110078,23179,"Shaft Material",0
+"Golf > Clubs > Shafts",110078,18797,"Condition",1
+"Golf > Clubs > Single Irons",110081,23127,"Flex",0
+"Golf > Clubs > Single Irons",110081,23248,"Iron Type",0
+"Golf > Clubs > Single Irons",110081,18792,"Hand",1
+"Golf > Clubs > Single Irons",110081,18787,"Gender",0
+"Golf > Clubs > Single Irons",110081,18786,"Brand",1
+"Golf > Clubs > Single Irons",110081,23179,"Shaft Material",0
+"Golf > Clubs > Single Irons",110081,18797,"Condition",1
+"Golf > Clubs > Wedges",110069,23133,"Loft",0
+"Golf > Clubs > Wedges",110069,23127,"Flex",0
+"Golf > Clubs > Wedges",110069,18787,"Gender",0
+"Golf > Clubs > Wedges",110069,18792,"Hand",1
+"Golf > Clubs > Wedges",110069,18786,"Brand",1
+"Golf > Clubs > Wedges",110069,23179,"Shaft Material",0
+"Golf > Clubs > Wedges",110069,18797,"Condition",1
+"Golf > Headcovers",110435,18786,"Brand",1
+"Golf > Headcovers",110435,24537,"Club Type",1
+"Golf > Headcovers",110435,18797,"Condition",1
+"Golf > On-Course > Ball Markers",110429,18786,"Brand",1
+"Golf > On-Course > Ball Markers",110429,18797,"Condition",1
+"Golf > On-Course > Ball Retrievers",110434,18786,"Brand",1
+"Golf > On-Course > Ball Retrievers",110434,18797,"Condition",1
+"Golf > On-Course > Club Cleaning & Repair Tools",110419,18786,"Brand",1
+"Golf > On-Course > Club Cleaning & Repair Tools",110419,18797,"Condition",1
+"Golf > On-Course > Coolers",110433,18786,"Brand",1
+"Golf > On-Course > Coolers",110433,18797,"Condition",1
+"Golf > On-Course > Divot Tools",110421,18786,"Brand",1
+"Golf > On-Course > Divot Tools",110421,18797,"Condition",1
+"Golf > On-Course > Gloves",110080,18785,"Size",0
+"Golf > On-Course > Gloves",110080,22281,"Color",0
+"Golf > On-Course > Gloves",110080,18786,"Brand",1
+"Golf > On-Course > Gloves",110080,18792,"Hand",1
+"Golf > On-Course > Gloves",110080,18787,"Gender",0
+"Golf > On-Course > Gloves",110080,18797,"Condition",1
+"Golf > On-Course > Tees",110418,18786,"Brand",1
+"Golf > On-Course > Tees",110418,18797,"Condition",1
+"Golf > On-Course > Towels",110428,18786,"Brand",1
+"Golf > On-Course > Towels",110428,18797,"Condition",1
+"Golf > On-Course > Umbrellas",110420,18786,"Brand",1
+"Golf > On-Course > Umbrellas",110420,18797,"Condition",1
+"Golf > On-Course > Water Bottles",110431,18786,"Brand",1
+"Golf > On-Course > Water Bottles",110431,18797,"Condition",1
+"Golf > Other",110076,18786,"Brand",1
+"Golf > Other",110076,18797,"Condition",1
+"Golf > Shoes",110073,18785,"Size",1
+"Golf > Shoes",110073,18786,"Brand",1
+"Golf > Shoes",110073,22281,"Color",0
+"Golf > Shoes",110073,18787,"Gender",0
+"Golf > Shoes",110073,18797,"Condition",1
+"Golf > Technology",110446,18786,"Brand",1
+"Golf > Technology",110446,18797,"Condition",1
+"Golf > Training & Aids > Mats",110438,18786,"Brand",1
+"Golf > Training & Aids > Mats",110438,18797,"Condition",1
+"Golf > Training & Aids > Nets",110441,18786,"Brand",1
+"Golf > Training & Aids > Nets",110441,18797,"Condition",1
+"Golf > Training & Aids > Physical Aid",110443,18786,"Brand",1
+"Golf > Training & Aids > Physical Aid",110443,18797,"Condition",1
+"Golf > Training & Aids > Practice Gear",110445,18786,"Brand",1
+"Golf > Training & Aids > Practice Gear",110445,18797,"Condition",1
+"Hike & Camp > Apparel > Base Layers",110483,18785,"Size",1
+"Hike & Camp > Apparel > Base Layers",110483,18786,"Brand",1
+"Hike & Camp > Apparel > Base Layers",110483,23041,"Age Group",1
+"Hike & Camp > Apparel > Base Layers",110483,22281,"Color",1
+"Hike & Camp > Apparel > Base Layers",110483,18787,"Gender",1
+"Hike & Camp > Apparel > Base Layers",110483,24817,"Compression Type",0
+"Hike & Camp > Apparel > Base Layers",110483,24853,"Compression Use",0
+"Hike & Camp > Apparel > Base Layers",110483,18797,"Condition",1
+"Hike & Camp > Apparel > Jackets & Coats",110476,18785,"Size",1
+"Hike & Camp > Apparel > Jackets & Coats",110476,18786,"Brand",1
+"Hike & Camp > Apparel > Jackets & Coats",110476,23041,"Age Group",1
+"Hike & Camp > Apparel > Jackets & Coats",110476,22281,"Color",1
+"Hike & Camp > Apparel > Jackets & Coats",110476,18787,"Gender",1
+"Hike & Camp > Apparel > Jackets & Coats",110476,24837,"Clothing Style",0
+"Hike & Camp > Apparel > Jackets & Coats",110476,24844,"Hooded",0
+"Hike & Camp > Apparel > Jackets & Coats",110476,24859,"Liner",0
+"Hike & Camp > Apparel > Jackets & Coats",110476,24821,"Jacket Type",0
+"Hike & Camp > Apparel > Jackets & Coats",110476,18797,"Condition",1
+"Hike & Camp > Apparel > Pants",110481,18785,"Size",1
+"Hike & Camp > Apparel > Pants",110481,18786,"Brand",1
+"Hike & Camp > Apparel > Pants",110481,23041,"Age Group",1
+"Hike & Camp > Apparel > Pants",110481,22281,"Color",1
+"Hike & Camp > Apparel > Pants",110481,18787,"Gender",1
+"Hike & Camp > Apparel > Pants",110481,24837,"Clothing Style",0
+"Hike & Camp > Apparel > Pants",110481,24803,"Pant Type",0
+"Hike & Camp > Apparel > Pants",110481,18797,"Condition",1
+"Hike & Camp > Apparel > Shirts",110478,18785,"Size",1
+"Hike & Camp > Apparel > Shirts",110478,18786,"Brand",1
+"Hike & Camp > Apparel > Shirts",110478,23041,"Age Group",1
+"Hike & Camp > Apparel > Shirts",110478,22281,"Color",1
+"Hike & Camp > Apparel > Shirts",110478,18787,"Gender",1
+"Hike & Camp > Apparel > Shirts",110478,24837,"Clothing Style",0
+"Hike & Camp > Apparel > Shirts",110478,24132,"Shirt Type",0
+"Hike & Camp > Apparel > Shirts",110478,24869,"Sleeve Length",0
+"Hike & Camp > Apparel > Shirts",110478,18797,"Condition",1
+"Hike & Camp > Apparel > Shorts",110479,18785,"Size",1
+"Hike & Camp > Apparel > Shorts",110479,18786,"Brand",1
+"Hike & Camp > Apparel > Shorts",110479,23041,"Age Group",1
+"Hike & Camp > Apparel > Shorts",110479,22281,"Color",1
+"Hike & Camp > Apparel > Shorts",110479,18787,"Gender",1
+"Hike & Camp > Apparel > Shorts",110479,24837,"Clothing Style",0
+"Hike & Camp > Apparel > Shorts",110479,24873,"Length",0
+"Hike & Camp > Apparel > Shorts",110479,18797,"Condition",1
+"Hike & Camp > Apparel > Socks",110480,18785,"Size",1
+"Hike & Camp > Apparel > Socks",110480,18786,"Brand",1
+"Hike & Camp > Apparel > Socks",110480,23041,"Age Group",1
+"Hike & Camp > Apparel > Socks",110480,22281,"Color",1
+"Hike & Camp > Apparel > Socks",110480,18787,"Gender",1
+"Hike & Camp > Apparel > Socks",110480,24848,"Number of Pairs",0
+"Hike & Camp > Apparel > Socks",110480,24873,"Length",0
+"Hike & Camp > Apparel > Socks",110480,18797,"Condition",1
+"Hike & Camp > Apparel > Sunglasses",110484,18785,"Size",1
+"Hike & Camp > Apparel > Sunglasses",110484,18786,"Brand",1
+"Hike & Camp > Apparel > Sunglasses",110484,23041,"Age Group",1
+"Hike & Camp > Apparel > Sunglasses",110484,22281,"Color",1
+"Hike & Camp > Apparel > Sunglasses",110484,18787,"Gender",1
+"Hike & Camp > Apparel > Sunglasses",110484,18797,"Condition",1
+"Hike & Camp > Apparel > Sweatshirts & Hoodies",110482,18785,"Size",1
+"Hike & Camp > Apparel > Sweatshirts & Hoodies",110482,18786,"Brand",1
+"Hike & Camp > Apparel > Sweatshirts & Hoodies",110482,23041,"Age Group",1
+"Hike & Camp > Apparel > Sweatshirts & Hoodies",110482,22281,"Color",1
+"Hike & Camp > Apparel > Sweatshirts & Hoodies",110482,18787,"Gender",1
+"Hike & Camp > Apparel > Sweatshirts & Hoodies",110482,24837,"Clothing Style",0
+"Hike & Camp > Apparel > Sweatshirts & Hoodies",110482,24811,"Type",0
+"Hike & Camp > Apparel > Sweatshirts & Hoodies",110482,24844,"Hooded",0
+"Hike & Camp > Apparel > Sweatshirts & Hoodies",110482,18797,"Condition",1
+"Hike & Camp > Backpacks",110485,18786,"Brand",1
+"Hike & Camp > Backpacks",110485,24078,"Capacity (Liters)",0
+"Hike & Camp > Backpacks",110485,22281,"Color",0
+"Hike & Camp > Backpacks",110485,18797,"Condition",1
+"Hike & Camp > Cooking Supplies & Food",110490,18786,"Brand",1
+"Hike & Camp > Cooking Supplies & Food",110490,18797,"Condition",1
+"Hike & Camp > Hiking Boots & Shoes",110488,18785,"Size",1
+"Hike & Camp > Hiking Boots & Shoes",110488,18786,"Brand",1
+"Hike & Camp > Hiking Boots & Shoes",110488,23041,"Age Group",1
+"Hike & Camp > Hiking Boots & Shoes",110488,22281,"Color",0
+"Hike & Camp > Hiking Boots & Shoes",110488,18787,"Gender",0
+"Hike & Camp > Hiking Boots & Shoes",110488,18797,"Condition",1
+"Hike & Camp > Other",110489,18786,"Brand",1
+"Hike & Camp > Other",110489,18797,"Condition",1
+"Hike & Camp > Sleeping Bags",110487,18786,"Brand",1
+"Hike & Camp > Sleeping Bags",110487,24553,"Temperature Rating (F)",0
+"Hike & Camp > Sleeping Bags",110487,18797,"Condition",1
+"Hike & Camp > Tents",110486,18786,"Brand",1
+"Hike & Camp > Tents",110486,24544,"Type",0
+"Hike & Camp > Tents",110486,24547,"Size",0
+"Hike & Camp > Tents",110486,18797,"Condition",1
+"Hike & Camp > Tools > Axes",110495,18786,"Brand",1
+"Hike & Camp > Tools > Axes",110495,18797,"Condition",1
+"Hike & Camp > Tools > Coolers",110606,18786,"Brand",1
+"Hike & Camp > Tools > Coolers",110606,18797,"Condition",1
+"Hike & Camp > Tools > Emergency Gear",110496,18786,"Brand",1
+"Hike & Camp > Tools > Emergency Gear",110496,18797,"Condition",1
+"Hike & Camp > Tools > Knives & Multi Tools",110493,18786,"Brand",1
+"Hike & Camp > Tools > Knives & Multi Tools",110493,18797,"Condition",1
+"Hike & Camp > Tools > Navigation",110492,18786,"Brand",1
+"Hike & Camp > Tools > Navigation",110492,18797,"Condition",1
+"Hike & Camp > Tools > Shovels",110494,18786,"Brand",1
+"Hike & Camp > Tools > Shovels",110494,18797,"Condition",1
+"Hockey > Apparel, Jerseys & Socks > Compression & Base Layers",110280,18786,"Brand",1
+"Hockey > Apparel, Jerseys & Socks > Compression & Base Layers",110280,23041,"Age Group",1
+"Hockey > Apparel, Jerseys & Socks > Compression & Base Layers",110280,18785,"Size",1
+"Hockey > Apparel, Jerseys & Socks > Compression & Base Layers",110280,18787,"Gender",1
+"Hockey > Apparel, Jerseys & Socks > Compression & Base Layers",110280,22281,"Color",1
+"Hockey > Apparel, Jerseys & Socks > Compression & Base Layers",110280,24817,"Compression Type",0
+"Hockey > Apparel, Jerseys & Socks > Compression & Base Layers",110280,24853,"Compression Use",0
+"Hockey > Apparel, Jerseys & Socks > Compression & Base Layers",110280,18797,"Condition",1
+"Hockey > Apparel, Jerseys & Socks > Hats",110281,18786,"Brand",1
+"Hockey > Apparel, Jerseys & Socks > Hats",110281,22281,"Color",1
+"Hockey > Apparel, Jerseys & Socks > Hats",110281,18785,"Size",1
+"Hockey > Apparel, Jerseys & Socks > Hats",110281,23041,"Age Group",1
+"Hockey > Apparel, Jerseys & Socks > Hats",110281,18787,"Gender",1
+"Hockey > Apparel, Jerseys & Socks > Hats",110281,24837,"Clothing Style",0
+"Hockey > Apparel, Jerseys & Socks > Hats",110281,24826,"Hat Type",0
+"Hockey > Apparel, Jerseys & Socks > Hats",110281,18797,"Condition",1
+"Hockey > Apparel, Jerseys & Socks > Jackets & Coats",110282,18786,"Brand",1
+"Hockey > Apparel, Jerseys & Socks > Jackets & Coats",110282,18785,"Size",1
+"Hockey > Apparel, Jerseys & Socks > Jackets & Coats",110282,22281,"Color",1
+"Hockey > Apparel, Jerseys & Socks > Jackets & Coats",110282,23041,"Age Group",1
+"Hockey > Apparel, Jerseys & Socks > Jackets & Coats",110282,24837,"Clothing Style",0
+"Hockey > Apparel, Jerseys & Socks > Jackets & Coats",110282,24844,"Hooded",0
+"Hockey > Apparel, Jerseys & Socks > Jackets & Coats",110282,24859,"Liner",0
+"Hockey > Apparel, Jerseys & Socks > Jackets & Coats",110282,18787,"Gender",1
+"Hockey > Apparel, Jerseys & Socks > Jackets & Coats",110282,24821,"Jacket Type",0
+"Hockey > Apparel, Jerseys & Socks > Jackets & Coats",110282,18797,"Condition",1
+"Hockey > Apparel, Jerseys & Socks > Jerseys",110179,18786,"Brand",1
+"Hockey > Apparel, Jerseys & Socks > Jerseys",110179,24115,"Jersey Type",0
+"Hockey > Apparel, Jerseys & Socks > Jerseys",110179,18785,"Size",1
+"Hockey > Apparel, Jerseys & Socks > Jerseys",110179,23032,"Pro Stock",0
+"Hockey > Apparel, Jerseys & Socks > Jerseys",110179,23041,"Age Group",1
+"Hockey > Apparel, Jerseys & Socks > Jerseys",110179,22281,"Color",1
+"Hockey > Apparel, Jerseys & Socks > Jerseys",110179,24837,"Clothing Style",0
+"Hockey > Apparel, Jerseys & Socks > Jerseys",110179,18787,"Gender",1
+"Hockey > Apparel, Jerseys & Socks > Jerseys",110179,18797,"Condition",1
+"Hockey > Apparel, Jerseys & Socks > Pants",110286,18785,"Size",1
+"Hockey > Apparel, Jerseys & Socks > Pants",110286,18786,"Brand",1
+"Hockey > Apparel, Jerseys & Socks > Pants",110286,22281,"Color",1
+"Hockey > Apparel, Jerseys & Socks > Pants",110286,23041,"Age Group",1
+"Hockey > Apparel, Jerseys & Socks > Pants",110286,24837,"Clothing Style",0
+"Hockey > Apparel, Jerseys & Socks > Pants",110286,18787,"Gender",1
+"Hockey > Apparel, Jerseys & Socks > Pants",110286,24803,"Pant Type",0
+"Hockey > Apparel, Jerseys & Socks > Pants",110286,18797,"Condition",1
+"Hockey > Apparel, Jerseys & Socks > Shirts",110287,18785,"Size",1
+"Hockey > Apparel, Jerseys & Socks > Shirts",110287,18786,"Brand",1
+"Hockey > Apparel, Jerseys & Socks > Shirts",110287,22281,"Color",1
+"Hockey > Apparel, Jerseys & Socks > Shirts",110287,23041,"Age Group",1
+"Hockey > Apparel, Jerseys & Socks > Shirts",110287,24837,"Clothing Style",0
+"Hockey > Apparel, Jerseys & Socks > Shirts",110287,18787,"Gender",1
+"Hockey > Apparel, Jerseys & Socks > Shirts",110287,24132,"Shirt Type",0
+"Hockey > Apparel, Jerseys & Socks > Shirts",110287,24869,"Sleeve Length",0
+"Hockey > Apparel, Jerseys & Socks > Shirts",110287,18797,"Condition",1
+"Hockey > Apparel, Jerseys & Socks > Shorts",110283,18786,"Brand",1
+"Hockey > Apparel, Jerseys & Socks > Shorts",110283,18785,"Size",1
+"Hockey > Apparel, Jerseys & Socks > Shorts",110283,23041,"Age Group",1
+"Hockey > Apparel, Jerseys & Socks > Shorts",110283,18787,"Gender",1
+"Hockey > Apparel, Jerseys & Socks > Shorts",110283,22281,"Color",1
+"Hockey > Apparel, Jerseys & Socks > Shorts",110283,24837,"Clothing Style",0
+"Hockey > Apparel, Jerseys & Socks > Shorts",110283,24799,"Short Type",0
+"Hockey > Apparel, Jerseys & Socks > Shorts",110283,24873,"Length",0
+"Hockey > Apparel, Jerseys & Socks > Shorts",110283,18797,"Condition",1
+"Hockey > Apparel, Jerseys & Socks > Skate Socks",110285,18785,"Size",1
+"Hockey > Apparel, Jerseys & Socks > Skate Socks",110285,18786,"Brand",1
+"Hockey > Apparel, Jerseys & Socks > Skate Socks",110285,22281,"Color",1
+"Hockey > Apparel, Jerseys & Socks > Skate Socks",110285,23041,"Age Group",1
+"Hockey > Apparel, Jerseys & Socks > Skate Socks",110285,18787,"Gender",1
+"Hockey > Apparel, Jerseys & Socks > Skate Socks",110285,24848,"Number of Pairs",0
+"Hockey > Apparel, Jerseys & Socks > Skate Socks",110285,24873,"Length",0
+"Hockey > Apparel, Jerseys & Socks > Skate Socks",110285,18797,"Condition",1
+"Hockey > Apparel, Jerseys & Socks > Socks",110034,18785,"Size",1
+"Hockey > Apparel, Jerseys & Socks > Socks",110034,18786,"Brand",1
+"Hockey > Apparel, Jerseys & Socks > Socks",110034,22281,"Color",1
+"Hockey > Apparel, Jerseys & Socks > Socks",110034,23041,"Age Group",1
+"Hockey > Apparel, Jerseys & Socks > Socks",110034,23032,"Pro Stock",0
+"Hockey > Apparel, Jerseys & Socks > Socks",110034,18797,"Condition",1
+"Hockey > Apparel, Jerseys & Socks > Sweatshirts & Hoodies",110284,18785,"Size",1
+"Hockey > Apparel, Jerseys & Socks > Sweatshirts & Hoodies",110284,18786,"Brand",1
+"Hockey > Apparel, Jerseys & Socks > Sweatshirts & Hoodies",110284,22281,"Color",1
+"Hockey > Apparel, Jerseys & Socks > Sweatshirts & Hoodies",110284,23041,"Age Group",1
+"Hockey > Apparel, Jerseys & Socks > Sweatshirts & Hoodies",110284,24837,"Clothing Style",0
+"Hockey > Apparel, Jerseys & Socks > Sweatshirts & Hoodies",110284,18787,"Gender",1
+"Hockey > Apparel, Jerseys & Socks > Sweatshirts & Hoodies",110284,24811,"Type",0
+"Hockey > Apparel, Jerseys & Socks > Sweatshirts & Hoodies",110284,24844,"Hooded",0
+"Hockey > Apparel, Jerseys & Socks > Sweatshirts & Hoodies",110284,18797,"Condition",1
+"Hockey > Bags > Duffel & Coaches Bags",110267,18786,"Brand",1
+"Hockey > Bags > Duffel & Coaches Bags",110267,18797,"Condition",1
+"Hockey > Bags > Goalie Bags",110266,18786,"Brand",1
+"Hockey > Bags > Goalie Bags",110266,18797,"Condition",1
+"Hockey > Bags > Player Bags",110265,18786,"Brand",1
+"Hockey > Bags > Player Bags",110265,18797,"Condition",1
+"Hockey > Bags > Stick Bags",110278,18786,"Brand",1
+"Hockey > Bags > Stick Bags",110278,18797,"Condition",1
+"Hockey > Bags > Tape Bags, Shave Bags & Laundry Bags",110271,18786,"Brand",1
+"Hockey > Bags > Tape Bags, Shave Bags & Laundry Bags",110271,18797,"Condition",1
+"Hockey > Gloves",110016,23041,"Age Group",0
+"Hockey > Gloves",110016,23189,"Size",1
+"Hockey > Gloves",110016,23032,"Pro Stock",0
+"Hockey > Gloves",110016,18786,"Brand",1
+"Hockey > Gloves",110016,22281,"Color",0
+"Hockey > Gloves",110016,18797,"Condition",1
+"Hockey > Goalie > Accessories & Other",110033,18786,"Brand",1
+"Hockey > Goalie > Accessories & Other",110033,18797,"Condition",1
+"Hockey > Goalie > Goalie Bags",110249,18786,"Brand",1
+"Hockey > Goalie > Goalie Bags",110249,18797,"Condition",1
+"Hockey > Goalie > Goalie Chest & Arm Protectors",110026,18785,"Size",1
+"Hockey > Goalie > Goalie Chest & Arm Protectors",110026,23041,"Age Group",1
+"Hockey > Goalie > Goalie Chest & Arm Protectors",110026,18786,"Brand",1
+"Hockey > Goalie > Goalie Chest & Arm Protectors",110026,23032,"Pro Stock",0
+"Hockey > Goalie > Goalie Chest & Arm Protectors",110026,18797,"Condition",1
+"Hockey > Goalie > Goalie Full Sets",110029,23041,"Age Group",0
+"Hockey > Goalie > Goalie Full Sets",110029,18785,"Size",1
+"Hockey > Goalie > Goalie Full Sets",110029,18792,"Hand",1
+"Hockey > Goalie > Goalie Full Sets",110029,18786,"Brand",1
+"Hockey > Goalie > Goalie Full Sets",110029,22281,"Color",0
+"Hockey > Goalie > Goalie Full Sets",110029,23032,"Pro Stock",0
+"Hockey > Goalie > Goalie Full Sets",110029,18797,"Condition",1
+"Hockey > Goalie > Goalie Gloves & Blockers",110025,18792,"Hand",1
+"Hockey > Goalie > Goalie Gloves & Blockers",110025,23041,"Age Group",1
+"Hockey > Goalie > Goalie Gloves & Blockers",110025,18786,"Brand",1
+"Hockey > Goalie > Goalie Gloves & Blockers",110025,22281,"Color",0
+"Hockey > Goalie > Goalie Gloves & Blockers",110025,23032,"Pro Stock",0
+"Hockey > Goalie > Goalie Gloves & Blockers",110025,18797,"Condition",1
+"Hockey > Goalie > Goalie Leg Pads",110032,23041,"Age Group",0
+"Hockey > Goalie > Goalie Leg Pads",110032,18785,"Size",1
+"Hockey > Goalie > Goalie Leg Pads",110032,18786,"Brand",1
+"Hockey > Goalie > Goalie Leg Pads",110032,22281,"Color",0
+"Hockey > Goalie > Goalie Leg Pads",110032,23032,"Pro Stock",0
+"Hockey > Goalie > Goalie Leg Pads",110032,18797,"Condition",1
+"Hockey > Goalie > Goalie Masks",110030,23041,"Age Group",1
+"Hockey > Goalie > Goalie Masks",110030,18786,"Brand",1
+"Hockey > Goalie > Goalie Masks",110030,22281,"Color",0
+"Hockey > Goalie > Goalie Masks",110030,23032,"Pro Stock",0
+"Hockey > Goalie > Goalie Masks",110030,18797,"Condition",1
+"Hockey > Goalie > Goalie Pants",110027,18785,"Size",1
+"Hockey > Goalie > Goalie Pants",110027,23041,"Age Group",1
+"Hockey > Goalie > Goalie Pants",110027,18786,"Brand",1
+"Hockey > Goalie > Goalie Pants",110027,22281,"Color",0
+"Hockey > Goalie > Goalie Pants",110027,23032,"Pro Stock",0
+"Hockey > Goalie > Goalie Pants",110027,18797,"Condition",1
+"Hockey > Goalie > Goalie Skates",110031,23290,"Skate Size",1
+"Hockey > Goalie > Goalie Skates",110031,24035,"Skate Width",1
+"Hockey > Goalie > Goalie Skates",110031,23041,"Age Group",1
+"Hockey > Goalie > Goalie Skates",110031,18786,"Brand",1
+"Hockey > Goalie > Goalie Skates",110031,23032,"Pro Stock",0
+"Hockey > Goalie > Goalie Skates",110031,18797,"Condition",1
+"Hockey > Goalie > Goalie Sticks",110028,23041,"Age Group",0
+"Hockey > Goalie > Goalie Sticks",110028,24462,"Size",0
+"Hockey > Goalie > Goalie Sticks",110028,23032,"Pro Stock",0
+"Hockey > Goalie > Goalie Sticks",110028,18792,"Hand",1
+"Hockey > Goalie > Goalie Sticks",110028,18786,"Brand",1
+"Hockey > Goalie > Goalie Sticks",110028,18797,"Condition",1
+"Hockey > Helmets",110018,18785,"Size",1
+"Hockey > Helmets",110018,18786,"Brand",1
+"Hockey > Helmets",110018,22281,"Color",0
+"Hockey > Helmets",110018,23032,"Pro Stock",0
+"Hockey > Helmets",110018,18797,"Condition",1
+"Hockey > Inline, Roller & Street > Chassis",110666,18786,"Brand",1
+"Hockey > Inline, Roller & Street > Chassis",110666,18785,"Size",1
+"Hockey > Inline, Roller & Street > Chassis",110666,18797,"Condition",1
+"Hockey > Inline, Roller & Street > Girdles",110255,18786,"Brand",1
+"Hockey > Inline, Roller & Street > Girdles",110255,23041,"Age Group",1
+"Hockey > Inline, Roller & Street > Girdles",110255,18785,"Size",1
+"Hockey > Inline, Roller & Street > Girdles",110255,18797,"Condition",1
+"Hockey > Inline, Roller & Street > Inline Pants",110254,18786,"Brand",1
+"Hockey > Inline, Roller & Street > Inline Pants",110254,22281,"Color",0
+"Hockey > Inline, Roller & Street > Inline Pants",110254,23041,"Age Group",1
+"Hockey > Inline, Roller & Street > Inline Pants",110254,18797,"Condition",1
+"Hockey > Inline, Roller & Street > Inline Skates",110252,24035,"Skate Width",1
+"Hockey > Inline, Roller & Street > Inline Skates",110252,23290,"Skate Size",1
+"Hockey > Inline, Roller & Street > Inline Skates",110252,23041,"Age Group",1
+"Hockey > Inline, Roller & Street > Inline Skates",110252,18786,"Brand",1
+"Hockey > Inline, Roller & Street > Inline Skates",110252,18797,"Condition",1
+"Hockey > Inline, Roller & Street > Neck Guards, Wrist Guards, Padded Shirts & Other",110674,22281,"Color",0
+"Hockey > Inline, Roller & Street > Neck Guards, Wrist Guards, Padded Shirts & Other",110674,23041,"Age Group",1
+"Hockey > Inline, Roller & Street > Neck Guards, Wrist Guards, Padded Shirts & Other",110674,18786,"Brand",1
+"Hockey > Inline, Roller & Street > Neck Guards, Wrist Guards, Padded Shirts & Other",110674,18797,"Condition",1
+"Hockey > Inline, Roller & Street > Pucks & Balls",110672,18786,"Brand",0
+"Hockey > Inline, Roller & Street > Pucks & Balls",110672,18797,"Condition",1
+"Hockey > Inline, Roller & Street > Shooting Tiles",110677,18786,"Brand",0
+"Hockey > Inline, Roller & Street > Shooting Tiles",110677,18797,"Condition",1
+"Hockey > Inline, Roller & Street > Wheels",110665,18786,"Brand",1
+"Hockey > Inline, Roller & Street > Wheels",110665,18797,"Condition",1
+"Hockey > Pants, Girdles & Shells > Girdles",110262,23041,"Age Group",1
+"Hockey > Pants, Girdles & Shells > Girdles",110262,18786,"Brand",1
+"Hockey > Pants, Girdles & Shells > Girdles",110262,18785,"Size",1
+"Hockey > Pants, Girdles & Shells > Girdles",110262,23032,"Pro Stock",0
+"Hockey > Pants, Girdles & Shells > Girdles",110262,18797,"Condition",1
+"Hockey > Pants, Girdles & Shells > Goalie Pants",110257,18785,"Size",1
+"Hockey > Pants, Girdles & Shells > Goalie Pants",110257,23041,"Age Group",1
+"Hockey > Pants, Girdles & Shells > Goalie Pants",110257,18786,"Brand",1
+"Hockey > Pants, Girdles & Shells > Goalie Pants",110257,22281,"Color",0
+"Hockey > Pants, Girdles & Shells > Goalie Pants",110257,23032,"Pro Stock",0
+"Hockey > Pants, Girdles & Shells > Goalie Pants",110257,18797,"Condition",1
+"Hockey > Pants, Girdles & Shells > Inline Pants",110264,18785,"Size",1
+"Hockey > Pants, Girdles & Shells > Inline Pants",110264,18786,"Brand",1
+"Hockey > Pants, Girdles & Shells > Inline Pants",110264,22281,"Color",0
+"Hockey > Pants, Girdles & Shells > Inline Pants",110264,23041,"Age Group",1
+"Hockey > Pants, Girdles & Shells > Inline Pants",110264,18797,"Condition",1
+"Hockey > Pants, Girdles & Shells > Pant Shells",110259,18785,"Size",1
+"Hockey > Pants, Girdles & Shells > Pant Shells",110259,18786,"Brand",1
+"Hockey > Pants, Girdles & Shells > Pant Shells",110259,23041,"Age Group",1
+"Hockey > Pants, Girdles & Shells > Pant Shells",110259,23032,"Pro Stock",0
+"Hockey > Pants, Girdles & Shells > Pant Shells",110259,18797,"Condition",1
+"Hockey > Pants, Girdles & Shells > Player Pants",110019,18785,"Size",1
+"Hockey > Pants, Girdles & Shells > Player Pants",110019,23041,"Age Group",1
+"Hockey > Pants, Girdles & Shells > Player Pants",110019,18786,"Brand",1
+"Hockey > Pants, Girdles & Shells > Player Pants",110019,22281,"Color",0
+"Hockey > Pants, Girdles & Shells > Player Pants",110019,23032,"Pro Stock",0
+"Hockey > Pants, Girdles & Shells > Player Pants",110019,18797,"Condition",1
+"Hockey > Protective > Elbow Pads",110015,18785,"Size",1
+"Hockey > Protective > Elbow Pads",110015,23041,"Age Group",1
+"Hockey > Protective > Elbow Pads",110015,18786,"Brand",1
+"Hockey > Protective > Elbow Pads",110015,23032,"Pro Stock",0
+"Hockey > Protective > Elbow Pads",110015,18797,"Condition",1
+"Hockey > Protective > Neck Guards, Wrist Guards, Padded Shirts & Other",110017,23041,"Age Group",0
+"Hockey > Protective > Neck Guards, Wrist Guards, Padded Shirts & Other",110017,18786,"Brand",1
+"Hockey > Protective > Neck Guards, Wrist Guards, Padded Shirts & Other",110017,22281,"Color",0
+"Hockey > Protective > Neck Guards, Wrist Guards, Padded Shirts & Other",110017,18797,"Condition",1
+"Hockey > Protective > Shin Pads",110020,23041,"Age Group",0
+"Hockey > Protective > Shin Pads",110020,23118,"Size",1
+"Hockey > Protective > Shin Pads",110020,18786,"Brand",1
+"Hockey > Protective > Shin Pads",110020,23032,"Pro Stock",0
+"Hockey > Protective > Shin Pads",110020,18797,"Condition",1
+"Hockey > Protective > Shoulder Pads",110021,23041,"Age Group",0
+"Hockey > Protective > Shoulder Pads",110021,18785,"Size",1
+"Hockey > Protective > Shoulder Pads",110021,18786,"Brand",1
+"Hockey > Protective > Shoulder Pads",110021,23032,"Pro Stock",0
+"Hockey > Protective > Shoulder Pads",110021,18797,"Condition",1
+"Hockey > Skates > Goalie Skates",110244,24035,"Skate Width",0
+"Hockey > Skates > Goalie Skates",110244,23290,"Skate Size",1
+"Hockey > Skates > Goalie Skates",110244,23041,"Age Group",1
+"Hockey > Skates > Goalie Skates",110244,18786,"Brand",1
+"Hockey > Skates > Goalie Skates",110244,23032,"Pro Stock",0
+"Hockey > Skates > Goalie Skates",110244,18797,"Condition",1
+"Hockey > Skates > Holders, Runners, & Replacement Steel",110246,18786,"Brand",1
+"Hockey > Skates > Holders, Runners, & Replacement Steel",110246,24483,"Size",1
+"Hockey > Skates > Holders, Runners, & Replacement Steel",110246,18797,"Condition",1
+"Hockey > Skates > Inline Skates",110245,24035,"Skate Width",0
+"Hockey > Skates > Inline Skates",110245,23041,"Age Group",0
+"Hockey > Skates > Inline Skates",110245,23290,"Skate Size",1
+"Hockey > Skates > Inline Skates",110245,18786,"Brand",1
+"Hockey > Skates > Inline Skates",110245,18797,"Condition",1
+"Hockey > Skates > Player Skates",110022,24035,"Skate Width",0
+"Hockey > Skates > Player Skates",110022,23041,"Age Group",1
+"Hockey > Skates > Player Skates",110022,23032,"Pro Stock",0
+"Hockey > Skates > Player Skates",110022,23290,"Skate Size",1
+"Hockey > Skates > Player Skates",110022,18786,"Brand",1
+"Hockey > Skates > Player Skates",110022,18797,"Condition",1
+"Hockey > Starter Kits (Full Sets)",110608,23041,"Age Group",1
+"Hockey > Starter Kits (Full Sets)",110608,18786,"Brand",1
+"Hockey > Starter Kits (Full Sets)",110608,18797,"Condition",1
+"Hockey > Sticks > Blades",110253,23041,"Age Group",1
+"Hockey > Sticks > Blades",110253,18786,"Brand",1
+"Hockey > Sticks > Blades",110253,23032,"Pro Stock",0
+"Hockey > Sticks > Blades",110253,23098,"Pattern",0
+"Hockey > Sticks > Blades",110253,18792,"Hand",1
+"Hockey > Sticks > Blades",110253,18797,"Condition",1
+"Hockey > Sticks > Goalie Sticks",110248,23041,"Age Group",0
+"Hockey > Sticks > Goalie Sticks",110248,23032,"Pro Stock",0
+"Hockey > Sticks > Goalie Sticks",110248,18792,"Hand",1
+"Hockey > Sticks > Goalie Sticks",110248,18786,"Brand",1
+"Hockey > Sticks > Goalie Sticks",110248,24462,"Size",1
+"Hockey > Sticks > Goalie Sticks",110248,18797,"Condition",1
+"Hockey > Sticks > One Piece Sticks",110023,23041,"Age Group",0
+"Hockey > Sticks > One Piece Sticks",110023,18792,"Hand",1
+"Hockey > Sticks > One Piece Sticks",110023,23098,"Pattern",0
+"Hockey > Sticks > One Piece Sticks",110023,23080,"Flex",1
+"Hockey > Sticks > One Piece Sticks",110023,23032,"Pro Stock",0
+"Hockey > Sticks > One Piece Sticks",110023,18786,"Brand",1
+"Hockey > Sticks > One Piece Sticks",110023,18797,"Condition",1
+"Hockey > Sticks > Shafts",110250,23041,"Age Group",1
+"Hockey > Sticks > Shafts",110250,23032,"Pro Stock",0
+"Hockey > Sticks > Shafts",110250,18786,"Brand",1
+"Hockey > Sticks > Shafts",110250,23080,"Flex",1
+"Hockey > Sticks > Shafts",110250,18797,"Condition",1
+"Hockey > Training, Accessories, & Other > Cages, Visors & Shields",110014,23041,"Age Group",0
+"Hockey > Training, Accessories, & Other > Cages, Visors & Shields",110014,18785,"Size",1
+"Hockey > Training, Accessories, & Other > Cages, Visors & Shields",110014,18786,"Brand",1
+"Hockey > Training, Accessories, & Other > Cages, Visors & Shields",110014,23102,"Style",0
+"Hockey > Training, Accessories, & Other > Cages, Visors & Shields",110014,18797,"Condition",1
+"Hockey > Training, Accessories, & Other > Coaches Tools",110272,18786,"Brand",1
+"Hockey > Training, Accessories, & Other > Coaches Tools",110272,18797,"Condition",1
+"Hockey > Training, Accessories, & Other > Cones",110274,18786,"Brand",1
+"Hockey > Training, Accessories, & Other > Cones",110274,18797,"Condition",1
+"Hockey > Training, Accessories, & Other > Equipment Care",110275,18786,"Brand",1
+"Hockey > Training, Accessories, & Other > Equipment Care",110275,18797,"Condition",1
+"Hockey > Training, Accessories, & Other > Holders, Runners & Replacement Steel",110263,18786,"Brand",1
+"Hockey > Training, Accessories, & Other > Holders, Runners & Replacement Steel",110263,24483,"Size",1
+"Hockey > Training, Accessories, & Other > Holders, Runners & Replacement Steel",110263,18797,"Condition",1
+"Hockey > Training, Accessories, & Other > Jocks & Cups",110269,18786,"Brand",1
+"Hockey > Training, Accessories, & Other > Jocks & Cups",110269,18797,"Condition",1
+"Hockey > Training, Accessories, & Other > Laces",110261,18786,"Brand",1
+"Hockey > Training, Accessories, & Other > Laces",110261,18797,"Condition",1
+"Hockey > Training, Accessories, & Other > Mouthguards",110277,18786,"Brand",1
+"Hockey > Training, Accessories, & Other > Mouthguards",110277,18797,"Condition",1
+"Hockey > Training, Accessories, & Other > Neck Guards, Wrist Guards, Padded Shirts & Other",110279,23041,"Age Group",0
+"Hockey > Training, Accessories, & Other > Neck Guards, Wrist Guards, Padded Shirts & Other",110279,18786,"Brand",1
+"Hockey > Training, Accessories, & Other > Neck Guards, Wrist Guards, Padded Shirts & Other",110279,22281,"Color",0
+"Hockey > Training, Accessories, & Other > Neck Guards, Wrist Guards, Padded Shirts & Other",110279,18797,"Condition",1
+"Hockey > Training, Accessories, & Other > Nets",110273,18786,"Brand",1
+"Hockey > Training, Accessories, & Other > Nets",110273,18797,"Condition",1
+"Hockey > Training, Accessories, & Other > Other",110024,22281,"Color",0
+"Hockey > Training, Accessories, & Other > Other",110024,18786,"Brand",1
+"Hockey > Training, Accessories, & Other > Other",110024,18797,"Condition",1
+"Hockey > Training, Accessories, & Other > Pucks & Balls",110268,18786,"Brand",1
+"Hockey > Training, Accessories, & Other > Pucks & Balls",110268,18797,"Condition",1
+"Hockey > Training, Accessories, & Other > Referee",110270,18786,"Brand",1
+"Hockey > Training, Accessories, & Other > Referee",110270,18797,"Condition",1
+"Hockey > Training, Accessories, & Other > Shooting Tiles",110676,18786,"Brand",1
+"Hockey > Training, Accessories, & Other > Shooting Tiles",110676,18797,"Condition",1
+"Hockey > Training, Accessories, & Other > Tape & Grips",110260,18786,"Brand",1
+"Hockey > Training, Accessories, & Other > Tape & Grips",110260,18797,"Condition",1
+"Hockey > Training, Accessories, & Other > Water Bottles",110276,18786,"Brand",1
+"Hockey > Training, Accessories, & Other > Water Bottles",110276,18797,"Condition",1
+"Inline, Roller & Street Hockey > Chassis",110667,18786,"Brand",1
+"Inline, Roller & Street Hockey > Chassis",110667,18785,"Size",1
+"Inline, Roller & Street Hockey > Chassis",110667,18797,"Condition",1
+"Inline, Roller & Street Hockey > Girdles",110663,18785,"Size",1
+"Inline, Roller & Street Hockey > Girdles",110663,23041,"Age Group",1
+"Inline, Roller & Street Hockey > Girdles",110663,18786,"Brand",1
+"Inline, Roller & Street Hockey > Girdles",110663,18797,"Condition",1
+"Inline, Roller & Street Hockey > Inline Pants",110664,22281,"Color",0
+"Inline, Roller & Street Hockey > Inline Pants",110664,23041,"Age Group",1
+"Inline, Roller & Street Hockey > Inline Pants",110664,18786,"Brand",1
+"Inline, Roller & Street Hockey > Inline Pants",110664,18797,"Condition",1
+"Inline, Roller & Street Hockey > Neck Guards, Wrist Guards, Padded Shirts & Other",110675,22281,"Color",0
+"Inline, Roller & Street Hockey > Neck Guards, Wrist Guards, Padded Shirts & Other",110675,23041,"Age Group",1
+"Inline, Roller & Street Hockey > Neck Guards, Wrist Guards, Padded Shirts & Other",110675,18786,"Brand",1
+"Inline, Roller & Street Hockey > Neck Guards, Wrist Guards, Padded Shirts & Other",110675,18797,"Condition",1
+"Inline, Roller & Street Hockey > Pucks & Balls",110673,18786,"Brand",0
+"Inline, Roller & Street Hockey > Pucks & Balls",110673,18797,"Condition",1
+"Inline, Roller & Street Hockey > Shooting Tiles",110678,18786,"Brand",0
+"Inline, Roller & Street Hockey > Shooting Tiles",110678,18797,"Condition",1
+"Inline, Roller & Street Hockey > Skates",110638,24035,"Skate Width",1
+"Inline, Roller & Street Hockey > Skates",110638,23290,"Skate Size",1
+"Inline, Roller & Street Hockey > Skates",110638,23041,"Age Group",1
+"Inline, Roller & Street Hockey > Skates",110638,18786,"Brand",1
+"Inline, Roller & Street Hockey > Skates",110638,18797,"Condition",1
+"Inline, Roller & Street Hockey > Wheels",110668,18786,"Brand",1
+"Inline, Roller & Street Hockey > Wheels",110668,18797,"Condition",1
+"Lacrosse > Accessories & Other > Cages & Helmet Accessories",110413,18786,"Brand",1
+"Lacrosse > Accessories & Other > Cages & Helmet Accessories",110413,18797,"Condition",1
+"Lacrosse > Accessories & Other > Jocks & Cups",110409,18785,"Size",0
+"Lacrosse > Accessories & Other > Jocks & Cups",110409,18786,"Brand",1
+"Lacrosse > Accessories & Other > Jocks & Cups",110409,18797,"Condition",1
+"Lacrosse > Accessories & Other > Other",110012,18786,"Brand",1
+"Lacrosse > Accessories & Other > Other",110012,18797,"Condition",1
+"Lacrosse > Accessories & Other > Stringing Supplies",110011,18786,"Brand",1
+"Lacrosse > Accessories & Other > Stringing Supplies",110011,22281,"Color",0
+"Lacrosse > Accessories & Other > Stringing Supplies",110011,18797,"Condition",1
+"Lacrosse > Apparel > Compression & Base Layers",110392,18786,"Brand",1
+"Lacrosse > Apparel > Compression & Base Layers",110392,18785,"Size",1
+"Lacrosse > Apparel > Compression & Base Layers",110392,23041,"Age Group",1
+"Lacrosse > Apparel > Compression & Base Layers",110392,22281,"Color",1
+"Lacrosse > Apparel > Compression & Base Layers",110392,18787,"Gender",1
+"Lacrosse > Apparel > Compression & Base Layers",110392,24834,"Team Issued",0
+"Lacrosse > Apparel > Compression & Base Layers",110392,24817,"Compression Type",0
+"Lacrosse > Apparel > Compression & Base Layers",110392,24853,"Compression Use",0
+"Lacrosse > Apparel > Compression & Base Layers",110392,18797,"Condition",1
+"Lacrosse > Apparel > Hats",110415,18786,"Brand",1
+"Lacrosse > Apparel > Hats",110415,22281,"Color",1
+"Lacrosse > Apparel > Hats",110415,18787,"Gender",1
+"Lacrosse > Apparel > Hats",110415,18785,"Size",1
+"Lacrosse > Apparel > Hats",110415,23041,"Age Group",1
+"Lacrosse > Apparel > Hats",110415,24837,"Clothing Style",0
+"Lacrosse > Apparel > Hats",110415,24826,"Hat Type",0
+"Lacrosse > Apparel > Hats",110415,24834,"Team Issued",0
+"Lacrosse > Apparel > Hats",110415,18797,"Condition",1
+"Lacrosse > Apparel > Jackets & Coats",110414,18786,"Brand",1
+"Lacrosse > Apparel > Jackets & Coats",110414,18785,"Size",1
+"Lacrosse > Apparel > Jackets & Coats",110414,23041,"Age Group",1
+"Lacrosse > Apparel > Jackets & Coats",110414,22281,"Color",1
+"Lacrosse > Apparel > Jackets & Coats",110414,18787,"Gender",1
+"Lacrosse > Apparel > Jackets & Coats",110414,24834,"Team Issued",0
+"Lacrosse > Apparel > Jackets & Coats",110414,24837,"Clothing Style",0
+"Lacrosse > Apparel > Jackets & Coats",110414,24844,"Hooded",0
+"Lacrosse > Apparel > Jackets & Coats",110414,24859,"Liner",0
+"Lacrosse > Apparel > Jackets & Coats",110414,24821,"Jacket Type",0
+"Lacrosse > Apparel > Jackets & Coats",110414,18797,"Condition",1
+"Lacrosse > Apparel > Jerseys & Pinnies",110389,18786,"Brand",1
+"Lacrosse > Apparel > Jerseys & Pinnies",110389,18785,"Size",1
+"Lacrosse > Apparel > Jerseys & Pinnies",110389,23041,"Age Group",1
+"Lacrosse > Apparel > Jerseys & Pinnies",110389,22281,"Color",1
+"Lacrosse > Apparel > Jerseys & Pinnies",110389,18787,"Gender",1
+"Lacrosse > Apparel > Jerseys & Pinnies",110389,24834,"Team Issued",0
+"Lacrosse > Apparel > Jerseys & Pinnies",110389,24837,"Clothing Style",0
+"Lacrosse > Apparel > Jerseys & Pinnies",110389,24115,"Jersey Type",0
+"Lacrosse > Apparel > Jerseys & Pinnies",110389,18797,"Condition",1
+"Lacrosse > Apparel > Shirts",110001,18785,"Size",1
+"Lacrosse > Apparel > Shirts",110001,18786,"Brand",1
+"Lacrosse > Apparel > Shirts",110001,22281,"Color",1
+"Lacrosse > Apparel > Shirts",110001,23041,"Age Group",1
+"Lacrosse > Apparel > Shirts",110001,24834,"Team Issued",0
+"Lacrosse > Apparel > Shirts",110001,24837,"Clothing Style",0
+"Lacrosse > Apparel > Shirts",110001,18787,"Gender",1
+"Lacrosse > Apparel > Shirts",110001,24132,"Shirt Type",0
+"Lacrosse > Apparel > Shirts",110001,24869,"Sleeve Length",0
+"Lacrosse > Apparel > Shirts",110001,18797,"Condition",1
+"Lacrosse > Apparel > Shorts",110390,18786,"Brand",1
+"Lacrosse > Apparel > Shorts",110390,18785,"Size",1
+"Lacrosse > Apparel > Shorts",110390,23041,"Age Group",1
+"Lacrosse > Apparel > Shorts",110390,22281,"Color",1
+"Lacrosse > Apparel > Shorts",110390,18787,"Gender",1
+"Lacrosse > Apparel > Shorts",110390,24834,"Team Issued",0
+"Lacrosse > Apparel > Shorts",110390,24837,"Clothing Style",0
+"Lacrosse > Apparel > Shorts",110390,24799,"Short Type",0
+"Lacrosse > Apparel > Shorts",110390,24873,"Length",0
+"Lacrosse > Apparel > Shorts",110390,18797,"Condition",1
+"Lacrosse > Apparel > Socks",110416,18786,"Brand",1
+"Lacrosse > Apparel > Socks",110416,18785,"Size",1
+"Lacrosse > Apparel > Socks",110416,23041,"Age Group",1
+"Lacrosse > Apparel > Socks",110416,22281,"Color",1
+"Lacrosse > Apparel > Socks",110416,18787,"Gender",1
+"Lacrosse > Apparel > Socks",110416,24848,"Number of Pairs",0
+"Lacrosse > Apparel > Socks",110416,24873,"Length",0
+"Lacrosse > Apparel > Socks",110416,18797,"Condition",1
+"Lacrosse > Apparel > Sweatshirts & Hoodies",110391,18786,"Brand",1
+"Lacrosse > Apparel > Sweatshirts & Hoodies",110391,18785,"Size",1
+"Lacrosse > Apparel > Sweatshirts & Hoodies",110391,23041,"Age Group",1
+"Lacrosse > Apparel > Sweatshirts & Hoodies",110391,22281,"Color",1
+"Lacrosse > Apparel > Sweatshirts & Hoodies",110391,18787,"Gender",1
+"Lacrosse > Apparel > Sweatshirts & Hoodies",110391,24834,"Team Issued",0
+"Lacrosse > Apparel > Sweatshirts & Hoodies",110391,24837,"Clothing Style",0
+"Lacrosse > Apparel > Sweatshirts & Hoodies",110391,24811,"Type",0
+"Lacrosse > Apparel > Sweatshirts & Hoodies",110391,24844,"Hooded",0
+"Lacrosse > Apparel > Sweatshirts & Hoodies",110391,18797,"Condition",1
+"Lacrosse > Bags",110398,18786,"Brand",1
+"Lacrosse > Bags",110398,18797,"Condition",1
+"Lacrosse > Balls",110187,18786,"Brand",1
+"Lacrosse > Balls",110187,24679,"Number of Balls",0
+"Lacrosse > Balls",110187,18797,"Condition",1
+"Lacrosse > Footwear",110005,18785,"Size",1
+"Lacrosse > Footwear",110005,18786,"Brand",1
+"Lacrosse > Footwear",110005,22281,"Color",0
+"Lacrosse > Footwear",110005,23850,"Type",0
+"Lacrosse > Footwear",110005,23864,"Cleat Height",0
+"Lacrosse > Footwear",110005,23041,"Age Group",1
+"Lacrosse > Footwear",110005,18787,"Gender",0
+"Lacrosse > Footwear",110005,18797,"Condition",1
+"Lacrosse > Gloves",110006,23867,"Position",0
+"Lacrosse > Gloves",110006,23189,"Size",1
+"Lacrosse > Gloves",110006,18786,"Brand",1
+"Lacrosse > Gloves",110006,22281,"Color",0
+"Lacrosse > Gloves",110006,18797,"Condition",1
+"Lacrosse > Goalie > Complete Sticks",110401,18786,"Brand",1
+"Lacrosse > Goalie > Complete Sticks",110401,18797,"Condition",1
+"Lacrosse > Goalie > Gloves",110395,23189,"Size",1
+"Lacrosse > Goalie > Gloves",110395,18786,"Brand",1
+"Lacrosse > Goalie > Gloves",110395,22281,"Color",0
+"Lacrosse > Goalie > Gloves",110395,18797,"Condition",1
+"Lacrosse > Goalie > Goalie Chest Protectors",110007,18785,"Size",1
+"Lacrosse > Goalie > Goalie Chest Protectors",110007,23041,"Age Group",1
+"Lacrosse > Goalie > Goalie Chest Protectors",110007,18786,"Brand",1
+"Lacrosse > Goalie > Goalie Chest Protectors",110007,22281,"Color",0
+"Lacrosse > Goalie > Goalie Chest Protectors",110007,18797,"Condition",1
+"Lacrosse > Goalie > Goalie Heads",110400,23108,"Strung / Unstrung",1
+"Lacrosse > Goalie > Goalie Heads",110400,18786,"Brand",1
+"Lacrosse > Goalie > Goalie Heads",110400,18797,"Condition",1
+"Lacrosse > Goalie > Goalie Other",110396,18786,"Brand",1
+"Lacrosse > Goalie > Goalie Other",110396,18797,"Condition",1
+"Lacrosse > Goalie > Goalie Pants",110399,18786,"Brand",1
+"Lacrosse > Goalie > Goalie Pants",110399,18785,"Size",1
+"Lacrosse > Goalie > Goalie Pants",110399,23041,"Age Group",1
+"Lacrosse > Goalie > Goalie Pants",110399,18797,"Condition",1
+"Lacrosse > Goalie > Goalie Shin & Arm Guards",110397,18786,"Brand",1
+"Lacrosse > Goalie > Goalie Shin & Arm Guards",110397,18785,"Size",1
+"Lacrosse > Goalie > Goalie Shin & Arm Guards",110397,23041,"Age Group",1
+"Lacrosse > Goalie > Goalie Shin & Arm Guards",110397,18797,"Condition",1
+"Lacrosse > Goalie > Helmets",110402,23041,"Age Group",1
+"Lacrosse > Goalie > Helmets",110402,18786,"Brand",1
+"Lacrosse > Goalie > Helmets",110402,18797,"Condition",1
+"Lacrosse > Helmets",110009,23867,"Position",0
+"Lacrosse > Helmets",110009,23041,"Age Group",0
+"Lacrosse > Helmets",110009,22281,"Color",0
+"Lacrosse > Helmets",110009,18786,"Brand",1
+"Lacrosse > Helmets",110009,18797,"Condition",1
+"Lacrosse > Protective > Arm Pads",110002,18785,"Size",1
+"Lacrosse > Protective > Arm Pads",110002,18786,"Brand",1
+"Lacrosse > Protective > Arm Pads",110002,18797,"Condition",1
+"Lacrosse > Protective > Chest & Shoulder Pads",110003,18785,"Size",1
+"Lacrosse > Protective > Chest & Shoulder Pads",110003,18786,"Brand",1
+"Lacrosse > Protective > Chest & Shoulder Pads",110003,18797,"Condition",1
+"Lacrosse > Sticks > Complete Sticks",110004,24040,"Position",0
+"Lacrosse > Sticks > Complete Sticks",110004,18786,"Brand",1
+"Lacrosse > Sticks > Complete Sticks",110004,18797,"Condition",1
+"Lacrosse > Sticks > Heads",110008,23867,"Position",0
+"Lacrosse > Sticks > Heads",110008,23108,"Strung / Unstrung",0
+"Lacrosse > Sticks > Heads",110008,18786,"Brand",1
+"Lacrosse > Sticks > Heads",110008,18797,"Condition",1
+"Lacrosse > Sticks > Heads",110008,22281,"Color",0
+"Lacrosse > Sticks > Shafts",110010,24040,"Position",0
+"Lacrosse > Sticks > Shafts",110010,18786,"Brand",1
+"Lacrosse > Sticks > Shafts",110010,18797,"Condition",1
+"Lacrosse > Training, Coach & Field > Backstops",110406,18786,"Brand",1
+"Lacrosse > Training, Coach & Field > Backstops",110406,18797,"Condition",1
+"Lacrosse > Training, Coach & Field > Coaches",110412,18786,"Brand",1
+"Lacrosse > Training, Coach & Field > Coaches",110412,18797,"Condition",1
+"Lacrosse > Training, Coach & Field > Field Markings",110408,18786,"Brand",1
+"Lacrosse > Training, Coach & Field > Field Markings",110408,18797,"Condition",1
+"Lacrosse > Training, Coach & Field > Goals & Nets",110405,18786,"Brand",1
+"Lacrosse > Training, Coach & Field > Goals & Nets",110405,18797,"Condition",1
+"Lacrosse > Training, Coach & Field > Rebounders",110407,18786,"Brand",1
+"Lacrosse > Training, Coach & Field > Rebounders",110407,18797,"Condition",1
+"Lacrosse > Training, Coach & Field > Targets",110410,18786,"Brand",1
+"Lacrosse > Training, Coach & Field > Targets",110410,18797,"Condition",1
+"Lacrosse > Training, Coach & Field > Training",110411,18786,"Brand",1
+"Lacrosse > Training, Coach & Field > Training",110411,18797,"Condition",1
+"Memorabilia",110581,18786,"Brand",1
+"Memorabilia",110581,24435,"Sport",1
+"Memorabilia",110581,18797,"Condition",1
+"Motocross",110174,22281,"Color",0
+"Motocross",110174,18786,"Brand",1
+"Motocross",110174,18787,"Gender",0
+"Motocross",110174,18797,"Condition",1
+"Other",110173,22281,"Color",0
+"Other",110173,18786,"Brand",1
+"Other",110173,18797,"Condition",1
+"Outdoors > Fishing > Accessories & Others",110625,18786,"Brand",1
+"Outdoors > Fishing > Accessories & Others",110625,18797,"Condition",1
+"Outdoors > Fishing > Baits, Lures & Flies",110623,18786,"Brand",1
+"Outdoors > Fishing > Baits, Lures & Flies",110623,18797,"Condition",1
+"Outdoors > Fishing > Fishing Reels",110609,18786,"Brand",1
+"Outdoors > Fishing > Fishing Reels",110609,18797,"Condition",1
+"Outdoors > Fishing > Fishing Rods",110622,18786,"Brand",1
+"Outdoors > Fishing > Fishing Rods",110622,18797,"Condition",1
+"Outdoors > Fishing > Lines & Leaders",110624,18786,"Brand",1
+"Outdoors > Fishing > Lines & Leaders",110624,18797,"Condition",1
+"Outdoors > Skateboarding > Boards",110171,22281,"Color",0
+"Outdoors > Skateboarding > Boards",110171,18786,"Brand",1
+"Outdoors > Skateboarding > Boards",110171,18797,"Condition",1
+"Outdoors > Skateboarding > Trucks, Bearings & Wheels",110627,18786,"Brand",1
+"Outdoors > Skateboarding > Trucks, Bearings & Wheels",110627,18797,"Condition",1
+"Outdoors > Surf, Wake & Water Sports > Accessories",110602,18786,"Brand",1
+"Outdoors > Surf, Wake & Water Sports > Accessories",110602,18797,"Condition",1
+"Outdoors > Surf, Wake & Water Sports > Other",110603,18786,"Brand",1
+"Outdoors > Surf, Wake & Water Sports > Other",110603,18797,"Condition",1
+"Outdoors > Surf, Wake & Water Sports > Wetsuits & Rashguards",110600,18786,"Brand",1
+"Outdoors > Surf, Wake & Water Sports > Wetsuits & Rashguards",110600,18797,"Condition",1
+"Paintball > Paintball Marker Packages",110658,18786,"Brand",1
+"Paintball > Paintball Marker Packages",110658,18797,"Condition",1
+"Paintball > Paintball Markers",110656,18786,"Brand",1
+"Paintball > Paintball Markers",110656,18797,"Condition",1
+"Paintball > Paintball Masks",110657,18786,"Brand",1
+"Paintball > Paintball Masks",110657,18797,"Condition",1
+"Skiing > Apparel & Outerwear > Base Layers",110292,18785,"Size",1
+"Skiing > Apparel & Outerwear > Base Layers",110292,18786,"Brand",1
+"Skiing > Apparel & Outerwear > Base Layers",110292,22281,"Color",1
+"Skiing > Apparel & Outerwear > Base Layers",110292,18787,"Gender",1
+"Skiing > Apparel & Outerwear > Base Layers",110292,23041,"Age Group",1
+"Skiing > Apparel & Outerwear > Base Layers",110292,24834,"Team Issued",0
+"Skiing > Apparel & Outerwear > Base Layers",110292,24817,"Compression Type",0
+"Skiing > Apparel & Outerwear > Base Layers",110292,24853,"Compression Use",0
+"Skiing > Apparel & Outerwear > Base Layers",110292,18797,"Condition",1
+"Skiing > Apparel & Outerwear > Gloves & Mittens",110051,18785,"Size",1
+"Skiing > Apparel & Outerwear > Gloves & Mittens",110051,18786,"Brand",1
+"Skiing > Apparel & Outerwear > Gloves & Mittens",110051,22281,"Color",1
+"Skiing > Apparel & Outerwear > Gloves & Mittens",110051,18787,"Gender",1
+"Skiing > Apparel & Outerwear > Gloves & Mittens",110051,24368,"Type",0
+"Skiing > Apparel & Outerwear > Gloves & Mittens",110051,23041,"Age Group",1
+"Skiing > Apparel & Outerwear > Gloves & Mittens",110051,18797,"Condition",1
+"Skiing > Apparel & Outerwear > Hats",110289,18785,"Size",1
+"Skiing > Apparel & Outerwear > Hats",110289,18786,"Brand",1
+"Skiing > Apparel & Outerwear > Hats",110289,22281,"Color",1
+"Skiing > Apparel & Outerwear > Hats",110289,18787,"Gender",1
+"Skiing > Apparel & Outerwear > Hats",110289,23041,"Age Group",1
+"Skiing > Apparel & Outerwear > Hats",110289,24837,"Clothing Style",0
+"Skiing > Apparel & Outerwear > Hats",110289,24826,"Hat Type",0
+"Skiing > Apparel & Outerwear > Hats",110289,24834,"Team Issued",0
+"Skiing > Apparel & Outerwear > Hats",110289,18797,"Condition",1
+"Skiing > Apparel & Outerwear > Jackets & Coats",110045,18786,"Brand",1
+"Skiing > Apparel & Outerwear > Jackets & Coats",110045,18785,"Size",1
+"Skiing > Apparel & Outerwear > Jackets & Coats",110045,18787,"Gender",1
+"Skiing > Apparel & Outerwear > Jackets & Coats",110045,22281,"Color",1
+"Skiing > Apparel & Outerwear > Jackets & Coats",110045,23041,"Age Group",1
+"Skiing > Apparel & Outerwear > Jackets & Coats",110045,24834,"Team Issued",0
+"Skiing > Apparel & Outerwear > Jackets & Coats",110045,24837,"Clothing Style",0
+"Skiing > Apparel & Outerwear > Jackets & Coats",110045,24844,"Hooded",0
+"Skiing > Apparel & Outerwear > Jackets & Coats",110045,24859,"Liner",0
+"Skiing > Apparel & Outerwear > Jackets & Coats",110045,18797,"Condition",1
+"Skiing > Apparel & Outerwear > Other",110315,18786,"Brand",1
+"Skiing > Apparel & Outerwear > Other",110315,18785,"Size",1
+"Skiing > Apparel & Outerwear > Other",110315,18787,"Gender",1
+"Skiing > Apparel & Outerwear > Other",110315,23041,"Age Group",1
+"Skiing > Apparel & Outerwear > Other",110315,22281,"Color",1
+"Skiing > Apparel & Outerwear > Other",110315,24834,"Team Issued",0
+"Skiing > Apparel & Outerwear > Other",110315,24837,"Clothing Style",0
+"Skiing > Apparel & Outerwear > Other",110315,18797,"Condition",1
+"Skiing > Apparel & Outerwear > Shirts",110313,18786,"Brand",1
+"Skiing > Apparel & Outerwear > Shirts",110313,18785,"Size",1
+"Skiing > Apparel & Outerwear > Shirts",110313,18787,"Gender",1
+"Skiing > Apparel & Outerwear > Shirts",110313,23041,"Age Group",1
+"Skiing > Apparel & Outerwear > Shirts",110313,22281,"Color",1
+"Skiing > Apparel & Outerwear > Shirts",110313,24834,"Team Issued",0
+"Skiing > Apparel & Outerwear > Shirts",110313,24837,"Clothing Style",0
+"Skiing > Apparel & Outerwear > Shirts",110313,24132,"Shirt Type",0
+"Skiing > Apparel & Outerwear > Shirts",110313,24869,"Sleeve Length",0
+"Skiing > Apparel & Outerwear > Shirts",110313,18797,"Condition",1
+"Skiing > Apparel & Outerwear > Shorts",110314,18786,"Brand",1
+"Skiing > Apparel & Outerwear > Shorts",110314,18785,"Size",1
+"Skiing > Apparel & Outerwear > Shorts",110314,18787,"Gender",1
+"Skiing > Apparel & Outerwear > Shorts",110314,23041,"Age Group",1
+"Skiing > Apparel & Outerwear > Shorts",110314,22281,"Color",1
+"Skiing > Apparel & Outerwear > Shorts",110314,24834,"Team Issued",0
+"Skiing > Apparel & Outerwear > Shorts",110314,24837,"Clothing Style",0
+"Skiing > Apparel & Outerwear > Shorts",110314,24799,"Short Type",0
+"Skiing > Apparel & Outerwear > Shorts",110314,24873,"Length",0
+"Skiing > Apparel & Outerwear > Shorts",110314,18797,"Condition",1
+"Skiing > Apparel & Outerwear > Ski Pants & Bibs",110052,18786,"Brand",1
+"Skiing > Apparel & Outerwear > Ski Pants & Bibs",110052,18785,"Size",1
+"Skiing > Apparel & Outerwear > Ski Pants & Bibs",110052,18787,"Gender",1
+"Skiing > Apparel & Outerwear > Ski Pants & Bibs",110052,23041,"Age Group",1
+"Skiing > Apparel & Outerwear > Ski Pants & Bibs",110052,22281,"Color",1
+"Skiing > Apparel & Outerwear > Ski Pants & Bibs",110052,24834,"Team Issued",0
+"Skiing > Apparel & Outerwear > Ski Pants & Bibs",110052,24837,"Clothing Style",0
+"Skiing > Apparel & Outerwear > Ski Pants & Bibs",110052,18797,"Condition",1
+"Skiing > Apparel & Outerwear > Ski Socks",110291,18785,"Size",1
+"Skiing > Apparel & Outerwear > Ski Socks",110291,18786,"Brand",1
+"Skiing > Apparel & Outerwear > Ski Socks",110291,22281,"Color",1
+"Skiing > Apparel & Outerwear > Ski Socks",110291,18787,"Gender",1
+"Skiing > Apparel & Outerwear > Ski Socks",110291,23041,"Age Group",1
+"Skiing > Apparel & Outerwear > Ski Socks",110291,24848,"Number of Pairs",0
+"Skiing > Apparel & Outerwear > Ski Socks",110291,24873,"Length",0
+"Skiing > Apparel & Outerwear > Ski Socks",110291,18797,"Condition",1
+"Skiing > Apparel & Outerwear > Ski Suits",110049,23258,"Year",0
+"Skiing > Apparel & Outerwear > Ski Suits",110049,18786,"Brand",1
+"Skiing > Apparel & Outerwear > Ski Suits",110049,18785,"Size",1
+"Skiing > Apparel & Outerwear > Ski Suits",110049,23013,"FIS Legal?",0
+"Skiing > Apparel & Outerwear > Ski Suits",110049,18787,"Gender",1
+"Skiing > Apparel & Outerwear > Ski Suits",110049,18797,"Condition",1
+"Skiing > Apparel & Outerwear > Sweatshirts & Hoodies",110311,18786,"Brand",1
+"Skiing > Apparel & Outerwear > Sweatshirts & Hoodies",110311,18785,"Size",1
+"Skiing > Apparel & Outerwear > Sweatshirts & Hoodies",110311,18787,"Gender",1
+"Skiing > Apparel & Outerwear > Sweatshirts & Hoodies",110311,23041,"Age Group",1
+"Skiing > Apparel & Outerwear > Sweatshirts & Hoodies",110311,22281,"Color",1
+"Skiing > Apparel & Outerwear > Sweatshirts & Hoodies",110311,24834,"Team Issued",0
+"Skiing > Apparel & Outerwear > Sweatshirts & Hoodies",110311,24837,"Clothing Style",0
+"Skiing > Apparel & Outerwear > Sweatshirts & Hoodies",110311,24811,"Type",0
+"Skiing > Apparel & Outerwear > Sweatshirts & Hoodies",110311,24844,"Hooded",0
+"Skiing > Apparel & Outerwear > Sweatshirts & Hoodies",110311,18797,"Condition",1
+"Skiing > Apparel & Outerwear > Vests",110312,18786,"Brand",1
+"Skiing > Apparel & Outerwear > Vests",110312,18785,"Size",1
+"Skiing > Apparel & Outerwear > Vests",110312,18787,"Gender",1
+"Skiing > Apparel & Outerwear > Vests",110312,22281,"Color",1
+"Skiing > Apparel & Outerwear > Vests",110312,23041,"Age Group",1
+"Skiing > Apparel & Outerwear > Vests",110312,24834,"Team Issued",0
+"Skiing > Apparel & Outerwear > Vests",110312,24837,"Clothing Style",0
+"Skiing > Apparel & Outerwear > Vests",110312,24811,"Type",0
+"Skiing > Apparel & Outerwear > Vests",110312,18797,"Condition",1
+"Skiing > Bindings > Binding Parts",110310,18786,"Brand",1
+"Skiing > Bindings > Binding Parts",110310,18797,"Condition",1
+"Skiing > Bindings > Cross Country Bindings",110308,18786,"Brand",1
+"Skiing > Bindings > Cross Country Bindings",110308,24505,"Cross Country Style",0
+"Skiing > Bindings > Cross Country Bindings",110308,24508,"Boot Compatibility",0
+"Skiing > Bindings > Cross Country Bindings",110308,18797,"Condition",1
+"Skiing > Bindings > Downhill Bindings",110037,22960,"Max DIN",0
+"Skiing > Bindings > Downhill Bindings",110037,24087,"Brake Width",0
+"Skiing > Bindings > Downhill Bindings",110037,23022,"Type",0
+"Skiing > Bindings > Downhill Bindings",110037,18786,"Brand",1
+"Skiing > Bindings > Downhill Bindings",110037,18797,"Condition",1
+"Skiing > Bindings > Telemark Bindings",110309,18786,"Brand",1
+"Skiing > Bindings > Telemark Bindings",110309,24087,"Brake Width",0
+"Skiing > Bindings > Telemark Bindings",110309,18797,"Condition",1
+"Skiing > Boots > Cross Country Boots",110302,18786,"Brand",1
+"Skiing > Boots > Cross Country Boots",110302,24505,"Cross Country Style",0
+"Skiing > Boots > Cross Country Boots",110302,22986,"Boot Size",1
+"Skiing > Boots > Cross Country Boots",110302,18797,"Condition",1
+"Skiing > Boots > Downhill Boots",110038,22986,"Boot Size",1
+"Skiing > Boots > Downhill Boots",110038,22980,"Flex",0
+"Skiing > Boots > Downhill Boots",110038,23022,"Type",0
+"Skiing > Boots > Downhill Boots",110038,18786,"Brand",1
+"Skiing > Boots > Downhill Boots",110038,23002,"Boot Width",0
+"Skiing > Boots > Downhill Boots",110038,18787,"Gender",0
+"Skiing > Boots > Downhill Boots",110038,18797,"Condition",1
+"Skiing > Boots > Telemark Boots",110303,22986,"Boot Size",1
+"Skiing > Boots > Telemark Boots",110303,22980,"Flex",0
+"Skiing > Boots > Telemark Boots",110303,24513,"Binding Compatability",0
+"Skiing > Boots > Telemark Boots",110303,18786,"Brand",1
+"Skiing > Boots > Telemark Boots",110303,18797,"Condition",1
+"Skiing > Goggles",110039,18786,"Brand",1
+"Skiing > Goggles",110039,22281,"Color",0
+"Skiing > Goggles",110039,22989,"Lens Shape",0
+"Skiing > Goggles",110039,22998,"Frame Size",0
+"Skiing > Goggles",110039,22997,"Lens Tech",0
+"Skiing > Goggles",110039,18787,"Gender",0
+"Skiing > Goggles",110039,18797,"Condition",1
+"Skiing > Helmets",110043,18786,"Brand",1
+"Skiing > Helmets",110043,22281,"Color",0
+"Skiing > Helmets",110043,18785,"Size",1
+"Skiing > Helmets",110043,18787,"Gender",0
+"Skiing > Helmets",110043,23013,"FIS Legal?",0
+"Skiing > Helmets",110043,18797,"Condition",1
+"Skiing > Poles",110040,18785,"Size",1
+"Skiing > Poles",110040,18786,"Brand",1
+"Skiing > Poles",110040,23022,"Type",0
+"Skiing > Poles",110040,18797,"Condition",1
+"Skiing > Protective Gear > Back Plates",110293,18785,"Size",1
+"Skiing > Protective Gear > Back Plates",110293,18786,"Brand",1
+"Skiing > Protective Gear > Back Plates",110293,18797,"Condition",1
+"Skiing > Protective Gear > Bottom Body Armor",110298,18785,"Size",1
+"Skiing > Protective Gear > Bottom Body Armor",110298,18786,"Brand",1
+"Skiing > Protective Gear > Bottom Body Armor",110298,18797,"Condition",1
+"Skiing > Protective Gear > Forearm Guards & Punch Covers",110296,18785,"Size",1
+"Skiing > Protective Gear > Forearm Guards & Punch Covers",110296,18786,"Brand",1
+"Skiing > Protective Gear > Forearm Guards & Punch Covers",110296,24517,"Protective Type",0
+"Skiing > Protective Gear > Forearm Guards & Punch Covers",110296,18797,"Condition",1
+"Skiing > Protective Gear > Other",110299,18786,"Brand",1
+"Skiing > Protective Gear > Other",110299,18797,"Condition",1
+"Skiing > Protective Gear > Shin Guards",110294,18785,"Size",1
+"Skiing > Protective Gear > Shin Guards",110294,18786,"Brand",1
+"Skiing > Protective Gear > Shin Guards",110294,24517,"Protective Type",0
+"Skiing > Protective Gear > Shin Guards",110294,18797,"Condition",1
+"Skiing > Protective Gear > Top Body Armor",110297,18785,"Size",1
+"Skiing > Protective Gear > Top Body Armor",110297,18786,"Brand",1
+"Skiing > Protective Gear > Top Body Armor",110297,18797,"Condition",1
+"Skiing > Skiing Bags & Packs > Backpacks",110048,18786,"Brand",1
+"Skiing > Skiing Bags & Packs > Backpacks",110048,22281,"Color",0
+"Skiing > Skiing Bags & Packs > Backpacks",110048,24078,"Capacity (Liters)",0
+"Skiing > Skiing Bags & Packs > Backpacks",110048,18797,"Condition",1
+"Skiing > Skiing Bags & Packs > Boot Bags",110307,18786,"Brand",1
+"Skiing > Skiing Bags & Packs > Boot Bags",110307,18797,"Condition",1
+"Skiing > Skiing Bags & Packs > Ski Bags",110306,18786,"Brand",1
+"Skiing > Skiing Bags & Packs > Ski Bags",110306,18797,"Condition",1
+"Skiing > Skis > Cross Country Skis",110290,23258,"Year",0
+"Skiing > Skis > Cross Country Skis",110290,18785,"Size",1
+"Skiing > Skis > Cross Country Skis",110290,18786,"Brand",1
+"Skiing > Skis > Cross Country Skis",110290,18787,"Gender",0
+"Skiing > Skis > Cross Country Skis",110290,23023,"With Bindings",0
+"Skiing > Skis > Cross Country Skis",110290,24505,"Cross Country Style",0
+"Skiing > Skis > Cross Country Skis",110290,24525,"Mount",0
+"Skiing > Skis > Cross Country Skis",110290,18797,"Condition",1
+"Skiing > Skis > Downhill Skis",110042,18785,"Size",1
+"Skiing > Skis > Downhill Skis",110042,24106,"Ability",0
+"Skiing > Skis > Downhill Skis",110042,23022,"Type",0
+"Skiing > Skis > Downhill Skis",110042,18791,"Radius",0
+"Skiing > Skis > Downhill Skis",110042,24360,"Waist Width",0
+"Skiing > Skis > Downhill Skis",110042,24101,"Camber",0
+"Skiing > Skis > Downhill Skis",110042,24110,"Tail",0
+"Skiing > Skis > Downhill Skis",110042,22960,"Max DIN",0
+"Skiing > Skis > Downhill Skis",110042,23258,"Year",0
+"Skiing > Skis > Downhill Skis",110042,18786,"Brand",1
+"Skiing > Skis > Downhill Skis",110042,18787,"Gender",0
+"Skiing > Skis > Downhill Skis",110042,23023,"With Bindings",0
+"Skiing > Skis > Downhill Skis",110042,18797,"Condition",1
+"Skiing > Training, Accessories, Backcountry & Other > Avalanche Safety Gear",110046,18786,"Brand",1
+"Skiing > Training, Accessories, Backcountry & Other > Avalanche Safety Gear",110046,24498,"Avalanche Safety Type",0
+"Skiing > Training, Accessories, Backcountry & Other > Avalanche Safety Gear",110046,18797,"Condition",1
+"Skiing > Training, Accessories, Backcountry & Other > Climbing Skins",110050,18785,"Size",1
+"Skiing > Training, Accessories, Backcountry & Other > Climbing Skins",110050,18786,"Brand",1
+"Skiing > Training, Accessories, Backcountry & Other > Climbing Skins",110050,18797,"Condition",1
+"Skiing > Training, Accessories, Backcountry & Other > Other",110047,18786,"Brand",1
+"Skiing > Training, Accessories, Backcountry & Other > Other",110047,18797,"Condition",1
+"Skiing > Training, Accessories, Backcountry & Other > Race Gates, Fencing & Tools",110301,18786,"Brand",1
+"Skiing > Training, Accessories, Backcountry & Other > Race Gates, Fencing & Tools",110301,18797,"Condition",1
+"Skiing > Training, Accessories, Backcountry & Other > Tuning & Wax",110044,18786,"Brand",1
+"Skiing > Training, Accessories, Backcountry & Other > Tuning & Wax",110044,23826,"Type",0
+"Skiing > Training, Accessories, Backcountry & Other > Tuning & Wax",110044,18797,"Condition",1
+"Snowboarding > Apparel & Outerwear > Base Layers",110318,18785,"Size",1
+"Snowboarding > Apparel & Outerwear > Base Layers",110318,18786,"Brand",1
+"Snowboarding > Apparel & Outerwear > Base Layers",110318,22281,"Color",1
+"Snowboarding > Apparel & Outerwear > Base Layers",110318,18787,"Gender",1
+"Snowboarding > Apparel & Outerwear > Base Layers",110318,23041,"Age Group",1
+"Snowboarding > Apparel & Outerwear > Base Layers",110318,24834,"Team Issued",0
+"Snowboarding > Apparel & Outerwear > Base Layers",110318,24817,"Compression Type",0
+"Snowboarding > Apparel & Outerwear > Base Layers",110318,24853,"Compression Use",0
+"Snowboarding > Apparel & Outerwear > Base Layers",110318,18797,"Condition",1
+"Snowboarding > Apparel & Outerwear > Gloves & Mittens",110123,18785,"Size",1
+"Snowboarding > Apparel & Outerwear > Gloves & Mittens",110123,18786,"Brand",1
+"Snowboarding > Apparel & Outerwear > Gloves & Mittens",110123,22281,"Color",1
+"Snowboarding > Apparel & Outerwear > Gloves & Mittens",110123,18787,"Gender",1
+"Snowboarding > Apparel & Outerwear > Gloves & Mittens",110123,24368,"Type",0
+"Snowboarding > Apparel & Outerwear > Gloves & Mittens",110123,23041,"Age Group",1
+"Snowboarding > Apparel & Outerwear > Gloves & Mittens",110123,18797,"Condition",1
+"Snowboarding > Apparel & Outerwear > Hats",110317,18785,"Size",1
+"Snowboarding > Apparel & Outerwear > Hats",110317,18786,"Brand",1
+"Snowboarding > Apparel & Outerwear > Hats",110317,22281,"Color",1
+"Snowboarding > Apparel & Outerwear > Hats",110317,18787,"Gender",1
+"Snowboarding > Apparel & Outerwear > Hats",110317,23041,"Age Group",1
+"Snowboarding > Apparel & Outerwear > Hats",110317,24837,"Clothing Style",0
+"Snowboarding > Apparel & Outerwear > Hats",110317,24826,"Hat Type",0
+"Snowboarding > Apparel & Outerwear > Hats",110317,24834,"Team Issued",0
+"Snowboarding > Apparel & Outerwear > Hats",110317,18797,"Condition",1
+"Snowboarding > Apparel & Outerwear > Jackets & Coats",110124,18786,"Brand",1
+"Snowboarding > Apparel & Outerwear > Jackets & Coats",110124,18787,"Gender",1
+"Snowboarding > Apparel & Outerwear > Jackets & Coats",110124,18785,"Size",1
+"Snowboarding > Apparel & Outerwear > Jackets & Coats",110124,22281,"Color",1
+"Snowboarding > Apparel & Outerwear > Jackets & Coats",110124,23041,"Age Group",1
+"Snowboarding > Apparel & Outerwear > Jackets & Coats",110124,24834,"Team Issued",0
+"Snowboarding > Apparel & Outerwear > Jackets & Coats",110124,24837,"Clothing Style",0
+"Snowboarding > Apparel & Outerwear > Jackets & Coats",110124,24844,"Hooded",0
+"Snowboarding > Apparel & Outerwear > Jackets & Coats",110124,24859,"Liner",0
+"Snowboarding > Apparel & Outerwear > Jackets & Coats",110124,18797,"Condition",1
+"Snowboarding > Apparel & Outerwear > Other",110322,18785,"Size",1
+"Snowboarding > Apparel & Outerwear > Other",110322,18786,"Brand",1
+"Snowboarding > Apparel & Outerwear > Other",110322,22281,"Color",1
+"Snowboarding > Apparel & Outerwear > Other",110322,18787,"Gender",1
+"Snowboarding > Apparel & Outerwear > Other",110322,23041,"Age Group",1
+"Snowboarding > Apparel & Outerwear > Other",110322,24834,"Team Issued",0
+"Snowboarding > Apparel & Outerwear > Other",110322,24837,"Clothing Style",0
+"Snowboarding > Apparel & Outerwear > Other",110322,18797,"Condition",1
+"Snowboarding > Apparel & Outerwear > Shirts",110319,18785,"Size",1
+"Snowboarding > Apparel & Outerwear > Shirts",110319,18786,"Brand",1
+"Snowboarding > Apparel & Outerwear > Shirts",110319,22281,"Color",1
+"Snowboarding > Apparel & Outerwear > Shirts",110319,18787,"Gender",1
+"Snowboarding > Apparel & Outerwear > Shirts",110319,23041,"Age Group",1
+"Snowboarding > Apparel & Outerwear > Shirts",110319,24834,"Team Issued",0
+"Snowboarding > Apparel & Outerwear > Shirts",110319,24837,"Clothing Style",0
+"Snowboarding > Apparel & Outerwear > Shirts",110319,24132,"Shirt Type",0
+"Snowboarding > Apparel & Outerwear > Shirts",110319,24869,"Sleeve Length",0
+"Snowboarding > Apparel & Outerwear > Shirts",110319,18797,"Condition",1
+"Snowboarding > Apparel & Outerwear > Shorts",110320,18785,"Size",1
+"Snowboarding > Apparel & Outerwear > Shorts",110320,18786,"Brand",1
+"Snowboarding > Apparel & Outerwear > Shorts",110320,22281,"Color",1
+"Snowboarding > Apparel & Outerwear > Shorts",110320,18787,"Gender",1
+"Snowboarding > Apparel & Outerwear > Shorts",110320,23041,"Age Group",1
+"Snowboarding > Apparel & Outerwear > Shorts",110320,24834,"Team Issued",0
+"Snowboarding > Apparel & Outerwear > Shorts",110320,24837,"Clothing Style",0
+"Snowboarding > Apparel & Outerwear > Shorts",110320,24799,"Short Type",0
+"Snowboarding > Apparel & Outerwear > Shorts",110320,24873,"Length",0
+"Snowboarding > Apparel & Outerwear > Shorts",110320,18797,"Condition",1
+"Snowboarding > Apparel & Outerwear > Snowboarding Pants & Bibs",110186,18786,"Brand",1
+"Snowboarding > Apparel & Outerwear > Snowboarding Pants & Bibs",110186,18785,"Size",1
+"Snowboarding > Apparel & Outerwear > Snowboarding Pants & Bibs",110186,18787,"Gender",1
+"Snowboarding > Apparel & Outerwear > Snowboarding Pants & Bibs",110186,23041,"Age Group",1
+"Snowboarding > Apparel & Outerwear > Snowboarding Pants & Bibs",110186,22281,"Color",1
+"Snowboarding > Apparel & Outerwear > Snowboarding Pants & Bibs",110186,24834,"Team Issued",0
+"Snowboarding > Apparel & Outerwear > Snowboarding Pants & Bibs",110186,24837,"Clothing Style",0
+"Snowboarding > Apparel & Outerwear > Snowboarding Pants & Bibs",110186,18797,"Condition",1
+"Snowboarding > Apparel & Outerwear > Socks",110316,18785,"Size",1
+"Snowboarding > Apparel & Outerwear > Socks",110316,22281,"Color",1
+"Snowboarding > Apparel & Outerwear > Socks",110316,18787,"Gender",1
+"Snowboarding > Apparel & Outerwear > Socks",110316,18786,"Brand",1
+"Snowboarding > Apparel & Outerwear > Socks",110316,23041,"Age Group",1
+"Snowboarding > Apparel & Outerwear > Socks",110316,24848,"Number of Pairs",0
+"Snowboarding > Apparel & Outerwear > Socks",110316,24873,"Length",0
+"Snowboarding > Apparel & Outerwear > Socks",110316,18797,"Condition",1
+"Snowboarding > Apparel & Outerwear > Sweatshirts & Hoodies",110334,18785,"Size",1
+"Snowboarding > Apparel & Outerwear > Sweatshirts & Hoodies",110334,18786,"Brand",1
+"Snowboarding > Apparel & Outerwear > Sweatshirts & Hoodies",110334,22281,"Color",1
+"Snowboarding > Apparel & Outerwear > Sweatshirts & Hoodies",110334,18787,"Gender",1
+"Snowboarding > Apparel & Outerwear > Sweatshirts & Hoodies",110334,23041,"Age Group",1
+"Snowboarding > Apparel & Outerwear > Sweatshirts & Hoodies",110334,24834,"Team Issued",0
+"Snowboarding > Apparel & Outerwear > Sweatshirts & Hoodies",110334,24837,"Clothing Style",0
+"Snowboarding > Apparel & Outerwear > Sweatshirts & Hoodies",110334,24811,"Type",0
+"Snowboarding > Apparel & Outerwear > Sweatshirts & Hoodies",110334,24844,"Hooded",0
+"Snowboarding > Apparel & Outerwear > Sweatshirts & Hoodies",110334,18797,"Condition",1
+"Snowboarding > Apparel & Outerwear > Vests",110321,18785,"Size",1
+"Snowboarding > Apparel & Outerwear > Vests",110321,18786,"Brand",1
+"Snowboarding > Apparel & Outerwear > Vests",110321,22281,"Color",1
+"Snowboarding > Apparel & Outerwear > Vests",110321,18787,"Gender",1
+"Snowboarding > Apparel & Outerwear > Vests",110321,23041,"Age Group",1
+"Snowboarding > Apparel & Outerwear > Vests",110321,24834,"Team Issued",0
+"Snowboarding > Apparel & Outerwear > Vests",110321,24837,"Clothing Style",0
+"Snowboarding > Apparel & Outerwear > Vests",110321,24811,"Type",0
+"Snowboarding > Apparel & Outerwear > Vests",110321,18797,"Condition",1
+"Snowboarding > Bags & Packs > Backpacks",110324,22281,"Color",0
+"Snowboarding > Bags & Packs > Backpacks",110324,18786,"Brand",1
+"Snowboarding > Bags & Packs > Backpacks",110324,24078,"Capacity (Liters)",0
+"Snowboarding > Bags & Packs > Backpacks",110324,18797,"Condition",1
+"Snowboarding > Bags & Packs > Board Bags",110323,18786,"Brand",1
+"Snowboarding > Bags & Packs > Board Bags",110323,18797,"Condition",1
+"Snowboarding > Bags & Packs > Boot Bags",110325,18786,"Brand",1
+"Snowboarding > Bags & Packs > Boot Bags",110325,18797,"Condition",1
+"Snowboarding > Bindings",110115,18785,"Size",1
+"Snowboarding > Bindings",110115,18786,"Brand",1
+"Snowboarding > Bindings",110115,24042,"Riding Style",0
+"Snowboarding > Bindings",110115,18787,"Gender",0
+"Snowboarding > Bindings",110115,18797,"Condition",1
+"Snowboarding > Boots",110116,18785,"Size",1
+"Snowboarding > Boots",110116,22980,"Flex",0
+"Snowboarding > Boots",110116,18786,"Brand",1
+"Snowboarding > Boots",110116,18787,"Gender",0
+"Snowboarding > Boots",110116,24042,"Riding Style",0
+"Snowboarding > Boots",110116,18797,"Condition",1
+"Snowboarding > Goggles",110117,22281,"Color",0
+"Snowboarding > Goggles",110117,18786,"Brand",1
+"Snowboarding > Goggles",110117,22998,"Frame Size",0
+"Snowboarding > Goggles",110117,22997,"Lens Tech",0
+"Snowboarding > Goggles",110117,18787,"Gender",0
+"Snowboarding > Goggles",110117,22989,"Lens Shape",0
+"Snowboarding > Goggles",110117,18797,"Condition",1
+"Snowboarding > Helmets",110118,18785,"Size",1
+"Snowboarding > Helmets",110118,22281,"Color",0
+"Snowboarding > Helmets",110118,18786,"Brand",1
+"Snowboarding > Helmets",110118,18787,"Gender",0
+"Snowboarding > Helmets",110118,18797,"Condition",1
+"Snowboarding > Protective Gear > Back Plates",110327,18785,"Size",1
+"Snowboarding > Protective Gear > Back Plates",110327,18786,"Brand",1
+"Snowboarding > Protective Gear > Back Plates",110327,18797,"Condition",1
+"Snowboarding > Protective Gear > Bottom Body Armor",110328,18785,"Size",1
+"Snowboarding > Protective Gear > Bottom Body Armor",110328,18786,"Brand",1
+"Snowboarding > Protective Gear > Bottom Body Armor",110328,18797,"Condition",1
+"Snowboarding > Protective Gear > Knee & Shin Pads",110330,18785,"Size",1
+"Snowboarding > Protective Gear > Knee & Shin Pads",110330,24517,"Protective Type",0
+"Snowboarding > Protective Gear > Knee & Shin Pads",110330,18786,"Brand",1
+"Snowboarding > Protective Gear > Knee & Shin Pads",110330,18797,"Condition",1
+"Snowboarding > Protective Gear > Top Body Armor",110329,18785,"Size",1
+"Snowboarding > Protective Gear > Top Body Armor",110329,18786,"Brand",1
+"Snowboarding > Protective Gear > Top Body Armor",110329,18797,"Condition",1
+"Snowboarding > Snowboards",110119,18785,"Size",1
+"Snowboarding > Snowboards",110119,24042,"Riding Style",0
+"Snowboarding > Snowboards",110119,24059,"Shape",0
+"Snowboarding > Snowboards",110119,24063,"Flex",0
+"Snowboarding > Snowboards",110119,18786,"Brand",1
+"Snowboarding > Snowboards",110119,18787,"Gender",0
+"Snowboarding > Snowboards",110119,23023,"With Bindings",0
+"Snowboarding > Snowboards",110119,18797,"Condition",1
+"Snowboarding > Training, Accessories, Backcountry & Other > Avalanche Safety Gear",110333,18786,"Brand",1
+"Snowboarding > Training, Accessories, Backcountry & Other > Avalanche Safety Gear",110333,24498,"Avalanche Safety Type",0
+"Snowboarding > Training, Accessories, Backcountry & Other > Avalanche Safety Gear",110333,18797,"Condition",1
+"Snowboarding > Training, Accessories, Backcountry & Other > Other",110121,18786,"Brand",1
+"Snowboarding > Training, Accessories, Backcountry & Other > Other",110121,18797,"Condition",1
+"Snowboarding > Training, Accessories, Backcountry & Other > Stomp Pads",110335,18786,"Brand",1
+"Snowboarding > Training, Accessories, Backcountry & Other > Stomp Pads",110335,18797,"Condition",1
+"Snowboarding > Training, Accessories, Backcountry & Other > Tuning & Wax",110332,18786,"Brand",1
+"Snowboarding > Training, Accessories, Backcountry & Other > Tuning & Wax",110332,23826,"Type",0
+"Snowboarding > Training, Accessories, Backcountry & Other > Tuning & Wax",110332,18797,"Condition",1
+"Snowshoe > Apparel & Outerwear > Base Layers",110593,18785,"Size",1
+"Snowshoe > Apparel & Outerwear > Base Layers",110593,18786,"Brand",1
+"Snowshoe > Apparel & Outerwear > Base Layers",110593,22281,"Color",1
+"Snowshoe > Apparel & Outerwear > Base Layers",110593,18787,"Gender",1
+"Snowshoe > Apparel & Outerwear > Base Layers",110593,23041,"Age Group",1
+"Snowshoe > Apparel & Outerwear > Base Layers",110593,24817,"Compression Type",0
+"Snowshoe > Apparel & Outerwear > Base Layers",110593,24853,"Compression Use",0
+"Snowshoe > Apparel & Outerwear > Base Layers",110593,18797,"Condition",1
+"Snowshoe > Apparel & Outerwear > Hats",110594,18785,"Size",1
+"Snowshoe > Apparel & Outerwear > Hats",110594,18786,"Brand",1
+"Snowshoe > Apparel & Outerwear > Hats",110594,22281,"Color",1
+"Snowshoe > Apparel & Outerwear > Hats",110594,18787,"Gender",1
+"Snowshoe > Apparel & Outerwear > Hats",110594,23041,"Age Group",1
+"Snowshoe > Apparel & Outerwear > Hats",110594,24837,"Clothing Style",0
+"Snowshoe > Apparel & Outerwear > Hats",110594,24826,"Hat Type",0
+"Snowshoe > Apparel & Outerwear > Hats",110594,18797,"Condition",1
+"Snowshoe > Apparel & Outerwear > Jackets & Coats",110591,18786,"Brand",1
+"Snowshoe > Apparel & Outerwear > Jackets & Coats",110591,18785,"Size",1
+"Snowshoe > Apparel & Outerwear > Jackets & Coats",110591,18787,"Gender",1
+"Snowshoe > Apparel & Outerwear > Jackets & Coats",110591,23041,"Age Group",1
+"Snowshoe > Apparel & Outerwear > Jackets & Coats",110591,22281,"Color",1
+"Snowshoe > Apparel & Outerwear > Jackets & Coats",110591,24837,"Clothing Style",0
+"Snowshoe > Apparel & Outerwear > Jackets & Coats",110591,24844,"Hooded",0
+"Snowshoe > Apparel & Outerwear > Jackets & Coats",110591,24859,"Liner",0
+"Snowshoe > Apparel & Outerwear > Jackets & Coats",110591,24821,"Jacket Type",0
+"Snowshoe > Apparel & Outerwear > Jackets & Coats",110591,18797,"Condition",1
+"Snowshoe > Apparel & Outerwear > Shirts",110595,18786,"Brand",1
+"Snowshoe > Apparel & Outerwear > Shirts",110595,18785,"Size",1
+"Snowshoe > Apparel & Outerwear > Shirts",110595,18787,"Gender",1
+"Snowshoe > Apparel & Outerwear > Shirts",110595,23041,"Age Group",1
+"Snowshoe > Apparel & Outerwear > Shirts",110595,22281,"Color",1
+"Snowshoe > Apparel & Outerwear > Shirts",110595,24837,"Clothing Style",0
+"Snowshoe > Apparel & Outerwear > Shirts",110595,24132,"Shirt Type",0
+"Snowshoe > Apparel & Outerwear > Shirts",110595,24869,"Sleeve Length",0
+"Snowshoe > Apparel & Outerwear > Shirts",110595,18797,"Condition",1
+"Snowshoe > Apparel & Outerwear > Shorts",110596,18786,"Brand",1
+"Snowshoe > Apparel & Outerwear > Shorts",110596,18785,"Size",1
+"Snowshoe > Apparel & Outerwear > Shorts",110596,18787,"Gender",1
+"Snowshoe > Apparel & Outerwear > Shorts",110596,23041,"Age Group",1
+"Snowshoe > Apparel & Outerwear > Shorts",110596,22281,"Color",1
+"Snowshoe > Apparel & Outerwear > Shorts",110596,24837,"Clothing Style",0
+"Snowshoe > Apparel & Outerwear > Shorts",110596,24799,"Short Type",0
+"Snowshoe > Apparel & Outerwear > Shorts",110596,24873,"Length",0
+"Snowshoe > Apparel & Outerwear > Shorts",110596,18797,"Condition",1
+"Snowshoe > Apparel & Outerwear > Snow Pants",110592,18786,"Brand",1
+"Snowshoe > Apparel & Outerwear > Snow Pants",110592,18785,"Size",1
+"Snowshoe > Apparel & Outerwear > Snow Pants",110592,18787,"Gender",1
+"Snowshoe > Apparel & Outerwear > Snow Pants",110592,23041,"Age Group",1
+"Snowshoe > Apparel & Outerwear > Snow Pants",110592,22281,"Color",1
+"Snowshoe > Apparel & Outerwear > Snow Pants",110592,24834,"Team Issued",0
+"Snowshoe > Apparel & Outerwear > Snow Pants",110592,24837,"Clothing Style",0
+"Snowshoe > Apparel & Outerwear > Snow Pants",110592,18797,"Condition",1
+"Snowshoe > Apparel & Outerwear > Sunglasses",110597,18785,"Size",1
+"Snowshoe > Apparel & Outerwear > Sunglasses",110597,18786,"Brand",1
+"Snowshoe > Apparel & Outerwear > Sunglasses",110597,23041,"Age Group",1
+"Snowshoe > Apparel & Outerwear > Sunglasses",110597,22281,"Color",1
+"Snowshoe > Apparel & Outerwear > Sunglasses",110597,18787,"Gender",1
+"Snowshoe > Apparel & Outerwear > Sunglasses",110597,24841,"Lens Type",0
+"Snowshoe > Apparel & Outerwear > Sunglasses",110597,18797,"Condition",1
+"Snowshoe > Apparel & Outerwear > Winter Gloves",110590,18785,"Size",1
+"Snowshoe > Apparel & Outerwear > Winter Gloves",110590,23041,"Age Group",1
+"Snowshoe > Apparel & Outerwear > Winter Gloves",110590,22281,"Color",1
+"Snowshoe > Apparel & Outerwear > Winter Gloves",110590,18787,"Gender",1
+"Snowshoe > Apparel & Outerwear > Winter Gloves",110590,18786,"Brand",1
+"Snowshoe > Apparel & Outerwear > Winter Gloves",110590,24368,"Type",0
+"Snowshoe > Apparel & Outerwear > Winter Gloves",110590,18797,"Condition",1
+"Snowshoe > Avalanche Safety Gear",110588,18786,"Brand",1
+"Snowshoe > Avalanche Safety Gear",110588,18797,"Condition",1
+"Snowshoe > Other",110598,18786,"Brand",1
+"Snowshoe > Other",110598,18797,"Condition",1
+"Snowshoe > Snowshoes",110587,18786,"Brand",1
+"Snowshoe > Snowshoes",110587,18797,"Condition",1
+"Soccer > Apparel & Jerseys > Compression & Base Layers",110453,18785,"Size",1
+"Soccer > Apparel & Jerseys > Compression & Base Layers",110453,18786,"Brand",1
+"Soccer > Apparel & Jerseys > Compression & Base Layers",110453,22281,"Color",1
+"Soccer > Apparel & Jerseys > Compression & Base Layers",110453,18787,"Gender",1
+"Soccer > Apparel & Jerseys > Compression & Base Layers",110453,23041,"Age Group",1
+"Soccer > Apparel & Jerseys > Compression & Base Layers",110453,24834,"Team Issued",0
+"Soccer > Apparel & Jerseys > Compression & Base Layers",110453,24817,"Compression Type",0
+"Soccer > Apparel & Jerseys > Compression & Base Layers",110453,24853,"Compression Use",0
+"Soccer > Apparel & Jerseys > Compression & Base Layers",110453,18797,"Condition",1
+"Soccer > Apparel & Jerseys > Jerseys",110083,18785,"Size",1
+"Soccer > Apparel & Jerseys > Jerseys",110083,18786,"Brand",1
+"Soccer > Apparel & Jerseys > Jerseys",110083,22281,"Color",1
+"Soccer > Apparel & Jerseys > Jerseys",110083,18787,"Gender",1
+"Soccer > Apparel & Jerseys > Jerseys",110083,18797,"Condition",1
+"Soccer > Apparel & Jerseys > Other",110454,18785,"Size",1
+"Soccer > Apparel & Jerseys > Other",110454,18786,"Brand",1
+"Soccer > Apparel & Jerseys > Other",110454,22281,"Color",1
+"Soccer > Apparel & Jerseys > Other",110454,18787,"Gender",1
+"Soccer > Apparel & Jerseys > Other",110454,23041,"Age Group",1
+"Soccer > Apparel & Jerseys > Other",110454,24834,"Team Issued",0
+"Soccer > Apparel & Jerseys > Other",110454,24837,"Clothing Style",0
+"Soccer > Apparel & Jerseys > Other",110454,18797,"Condition",1
+"Soccer > Apparel & Jerseys > Pants",110452,18785,"Size",1
+"Soccer > Apparel & Jerseys > Pants",110452,18786,"Brand",1
+"Soccer > Apparel & Jerseys > Pants",110452,22281,"Color",1
+"Soccer > Apparel & Jerseys > Pants",110452,18787,"Gender",1
+"Soccer > Apparel & Jerseys > Pants",110452,23041,"Age Group",1
+"Soccer > Apparel & Jerseys > Pants",110452,24834,"Team Issued",0
+"Soccer > Apparel & Jerseys > Pants",110452,24837,"Clothing Style",0
+"Soccer > Apparel & Jerseys > Pants",110452,24803,"Pant Type",0
+"Soccer > Apparel & Jerseys > Pants",110452,18797,"Condition",1
+"Soccer > Apparel & Jerseys > Shirts",110449,18785,"Size",1
+"Soccer > Apparel & Jerseys > Shirts",110449,18786,"Brand",1
+"Soccer > Apparel & Jerseys > Shirts",110449,22281,"Color",1
+"Soccer > Apparel & Jerseys > Shirts",110449,18787,"Gender",1
+"Soccer > Apparel & Jerseys > Shirts",110449,23041,"Age Group",1
+"Soccer > Apparel & Jerseys > Shirts",110449,24834,"Team Issued",0
+"Soccer > Apparel & Jerseys > Shirts",110449,24837,"Clothing Style",0
+"Soccer > Apparel & Jerseys > Shirts",110449,24132,"Shirt Type",0
+"Soccer > Apparel & Jerseys > Shirts",110449,24869,"Sleeve Length",0
+"Soccer > Apparel & Jerseys > Shirts",110449,18797,"Condition",1
+"Soccer > Apparel & Jerseys > Shorts",110450,18785,"Size",1
+"Soccer > Apparel & Jerseys > Shorts",110450,18786,"Brand",1
+"Soccer > Apparel & Jerseys > Shorts",110450,22281,"Color",1
+"Soccer > Apparel & Jerseys > Shorts",110450,18787,"Gender",1
+"Soccer > Apparel & Jerseys > Shorts",110450,23041,"Age Group",1
+"Soccer > Apparel & Jerseys > Shorts",110450,24834,"Team Issued",0
+"Soccer > Apparel & Jerseys > Shorts",110450,24837,"Clothing Style",0
+"Soccer > Apparel & Jerseys > Shorts",110450,24873,"Length",0
+"Soccer > Apparel & Jerseys > Shorts",110450,18797,"Condition",1
+"Soccer > Apparel & Jerseys > Socks",110451,18785,"Size",1
+"Soccer > Apparel & Jerseys > Socks",110451,18786,"Brand",1
+"Soccer > Apparel & Jerseys > Socks",110451,22281,"Color",1
+"Soccer > Apparel & Jerseys > Socks",110451,18787,"Gender",1
+"Soccer > Apparel & Jerseys > Socks",110451,23041,"Age Group",1
+"Soccer > Apparel & Jerseys > Socks",110451,24848,"Number of Pairs",0
+"Soccer > Apparel & Jerseys > Socks",110451,24873,"Length",0
+"Soccer > Apparel & Jerseys > Socks",110451,18797,"Condition",1
+"Soccer > Footwear",110087,18785,"Size",1
+"Soccer > Footwear",110087,18786,"Brand",1
+"Soccer > Footwear",110087,22281,"Color",0
+"Soccer > Footwear",110087,23850,"Type",0
+"Soccer > Footwear",110087,18787,"Gender",0
+"Soccer > Footwear",110087,18797,"Condition",1
+"Soccer > Goalkeeper > Bottoms",110457,18786,"Brand",1
+"Soccer > Goalkeeper > Bottoms",110457,18785,"Size",1
+"Soccer > Goalkeeper > Bottoms",110457,22281,"Color",0
+"Soccer > Goalkeeper > Bottoms",110457,18787,"Gender",0
+"Soccer > Goalkeeper > Bottoms",110457,18797,"Condition",1
+"Soccer > Goalkeeper > Bundles",110459,18786,"Brand",1
+"Soccer > Goalkeeper > Bundles",110459,18785,"Size",1
+"Soccer > Goalkeeper > Bundles",110459,18797,"Condition",1
+"Soccer > Goalkeeper > Gloves",110458,18786,"Brand",1
+"Soccer > Goalkeeper > Gloves",110458,18785,"Size",1
+"Soccer > Goalkeeper > Gloves",110458,18797,"Condition",1
+"Soccer > Goalkeeper > Tops",110456,18786,"Brand",1
+"Soccer > Goalkeeper > Tops",110456,18785,"Size",1
+"Soccer > Goalkeeper > Tops",110456,22281,"Color",0
+"Soccer > Goalkeeper > Tops",110456,18787,"Gender",0
+"Soccer > Goalkeeper > Tops",110456,18797,"Condition",1
+"Soccer > Shin Guards",110085,18786,"Brand",1
+"Soccer > Shin Guards",110085,22281,"Color",0
+"Soccer > Shin Guards",110085,18785,"Size",1
+"Soccer > Shin Guards",110085,18787,"Gender",0
+"Soccer > Shin Guards",110085,18797,"Condition",1
+"Soccer > Soccer Balls",110084,18786,"Brand",1
+"Soccer > Soccer Balls",110084,22281,"Color",0
+"Soccer > Soccer Balls",110084,18797,"Condition",1
+"Soccer > Training, Accessories & Other > Cones",110463,18786,"Brand",1
+"Soccer > Training, Accessories & Other > Cones",110463,18797,"Condition",1
+"Soccer > Training, Accessories & Other > Field Maintenance",110462,18786,"Brand",1
+"Soccer > Training, Accessories & Other > Field Maintenance",110462,18797,"Condition",1
+"Soccer > Training, Accessories & Other > Nets & Screens",110461,18786,"Brand",1
+"Soccer > Training, Accessories & Other > Nets & Screens",110461,18797,"Condition",1
+"Soccer > Training, Accessories & Other > Other",110086,22281,"Color",0
+"Soccer > Training, Accessories & Other > Other",110086,18786,"Brand",1
+"Soccer > Training, Accessories & Other > Other",110086,18797,"Condition",1
+"Soccer > Training, Accessories & Other > Training",110465,18786,"Brand",1
+"Soccer > Training, Accessories & Other > Training",110465,18797,"Condition",1
+"Soccer > Training, Accessories & Other > Training Bibs",110464,18786,"Brand",1
+"Soccer > Training, Accessories & Other > Training Bibs",110464,18797,"Condition",1
+"Softball > Accessories & Other > Glove Care",110339,18786,"Brand",1
+"Softball > Accessories & Other > Glove Care",110339,18797,"Condition",1
+"Softball > Accessories & Other > Hitting Accessories",110338,22281,"Color",0
+"Softball > Accessories & Other > Hitting Accessories",110338,18786,"Brand",1
+"Softball > Accessories & Other > Hitting Accessories",110338,18797,"Condition",1
+"Softball > Accessories & Other > Other",110111,18786,"Brand",1
+"Softball > Accessories & Other > Other",110111,24126,"Type",0
+"Softball > Accessories & Other > Other",110111,18797,"Condition",1
+"Softball > Accessories & Other > Sunglasses",110341,18786,"Brand",1
+"Softball > Accessories & Other > Sunglasses",110341,18785,"Size",1
+"Softball > Accessories & Other > Sunglasses",110341,23041,"Age Group",1
+"Softball > Accessories & Other > Sunglasses",110341,22281,"Color",0
+"Softball > Accessories & Other > Sunglasses",110341,18787,"Gender",0
+"Softball > Accessories & Other > Sunglasses",110341,24841,"Lens Type",0
+"Softball > Accessories & Other > Sunglasses",110341,18797,"Condition",1
+"Softball > Accessories & Other > Tape",110340,18786,"Brand",1
+"Softball > Accessories & Other > Tape",110340,18797,"Condition",1
+"Softball > Bags & Backpacks",110109,18786,"Brand",1
+"Softball > Bags & Backpacks",110109,22281,"Color",0
+"Softball > Bags & Backpacks",110109,23961,"Bag Type",0
+"Softball > Bags & Backpacks",110109,18797,"Condition",1
+"Softball > Bats",110106,23041,"Age Group",0
+"Softball > Bats",110106,18789,"Length",1
+"Softball > Bats",110106,18790,"Drop",0
+"Softball > Bats",110106,23034,"Bat Material",0
+"Softball > Bats",110106,23258,"Year",0
+"Softball > Bats",110106,23797,"Sport",0
+"Softball > Bats",110106,18786,"Brand",1
+"Softball > Bats",110106,22281,"Color",0
+"Softball > Bats",110106,24203,"Weight",0
+"Softball > Bats",110106,18797,"Condition",1
+"Softball > Batting Gloves",110113,18785,"Size",1
+"Softball > Batting Gloves",110113,18786,"Brand",1
+"Softball > Batting Gloves",110113,22281,"Color",0
+"Softball > Batting Gloves",110113,18797,"Condition",1
+"Softball > Catcher's Equipment > Catcher's Chest Protection",110107,18785,"Size",1
+"Softball > Catcher's Equipment > Catcher's Chest Protection",110107,18786,"Brand",1
+"Softball > Catcher's Equipment > Catcher's Chest Protection",110107,22281,"Color",0
+"Softball > Catcher's Equipment > Catcher's Chest Protection",110107,24015,"Size",0
+"Softball > Catcher's Equipment > Catcher's Chest Protection",110107,18797,"Condition",1
+"Softball > Catcher's Equipment > Catcher's Combos",110354,18785,"Size",1
+"Softball > Catcher's Equipment > Catcher's Combos",110354,18786,"Brand",1
+"Softball > Catcher's Equipment > Catcher's Combos",110354,22281,"Color",0
+"Softball > Catcher's Equipment > Catcher's Combos",110354,24015,"Size",0
+"Softball > Catcher's Equipment > Catcher's Combos",110354,18797,"Condition",1
+"Softball > Catcher's Equipment > Catcher's Gloves",110359,23041,"Age Group",0
+"Softball > Catcher's Equipment > Catcher's Gloves",110359,23797,"Sport",0
+"Softball > Catcher's Equipment > Catcher's Gloves",110359,18786,"Brand",1
+"Softball > Catcher's Equipment > Catcher's Gloves",110359,23189,"Size",1
+"Softball > Catcher's Equipment > Catcher's Gloves",110359,22281,"Color",0
+"Softball > Catcher's Equipment > Catcher's Gloves",110359,23048,"Throwing Hand",1
+"Softball > Catcher's Equipment > Catcher's Gloves",110359,18797,"Condition",1
+"Softball > Catcher's Equipment > Catcher's Leg Guards",110358,18785,"Size",1
+"Softball > Catcher's Equipment > Catcher's Leg Guards",110358,18786,"Brand",1
+"Softball > Catcher's Equipment > Catcher's Leg Guards",110358,22281,"Color",0
+"Softball > Catcher's Equipment > Catcher's Leg Guards",110358,24015,"Size",0
+"Softball > Catcher's Equipment > Catcher's Leg Guards",110358,18797,"Condition",1
+"Softball > Catcher's Equipment > Catcher's Masks",110357,18785,"Size",1
+"Softball > Catcher's Equipment > Catcher's Masks",110357,18786,"Brand",1
+"Softball > Catcher's Equipment > Catcher's Masks",110357,18797,"Condition",1
+"Softball > Footwear",110105,23850,"Type",0
+"Softball > Footwear",110105,18785,"Size",1
+"Softball > Footwear",110105,18786,"Brand",1
+"Softball > Footwear",110105,22281,"Color",0
+"Softball > Footwear",110105,18787,"Gender",0
+"Softball > Footwear",110105,23864,"Cleat Height",0
+"Softball > Footwear",110105,18797,"Condition",1
+"Softball > Gloves & Mitts",110112,23041,"Age Group",0
+"Softball > Gloves & Mitts",110112,23048,"Throwing Hand",1
+"Softball > Gloves & Mitts",110112,23189,"Size",1
+"Softball > Gloves & Mitts",110112,23797,"Sport",0
+"Softball > Gloves & Mitts",110112,18786,"Brand",1
+"Softball > Gloves & Mitts",110112,22281,"Color",0
+"Softball > Gloves & Mitts",110112,18794,"Position",0
+"Softball > Gloves & Mitts",110112,18797,"Condition",1
+"Softball > Helmets & Protective Gear > Batter's Leg, Arm & Wrist Guards",110361,18785,"Size",0
+"Softball > Helmets & Protective Gear > Batter's Leg, Arm & Wrist Guards",110361,24530,"Type",1
+"Softball > Helmets & Protective Gear > Batter's Leg, Arm & Wrist Guards",110361,18786,"Brand",1
+"Softball > Helmets & Protective Gear > Batter's Leg, Arm & Wrist Guards",110361,18797,"Condition",1
+"Softball > Helmets & Protective Gear > Batting Helmets",110114,18786,"Brand",1
+"Softball > Helmets & Protective Gear > Batting Helmets",110114,18785,"Size",1
+"Softball > Helmets & Protective Gear > Batting Helmets",110114,18797,"Condition",1
+"Softball > Helmets & Protective Gear > Fielder's Face Guards",110362,18786,"Brand",1
+"Softball > Helmets & Protective Gear > Fielder's Face Guards",110362,23041,"Age Group",1
+"Softball > Helmets & Protective Gear > Fielder's Face Guards",110362,18797,"Condition",1
+"Softball > Softball Apparel & Jerseys > Compression & Base Layers",110351,18785,"Size",1
+"Softball > Softball Apparel & Jerseys > Compression & Base Layers",110351,18786,"Brand",1
+"Softball > Softball Apparel & Jerseys > Compression & Base Layers",110351,22281,"Color",1
+"Softball > Softball Apparel & Jerseys > Compression & Base Layers",110351,18787,"Gender",1
+"Softball > Softball Apparel & Jerseys > Compression & Base Layers",110351,23041,"Age Group",1
+"Softball > Softball Apparel & Jerseys > Compression & Base Layers",110351,24834,"Team Issued",0
+"Softball > Softball Apparel & Jerseys > Compression & Base Layers",110351,24817,"Compression Type",0
+"Softball > Softball Apparel & Jerseys > Compression & Base Layers",110351,24853,"Compression Use",0
+"Softball > Softball Apparel & Jerseys > Compression & Base Layers",110351,18797,"Condition",1
+"Softball > Softball Apparel & Jerseys > Hats",110356,18785,"Size",1
+"Softball > Softball Apparel & Jerseys > Hats",110356,18786,"Brand",1
+"Softball > Softball Apparel & Jerseys > Hats",110356,22281,"Color",1
+"Softball > Softball Apparel & Jerseys > Hats",110356,18787,"Gender",1
+"Softball > Softball Apparel & Jerseys > Hats",110356,23041,"Age Group",1
+"Softball > Softball Apparel & Jerseys > Hats",110356,24837,"Clothing Style",0
+"Softball > Softball Apparel & Jerseys > Hats",110356,24826,"Hat Type",0
+"Softball > Softball Apparel & Jerseys > Hats",110356,24834,"Team Issued",0
+"Softball > Softball Apparel & Jerseys > Hats",110356,18797,"Condition",1
+"Softball > Softball Apparel & Jerseys > Jackets & Coats",110345,18785,"Size",1
+"Softball > Softball Apparel & Jerseys > Jackets & Coats",110345,18786,"Brand",1
+"Softball > Softball Apparel & Jerseys > Jackets & Coats",110345,22281,"Color",1
+"Softball > Softball Apparel & Jerseys > Jackets & Coats",110345,18787,"Gender",1
+"Softball > Softball Apparel & Jerseys > Jackets & Coats",110345,23041,"Age Group",1
+"Softball > Softball Apparel & Jerseys > Jackets & Coats",110345,24834,"Team Issued",0
+"Softball > Softball Apparel & Jerseys > Jackets & Coats",110345,24837,"Clothing Style",0
+"Softball > Softball Apparel & Jerseys > Jackets & Coats",110345,24844,"Hooded",0
+"Softball > Softball Apparel & Jerseys > Jackets & Coats",110345,24859,"Liner",0
+"Softball > Softball Apparel & Jerseys > Jackets & Coats",110345,24821,"Jacket Type",0
+"Softball > Softball Apparel & Jerseys > Jackets & Coats",110345,18797,"Condition",1
+"Softball > Softball Apparel & Jerseys > Jerseys",110342,18785,"Size",1
+"Softball > Softball Apparel & Jerseys > Jerseys",110342,18786,"Brand",1
+"Softball > Softball Apparel & Jerseys > Jerseys",110342,22281,"Color",1
+"Softball > Softball Apparel & Jerseys > Jerseys",110342,18787,"Gender",1
+"Softball > Softball Apparel & Jerseys > Jerseys",110342,23041,"Age Group",1
+"Softball > Softball Apparel & Jerseys > Jerseys",110342,24834,"Team Issued",0
+"Softball > Softball Apparel & Jerseys > Jerseys",110342,24837,"Clothing Style",0
+"Softball > Softball Apparel & Jerseys > Jerseys",110342,24115,"Jersey Type",0
+"Softball > Softball Apparel & Jerseys > Jerseys",110342,18797,"Condition",1
+"Softball > Softball Apparel & Jerseys > Pants",110110,18785,"Size",1
+"Softball > Softball Apparel & Jerseys > Pants",110110,18786,"Brand",1
+"Softball > Softball Apparel & Jerseys > Pants",110110,22281,"Color",1
+"Softball > Softball Apparel & Jerseys > Pants",110110,18787,"Gender",1
+"Softball > Softball Apparel & Jerseys > Pants",110110,23041,"Age Group",1
+"Softball > Softball Apparel & Jerseys > Pants",110110,24834,"Team Issued",0
+"Softball > Softball Apparel & Jerseys > Pants",110110,24837,"Clothing Style",0
+"Softball > Softball Apparel & Jerseys > Pants",110110,24803,"Pant Type",0
+"Softball > Softball Apparel & Jerseys > Pants",110110,18797,"Condition",1
+"Softball > Softball Apparel & Jerseys > Shirts",110352,18785,"Size",1
+"Softball > Softball Apparel & Jerseys > Shirts",110352,18786,"Brand",1
+"Softball > Softball Apparel & Jerseys > Shirts",110352,22281,"Color",1
+"Softball > Softball Apparel & Jerseys > Shirts",110352,18787,"Gender",1
+"Softball > Softball Apparel & Jerseys > Shirts",110352,23041,"Age Group",1
+"Softball > Softball Apparel & Jerseys > Shirts",110352,24834,"Team Issued",0
+"Softball > Softball Apparel & Jerseys > Shirts",110352,24837,"Clothing Style",0
+"Softball > Softball Apparel & Jerseys > Shirts",110352,24132,"Shirt Type",0
+"Softball > Softball Apparel & Jerseys > Shirts",110352,24869,"Sleeve Length",0
+"Softball > Softball Apparel & Jerseys > Shirts",110352,18797,"Condition",1
+"Softball > Softball Apparel & Jerseys > Shorts",110355,18785,"Size",1
+"Softball > Softball Apparel & Jerseys > Shorts",110355,18786,"Brand",1
+"Softball > Softball Apparel & Jerseys > Shorts",110355,22281,"Color",1
+"Softball > Softball Apparel & Jerseys > Shorts",110355,18787,"Gender",1
+"Softball > Softball Apparel & Jerseys > Shorts",110355,23041,"Age Group",1
+"Softball > Softball Apparel & Jerseys > Shorts",110355,24834,"Team Issued",0
+"Softball > Softball Apparel & Jerseys > Shorts",110355,24837,"Clothing Style",0
+"Softball > Softball Apparel & Jerseys > Shorts",110355,24799,"Short Type",0
+"Softball > Softball Apparel & Jerseys > Shorts",110355,24873,"Length",0
+"Softball > Softball Apparel & Jerseys > Shorts",110355,18797,"Condition",1
+"Softball > Softball Apparel & Jerseys > Sweatshirts & Hoodies",110349,18785,"Size",1
+"Softball > Softball Apparel & Jerseys > Sweatshirts & Hoodies",110349,18786,"Brand",1
+"Softball > Softball Apparel & Jerseys > Sweatshirts & Hoodies",110349,22281,"Color",1
+"Softball > Softball Apparel & Jerseys > Sweatshirts & Hoodies",110349,18787,"Gender",1
+"Softball > Softball Apparel & Jerseys > Sweatshirts & Hoodies",110349,23041,"Age Group",1
+"Softball > Softball Apparel & Jerseys > Sweatshirts & Hoodies",110349,24834,"Team Issued",0
+"Softball > Softball Apparel & Jerseys > Sweatshirts & Hoodies",110349,24837,"Clothing Style",0
+"Softball > Softball Apparel & Jerseys > Sweatshirts & Hoodies",110349,24811,"Type",0
+"Softball > Softball Apparel & Jerseys > Sweatshirts & Hoodies",110349,24844,"Hooded",0
+"Softball > Softball Apparel & Jerseys > Sweatshirts & Hoodies",110349,18797,"Condition",1
+"Softball > Softballs",110108,18786,"Brand",1
+"Softball > Softballs",110108,22281,"Color",0
+"Softball > Softballs",110108,24679,"Number of Balls",0
+"Softball > Softballs",110108,18797,"Condition",1
+"Softball > Training & Field > Bases, Mounds & Mats",110348,18786,"Brand",1
+"Softball > Training & Field > Bases, Mounds & Mats",110348,18797,"Condition",1
+"Softball > Training & Field > Batting",110346,18786,"Brand",1
+"Softball > Training & Field > Batting",110346,18797,"Condition",1
+"Softball > Training & Field > Field Maintenance",110344,18786,"Brand",1
+"Softball > Training & Field > Field Maintenance",110344,18797,"Condition",1
+"Softball > Training & Field > Nets & Screens",110350,18786,"Brand",1
+"Softball > Training & Field > Nets & Screens",110350,18797,"Condition",1
+"Softball > Training & Field > Pitching",110347,18786,"Brand",1
+"Softball > Training & Field > Pitching",110347,18797,"Condition",1
+"Surf, Wake & Water Sports > Bindings > Wakeboard Bindings",110689,18786,"Brand",1
+"Surf, Wake & Water Sports > Bindings > Wakeboard Bindings",110689,18797,"Condition",1
+"Surf, Wake & Water Sports > Bindings > Water Ski Bindings",110690,18786,"Brand",1
+"Surf, Wake & Water Sports > Bindings > Water Ski Bindings",110690,18797,"Condition",1
+"Surf, Wake & Water Sports > Boards > Bodyboards",110686,18786,"Brand",1
+"Surf, Wake & Water Sports > Boards > Bodyboards",110686,18797,"Condition",1
+"Surf, Wake & Water Sports > Boards > Skimboards",110685,18786,"Brand",1
+"Surf, Wake & Water Sports > Boards > Skimboards",110685,18797,"Condition",1
+"Surf, Wake & Water Sports > Boards > Stand Up Paddle (SUP) Boards",110687,18786,"Brand",1
+"Surf, Wake & Water Sports > Boards > Stand Up Paddle (SUP) Boards",110687,18797,"Condition",1
+"Surf, Wake & Water Sports > Boards > Surfboards",110684,18786,"Brand",1
+"Surf, Wake & Water Sports > Boards > Surfboards",110684,18797,"Condition",1
+"Surf, Wake & Water Sports > Boards > Wakeboards",110601,18786,"Brand",1
+"Surf, Wake & Water Sports > Boards > Wakeboards",110601,18797,"Condition",1
+"Surf, Wake & Water Sports > Fins",110680,18786,"Brand",1
+"Surf, Wake & Water Sports > Fins",110680,18797,"Condition",1
+"Surf, Wake & Water Sports > Goggles",110681,18786,"Brand",1
+"Surf, Wake & Water Sports > Goggles",110681,18797,"Condition",1
+"Surf, Wake & Water Sports > Life Jackets",110679,18786,"Brand",1
+"Surf, Wake & Water Sports > Life Jackets",110679,18797,"Condition",1
+"Surf, Wake & Water Sports > Water Skis",110682,18786,"Brand",1
+"Surf, Wake & Water Sports > Water Skis",110682,18797,"Condition",1
+"Tennis & Racquet Sports > Apparel > Hats",110470,18786,"Brand",1
+"Tennis & Racquet Sports > Apparel > Hats",110470,23041,"Age Group",1
+"Tennis & Racquet Sports > Apparel > Hats",110470,18785,"Size",1
+"Tennis & Racquet Sports > Apparel > Hats",110470,22281,"Color",1
+"Tennis & Racquet Sports > Apparel > Hats",110470,18787,"Gender",1
+"Tennis & Racquet Sports > Apparel > Hats",110470,24837,"Clothing Style",0
+"Tennis & Racquet Sports > Apparel > Hats",110470,24826,"Hat Type",0
+"Tennis & Racquet Sports > Apparel > Hats",110470,24834,"Team Issued",0
+"Tennis & Racquet Sports > Apparel > Hats",110470,18797,"Condition",1
+"Tennis & Racquet Sports > Apparel > Jackets & Coats",110468,18786,"Brand",1
+"Tennis & Racquet Sports > Apparel > Jackets & Coats",110468,23041,"Age Group",1
+"Tennis & Racquet Sports > Apparel > Jackets & Coats",110468,18785,"Size",1
+"Tennis & Racquet Sports > Apparel > Jackets & Coats",110468,22281,"Color",1
+"Tennis & Racquet Sports > Apparel > Jackets & Coats",110468,18787,"Gender",1
+"Tennis & Racquet Sports > Apparel > Jackets & Coats",110468,24834,"Team Issued",0
+"Tennis & Racquet Sports > Apparel > Jackets & Coats",110468,24837,"Clothing Style",0
+"Tennis & Racquet Sports > Apparel > Jackets & Coats",110468,24844,"Hooded",0
+"Tennis & Racquet Sports > Apparel > Jackets & Coats",110468,24859,"Liner",0
+"Tennis & Racquet Sports > Apparel > Jackets & Coats",110468,24821,"Jacket Type",0
+"Tennis & Racquet Sports > Apparel > Jackets & Coats",110468,18797,"Condition",1
+"Tennis & Racquet Sports > Apparel > Shirts",110157,18786,"Brand",1
+"Tennis & Racquet Sports > Apparel > Shirts",110157,18787,"Gender",1
+"Tennis & Racquet Sports > Apparel > Shirts",110157,18785,"Size",1
+"Tennis & Racquet Sports > Apparel > Shirts",110157,23041,"Age Group",1
+"Tennis & Racquet Sports > Apparel > Shirts",110157,22281,"Color",1
+"Tennis & Racquet Sports > Apparel > Shirts",110157,24834,"Team Issued",0
+"Tennis & Racquet Sports > Apparel > Shirts",110157,24837,"Clothing Style",0
+"Tennis & Racquet Sports > Apparel > Shirts",110157,24132,"Shirt Type",0
+"Tennis & Racquet Sports > Apparel > Shirts",110157,24869,"Sleeve Length",0
+"Tennis & Racquet Sports > Apparel > Shirts",110157,18797,"Condition",1
+"Tennis & Racquet Sports > Apparel > Shorts",110467,18786,"Brand",1
+"Tennis & Racquet Sports > Apparel > Shorts",110467,23041,"Age Group",1
+"Tennis & Racquet Sports > Apparel > Shorts",110467,18785,"Size",1
+"Tennis & Racquet Sports > Apparel > Shorts",110467,22281,"Color",1
+"Tennis & Racquet Sports > Apparel > Shorts",110467,18787,"Gender",1
+"Tennis & Racquet Sports > Apparel > Shorts",110467,24834,"Team Issued",0
+"Tennis & Racquet Sports > Apparel > Shorts",110467,24837,"Clothing Style",0
+"Tennis & Racquet Sports > Apparel > Shorts",110467,24799,"Short Type",0
+"Tennis & Racquet Sports > Apparel > Shorts",110467,24873,"Length",0
+"Tennis & Racquet Sports > Apparel > Shorts",110467,18797,"Condition",1
+"Tennis & Racquet Sports > Apparel > Sweatshirts & Hoodies",110469,18786,"Brand",1
+"Tennis & Racquet Sports > Apparel > Sweatshirts & Hoodies",110469,23041,"Age Group",1
+"Tennis & Racquet Sports > Apparel > Sweatshirts & Hoodies",110469,18785,"Size",1
+"Tennis & Racquet Sports > Apparel > Sweatshirts & Hoodies",110469,22281,"Color",1
+"Tennis & Racquet Sports > Apparel > Sweatshirts & Hoodies",110469,18787,"Gender",1
+"Tennis & Racquet Sports > Apparel > Sweatshirts & Hoodies",110469,24834,"Team Issued",0
+"Tennis & Racquet Sports > Apparel > Sweatshirts & Hoodies",110469,24837,"Clothing Style",0
+"Tennis & Racquet Sports > Apparel > Sweatshirts & Hoodies",110469,24811,"Type",0
+"Tennis & Racquet Sports > Apparel > Sweatshirts & Hoodies",110469,24844,"Hooded",0
+"Tennis & Racquet Sports > Apparel > Sweatshirts & Hoodies",110469,18797,"Condition",1
+"Tennis & Racquet Sports > Bags",110158,18786,"Brand",1
+"Tennis & Racquet Sports > Bags",110158,23961,"Bag Type",0
+"Tennis & Racquet Sports > Bags",110158,18797,"Condition",1
+"Tennis & Racquet Sports > Balls",110159,18786,"Brand",1
+"Tennis & Racquet Sports > Balls",110159,24679,"Number of Balls",0
+"Tennis & Racquet Sports > Balls",110159,18797,"Condition",1
+"Tennis & Racquet Sports > Racquets & Paddles > Pickleball Paddles",110617,18786,"Brand",1
+"Tennis & Racquet Sports > Racquets & Paddles > Pickleball Paddles",110617,18797,"Condition",1
+"Tennis & Racquet Sports > Racquets & Paddles > Racquetball Racquets",110156,18786,"Brand",1
+"Tennis & Racquet Sports > Racquets & Paddles > Racquetball Racquets",110156,23915,"Balance",0
+"Tennis & Racquet Sports > Racquets & Paddles > Racquetball Racquets",110156,18787,"Gender",0
+"Tennis & Racquet Sports > Racquets & Paddles > Racquetball Racquets",110156,18797,"Condition",1
+"Tennis & Racquet Sports > Racquets & Paddles > Squash Racquets",110155,18786,"Brand",1
+"Tennis & Racquet Sports > Racquets & Paddles > Squash Racquets",110155,23915,"Balance",0
+"Tennis & Racquet Sports > Racquets & Paddles > Squash Racquets",110155,18787,"Gender",0
+"Tennis & Racquet Sports > Racquets & Paddles > Squash Racquets",110155,18797,"Condition",1
+"Tennis & Racquet Sports > Racquets & Paddles > Tennis Racquets",110154,23930,"Strung Weight",0
+"Tennis & Racquet Sports > Racquets & Paddles > Tennis Racquets",110154,18786,"Brand",1
+"Tennis & Racquet Sports > Racquets & Paddles > Tennis Racquets",110154,23915,"Balance",0
+"Tennis & Racquet Sports > Racquets & Paddles > Tennis Racquets",110154,23928,"Length",0
+"Tennis & Racquet Sports > Racquets & Paddles > Tennis Racquets",110154,23940,"Head Size",0
+"Tennis & Racquet Sports > Racquets & Paddles > Tennis Racquets",110154,18787,"Gender",0
+"Tennis & Racquet Sports > Racquets & Paddles > Tennis Racquets",110154,18797,"Condition",1
+"Tennis & Racquet Sports > Racquets & Paddles > Tennis Racquets",110154,23914,"Grip Size",1
+"Tennis & Racquet Sports > Tennis Shoes",110473,18785,"Size",1
+"Tennis & Racquet Sports > Tennis Shoes",110473,18786,"Brand",1
+"Tennis & Racquet Sports > Tennis Shoes",110473,23041,"Age Group",1
+"Tennis & Racquet Sports > Tennis Shoes",110473,18787,"Gender",0
+"Tennis & Racquet Sports > Tennis Shoes",110473,18797,"Condition",1
+"Tennis & Racquet Sports > Training, Accessories & Other > Grips & Tape",110160,18786,"Brand",1
+"Tennis & Racquet Sports > Training, Accessories & Other > Grips & Tape",110160,18797,"Condition",1
+"Tennis & Racquet Sports > Training, Accessories & Other > Other",110164,18786,"Brand",1
+"Tennis & Racquet Sports > Training, Accessories & Other > Other",110164,18797,"Condition",1
+"Tennis & Racquet Sports > Training, Accessories & Other > Pickleball Nets",110618,18786,"Brand",1
+"Tennis & Racquet Sports > Training, Accessories & Other > Pickleball Nets",110618,18797,"Condition",1
+"Tennis & Racquet Sports > Training, Accessories & Other > Racquet Covers",110161,18786,"Brand",1
+"Tennis & Racquet Sports > Training, Accessories & Other > Racquet Covers",110161,24178,"Sport",0
+"Tennis & Racquet Sports > Training, Accessories & Other > Racquet Covers",110161,18797,"Condition",1
+"Tennis & Racquet Sports > Training, Accessories & Other > Racquet Strings",110162,18786,"Brand",1
+"Tennis & Racquet Sports > Training, Accessories & Other > Racquet Strings",110162,18797,"Condition",1
+"Tennis & Racquet Sports > Training, Accessories & Other > Training Aids",110163,18786,"Brand",1
+"Tennis & Racquet Sports > Training, Accessories & Other > Training Aids",110163,18797,"Condition",1
+"Women's Lacrosse > Accessories & Other > Coaches",110201,18786,"Brand",1
+"Women's Lacrosse > Accessories & Other > Coaches",110201,18797,"Condition",1
+"Women's Lacrosse > Accessories & Other > Other",110204,18786,"Brand",1
+"Women's Lacrosse > Accessories & Other > Other",110204,18797,"Condition",1
+"Women's Lacrosse > Accessories & Other > Stringing Supplies",110203,18786,"Brand",1
+"Women's Lacrosse > Accessories & Other > Stringing Supplies",110203,22281,"Color",0
+"Women's Lacrosse > Accessories & Other > Stringing Supplies",110203,18797,"Condition",1
+"Women's Lacrosse > Apparel > Jackets & Coats",110210,18786,"Brand",1
+"Women's Lacrosse > Apparel > Jackets & Coats",110210,22281,"Color",1
+"Women's Lacrosse > Apparel > Jackets & Coats",110210,18785,"Size",1
+"Women's Lacrosse > Apparel > Jackets & Coats",110210,23041,"Age Group",1
+"Women's Lacrosse > Apparel > Jackets & Coats",110210,24834,"Team Issued",0
+"Women's Lacrosse > Apparel > Jackets & Coats",110210,24837,"Clothing Style",0
+"Women's Lacrosse > Apparel > Jackets & Coats",110210,24844,"Hooded",0
+"Women's Lacrosse > Apparel > Jackets & Coats",110210,24859,"Liner",0
+"Women's Lacrosse > Apparel > Jackets & Coats",110210,18787,"Gender",1
+"Women's Lacrosse > Apparel > Jackets & Coats",110210,24821,"Jacket Type",0
+"Women's Lacrosse > Apparel > Jackets & Coats",110210,18797,"Condition",1
+"Women's Lacrosse > Apparel > Jerseys",110239,18786,"Brand",1
+"Women's Lacrosse > Apparel > Jerseys",110239,22281,"Color",1
+"Women's Lacrosse > Apparel > Jerseys",110239,18785,"Size",1
+"Women's Lacrosse > Apparel > Jerseys",110239,23041,"Age Group",1
+"Women's Lacrosse > Apparel > Jerseys",110239,24834,"Team Issued",0
+"Women's Lacrosse > Apparel > Jerseys",110239,24837,"Clothing Style",0
+"Women's Lacrosse > Apparel > Jerseys",110239,24115,"Jersey Type",0
+"Women's Lacrosse > Apparel > Jerseys",110239,18787,"Gender",1
+"Women's Lacrosse > Apparel > Jerseys",110239,18797,"Condition",1
+"Women's Lacrosse > Apparel > Pants",110208,18786,"Brand",1
+"Women's Lacrosse > Apparel > Pants",110208,22281,"Color",1
+"Women's Lacrosse > Apparel > Pants",110208,18785,"Size",1
+"Women's Lacrosse > Apparel > Pants",110208,23041,"Age Group",1
+"Women's Lacrosse > Apparel > Pants",110208,24834,"Team Issued",0
+"Women's Lacrosse > Apparel > Pants",110208,24837,"Clothing Style",0
+"Women's Lacrosse > Apparel > Pants",110208,18787,"Gender",1
+"Women's Lacrosse > Apparel > Pants",110208,24803,"Pant Type",0
+"Women's Lacrosse > Apparel > Pants",110208,18797,"Condition",1
+"Women's Lacrosse > Apparel > Shirts",110205,18786,"Brand",1
+"Women's Lacrosse > Apparel > Shirts",110205,22281,"Color",1
+"Women's Lacrosse > Apparel > Shirts",110205,18785,"Size",1
+"Women's Lacrosse > Apparel > Shirts",110205,23041,"Age Group",1
+"Women's Lacrosse > Apparel > Shirts",110205,24834,"Team Issued",0
+"Women's Lacrosse > Apparel > Shirts",110205,24837,"Clothing Style",0
+"Women's Lacrosse > Apparel > Shirts",110205,18787,"Gender",1
+"Women's Lacrosse > Apparel > Shirts",110205,24132,"Shirt Type",0
+"Women's Lacrosse > Apparel > Shirts",110205,24869,"Sleeve Length",0
+"Women's Lacrosse > Apparel > Shirts",110205,18797,"Condition",1
+"Women's Lacrosse > Apparel > Shorts",110206,18786,"Brand",1
+"Women's Lacrosse > Apparel > Shorts",110206,22281,"Color",1
+"Women's Lacrosse > Apparel > Shorts",110206,18785,"Size",1
+"Women's Lacrosse > Apparel > Shorts",110206,23041,"Age Group",1
+"Women's Lacrosse > Apparel > Shorts",110206,24834,"Team Issued",0
+"Women's Lacrosse > Apparel > Shorts",110206,24837,"Clothing Style",0
+"Women's Lacrosse > Apparel > Shorts",110206,18787,"Gender",1
+"Women's Lacrosse > Apparel > Shorts",110206,24799,"Short Type",0
+"Women's Lacrosse > Apparel > Shorts",110206,24873,"Length",0
+"Women's Lacrosse > Apparel > Shorts",110206,18797,"Condition",1
+"Women's Lacrosse > Apparel > Sweatshirts & Hoodies",110209,18786,"Brand",1
+"Women's Lacrosse > Apparel > Sweatshirts & Hoodies",110209,22281,"Color",1
+"Women's Lacrosse > Apparel > Sweatshirts & Hoodies",110209,18785,"Size",1
+"Women's Lacrosse > Apparel > Sweatshirts & Hoodies",110209,23041,"Age Group",1
+"Women's Lacrosse > Apparel > Sweatshirts & Hoodies",110209,24834,"Team Issued",0
+"Women's Lacrosse > Apparel > Sweatshirts & Hoodies",110209,24837,"Clothing Style",0
+"Women's Lacrosse > Apparel > Sweatshirts & Hoodies",110209,24811,"Type",0
+"Women's Lacrosse > Apparel > Sweatshirts & Hoodies",110209,24844,"Hooded",0
+"Women's Lacrosse > Apparel > Sweatshirts & Hoodies",110209,18787,"Gender",1
+"Women's Lacrosse > Apparel > Sweatshirts & Hoodies",110209,18797,"Condition",1
+"Women's Lacrosse > Bags",110195,18786,"Brand",1
+"Women's Lacrosse > Bags",110195,18797,"Condition",1
+"Women's Lacrosse > Footwear",110150,18785,"Size",1
+"Women's Lacrosse > Footwear",110150,18786,"Brand",1
+"Women's Lacrosse > Footwear",110150,22281,"Color",0
+"Women's Lacrosse > Footwear",110150,23850,"Type",0
+"Women's Lacrosse > Footwear",110150,18787,"Gender",0
+"Women's Lacrosse > Footwear",110150,23864,"Cleat Height",0
+"Women's Lacrosse > Footwear",110150,18797,"Condition",1
+"Women's Lacrosse > Gloves",110144,18786,"Brand",1
+"Women's Lacrosse > Gloves",110144,23867,"Position",1
+"Women's Lacrosse > Gloves",110144,18797,"Condition",1
+"Women's Lacrosse > Goalie > Goalie Chest Protection",110198,18785,"Size",1
+"Women's Lacrosse > Goalie > Goalie Chest Protection",110198,18786,"Brand",1
+"Women's Lacrosse > Goalie > Goalie Chest Protection",110198,18797,"Condition",1
+"Women's Lacrosse > Goalie > Goalie Gloves",110202,23189,"Size",1
+"Women's Lacrosse > Goalie > Goalie Gloves",110202,18786,"Brand",1
+"Women's Lacrosse > Goalie > Goalie Gloves",110202,18797,"Condition",1
+"Women's Lacrosse > Goalie > Goalie Heads",110196,18786,"Brand",1
+"Women's Lacrosse > Goalie > Goalie Heads",110196,23108,"Strung / Unstrung",1
+"Women's Lacrosse > Goalie > Goalie Heads",110196,18797,"Condition",1
+"Women's Lacrosse > Goalie > Goalie Sticks",110194,18786,"Brand",1
+"Women's Lacrosse > Goalie > Goalie Sticks",110194,18797,"Condition",1
+"Women's Lacrosse > Goalie > Other",110200,18786,"Brand",1
+"Women's Lacrosse > Goalie > Other",110200,18797,"Condition",1
+"Women's Lacrosse > Goggles & Headgear > Goggles",110147,18786,"Brand",1
+"Women's Lacrosse > Goggles & Headgear > Goggles",110147,18797,"Condition",1
+"Women's Lacrosse > Goggles & Headgear > Headgear",110143,18786,"Brand",1
+"Women's Lacrosse > Goggles & Headgear > Headgear",110143,18797,"Condition",1
+"Women's Lacrosse > Goggles & Headgear > Helmets",110207,23041,"Age Group",1
+"Women's Lacrosse > Goggles & Headgear > Helmets",110207,18786,"Brand",1
+"Women's Lacrosse > Goggles & Headgear > Helmets",110207,18797,"Condition",1
+"Women's Lacrosse > Lacrosse Balls",110197,18786,"Brand",1
+"Women's Lacrosse > Lacrosse Balls",110197,24679,"Number of Balls",0
+"Women's Lacrosse > Lacrosse Balls",110197,18797,"Condition",1
+"Women's Lacrosse > Sticks > Complete Sticks",110145,23867,"Position",0
+"Women's Lacrosse > Sticks > Complete Sticks",110145,18786,"Brand",1
+"Women's Lacrosse > Sticks > Complete Sticks",110145,18797,"Condition",1
+"Women's Lacrosse > Sticks > Heads",110146,23867,"Position",0
+"Women's Lacrosse > Sticks > Heads",110146,18786,"Brand",1
+"Women's Lacrosse > Sticks > Heads",110146,23108,"Strung / Unstrung",1
+"Women's Lacrosse > Sticks > Heads",110146,18797,"Condition",1
+"Women's Lacrosse > Sticks > Shafts",110149,18786,"Brand",1
+"Women's Lacrosse > Sticks > Shafts",110149,18797,"Condition",1
+"Women's Lacrosse > Training, Coach & Field > Backstops",110214,18786,"Brand",1
+"Women's Lacrosse > Training, Coach & Field > Backstops",110214,18797,"Condition",1
+"Women's Lacrosse > Training, Coach & Field > Field Markings",110216,18786,"Brand",1
+"Women's Lacrosse > Training, Coach & Field > Field Markings",110216,18797,"Condition",1
+"Women's Lacrosse > Training, Coach & Field > Goals",110212,18786,"Brand",1
+"Women's Lacrosse > Training, Coach & Field > Goals",110212,18797,"Condition",1
+"Women's Lacrosse > Training, Coach & Field > Nets",110213,18786,"Brand",1
+"Women's Lacrosse > Training, Coach & Field > Nets",110213,18797,"Condition",1
+"Women's Lacrosse > Training, Coach & Field > Rebounders",110215,18786,"Brand",1
+"Women's Lacrosse > Training, Coach & Field > Rebounders",110215,18797,"Condition",1
+"Women's Lacrosse > Training, Coach & Field > Targets",110217,18786,"Brand",1
+"Women's Lacrosse > Training, Coach & Field > Targets",110217,18797,"Condition",1
+"Women's Lacrosse > Training, Coach & Field > Training",110218,18786,"Brand",1
+"Women's Lacrosse > Training, Coach & Field > Training",110218,18797,"Condition",1
+"Wrestling",110605,18786,"Brand",1
+"Wrestling",110605,18797,"Condition",1
