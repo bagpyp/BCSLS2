@@ -1,4 +1,6 @@
+config.py
 apiKey.txt
-currentDf.pkl
+*.pkl
 .vscode/
 .idea/
+__pycache__

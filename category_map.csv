@@ -14,11 +14,11 @@ eyewear/sunglasses/womens,d58a823e-ea2c-4399-8c11-6935a49f01f9,Apparel > Sunglas
 headwear/beanie,1f3f253f-0a38-4086-b377-d8de76e2552a,Skiing > Apparel & Outerwear > Hats
 headwear/facemask,,
 headwear/hat,25a5eb58-b6eb-4afe-a923-39372221e56a,Apparel > Hats
-hike/pack/accessory,02c9b15d-60bf-400b-84d1-46dc954989d0,Hike & Camp > Other
-hike/pack/hydration,27abfb4f-3e6a-4513-801d-fc25e0164c6f,Hike & Camp > Backpacks
-hike/pack/map/book,,
-hike/pack/mens/shoes,4a15f280-bd7f-4bd2-bdf3-4e9086829d2d,Hike & Camp > Hiking Boots & Shoes
-hike/pack/womens/shoes,4a15f280-bd7f-4bd2-bdf3-4e9086829d2d,Hike & Camp > Hiking Boots & Shoes
+"hike, pack/accessory",02c9b15d-60bf-400b-84d1-46dc954989d0,Hike & Camp > Other
+"hike, pack/hydration",27abfb4f-3e6a-4513-801d-fc25e0164c6f,Hike & Camp > Backpacks
+"hike, pack/map/book",,
+"hike, pack/mens/shoes",4a15f280-bd7f-4bd2-bdf3-4e9086829d2d,Hike & Camp > Hiking Boots & Shoes
+"hike, pack/womens/shoes",4a15f280-bd7f-4bd2-bdf3-4e9086829d2d,Hike & Camp > Hiking Boots & Shoes
 kayak/accessory,5ebeb6b1-b1ee-4a2b-ae8c-f66e851e5594,"Outdoors > Surf, Wake & Water Sports > Other"
 lifejacket/neoprene/dog,e7e1db54-2714-4b3d-94e9-d77ea453a333,"Surf, Wake & Water Sports > Life Jackets"
 lifejacket/neoprene/men,e7e1db54-2714-4b3d-94e9-d77ea453a333,"Surf, Wake & Water Sports > Life Jackets"
@@ -43,7 +43,7 @@ mens/outerwear/jackets,c101d61d-eaeb-4b55-af1b-6d4c42f6d942,Skiing > Apparel & O
 mens/outerwear/mittens,d962d3d4-623c-4b43-8324-d7d4aa69466d,Skiing > Apparel & Outerwear > Gloves & Mittens
 mens/outerwear/pants,72427126-4874-48eb-a31c-29ee1a7b7a3b,Apparel > Pants
 mens/outerwear/suit,,
-mens/swimwear/shorts,b206bbc5-7ee6-4a3d-9d9f-2f3cb6cb8449	,Apparel > Swimsuits
+mens/swimwear/shorts,b206bbc5-7ee6-4a3d-9d9f-2f3cb6cb8449,Apparel > Swimsuits
 race/night,,
 safety/avalanche/probe,1768df28-72ae-4f98-9ed4-a4223bf8805e,"Skiing > Training, Accessories, Backcountry & Other > Avalanche Safety Gear"
 safety/avalanche/shovel,1768df28-72ae-4f98-9ed4-a4223bf8805e,"Skiing > Training, Accessories, Backcountry & Other > Avalanche Safety Gear"
@@ -77,10 +77,10 @@ ski/bindings/womens,89bc2302-30cc-4da7-af5c-b5eeda4caf4c,Skiing > Bindings > Dow
 ski/bindings/youth,89bc2302-30cc-4da7-af5c-b5eeda4caf4c,Skiing > Bindings > Downhill Bindings
 ski/boots/accessory,5a7ec962-9aa7-4ef2-a63d-7146d7a115c2,"Skiing > Training, Accessories, Backcountry & Other > Other"
 ski/boots/liner,5a7ec962-9aa7-4ef2-a63d-7146d7a115c2,"Skiing > Training, Accessories, Backcountry & Other > Other"
-ski/boots/mens,	22b5b42a-68c3-4927-9f93-fde549898a5d,Skiing > Boots > Downhill Boots
-ski/boots/parts,	22b5b42a-68c3-4927-9f93-fde549898a5d,Skiing > Boots > Downhill Boots
-ski/boots/womens,	22b5b42a-68c3-4927-9f93-fde549898a5d,Skiing > Boots > Downhill Boots
-ski/boots/youth,	22b5b42a-68c3-4927-9f93-fde549898a5d,Skiing > Boots > Downhill Boots
+ski/boots/mens,22b5b42a-68c3-4927-9f93-fde549898a5d,Skiing > Boots > Downhill Boots
+ski/boots/parts,22b5b42a-68c3-4927-9f93-fde549898a5d,Skiing > Boots > Downhill Boots
+ski/boots/womens,22b5b42a-68c3-4927-9f93-fde549898a5d,Skiing > Boots > Downhill Boots
+ski/boots/youth,22b5b42a-68c3-4927-9f93-fde549898a5d,Skiing > Boots > Downhill Boots
 ski/poles/accessory,5a7ec962-9aa7-4ef2-a63d-7146d7a115c2,"Skiing > Training, Accessories, Backcountry & Other > Other"
 ski/poles/adult,456d28fa-a3bd-4d98-aa7b-6cd43ff03fe9,Skiing > Poles
 ski/poles/baskets,5a7ec962-9aa7-4ef2-a63d-7146d7a115c2,"Skiing > Training, Accessories, Backcountry & Other > Other"
@@ -136,8 +136,8 @@ watersport/ski/handle,9f2840e8-4509-4867-8831-b20c11b7226a,"Outdoors > Surf, Wak
 watersport/ski/single,9f2840e8-4509-4867-8831-b20c11b7226a,"Outdoors > Surf, Wake & Water Sports > Accessories"
 watersport/towable/accessory,9f2840e8-4509-4867-8831-b20c11b7226a,"Outdoors > Surf, Wake & Water Sports > Accessories"
 watersport/towable/tube,5ebeb6b1-b1ee-4a2b-ae8c-f66e851e5594,"Outdoors > Surf, Wake & Water Sports > Other"
-watersport/wetsuit/mens,c93138b0-7113-4534-aa0b-60ae49537ae1,"	Outdoors > Surf, Wake & Water Sports > Wetsuits & Rashguards"
-watersport/wetsuit/womens,c93138b0-7113-4534-aa0b-60ae49537ae1,"	Outdoors > Surf, Wake & Water Sports > Wetsuits & Rashguards"
+watersport/wetsuit/mens,c93138b0-7113-4534-aa0b-60ae49537ae1,"Outdoors > Surf, Wake & Water Sports > Wetsuits & Rashguards"
+watersport/wetsuit/womens,c93138b0-7113-4534-aa0b-60ae49537ae1,"Outdoors > Surf, Wake & Water Sports > Wetsuits & Rashguards"
 watersport/wetsuit/youth,c93138b0-7113-4534-aa0b-60ae49537ae1,"Outdoors > Surf, Wake & Water Sports > Wetsuits & Rashguards"
 winter/equipment,,
 women/outerwear/suit,,

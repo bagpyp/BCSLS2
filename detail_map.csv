@@ -13,11 +13,11 @@ eyewear/sunglasses/accessory,size,Size
 eyewear/sunglasses/unisex,s,Gender
 eyewear/sunglasses/womens,s,Gender
 headwear/facemask,,
-hike/pack/map/book,,
-hike/pack/mens/shoes,size,Size
-hike/pack/mens/shoes,c,Gender
-hike/pack/womens/shoes,size,Size
-hike/pack/womens/shoes,c,Gender
+"hike, pack/map/book",,
+"hike, pack/mens/shoes",size,Size
+"hike, pack/mens/shoes",c,Gender
+"hike, pack/womens/shoes",size,Size
+"hike, pack/womens/shoes",c,Gender
 kayak/accessory,,
 mens/baselayer/bottom,d,Gender
 mens/baselayer/bottom,size,Size

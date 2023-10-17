@@ -13,11 +13,11 @@ Eyewear/Sunglasses/Accessory,Size,Size,Lifestyle/Sunglasses/Accessory
 Eyewear/Sunglasses/Unisex,S,Gender,Lifestyle/Sunglasses/Unisex
 Eyewear/Sunglasses/Womens,S,Gender,Lifestyle/Sunglasses/Womens
 Headwear/Facemask,,,Outerwear/Headwear/Facemask
-Hike/Pack/Map/Book,,,Lifestyle/Accessory
-Hike/Pack/Mens/Shoes,Size,Size,Lifestyle/Men/Shoes
-Hike/Pack/Mens/Shoes,C,Gender,Lifestyle/Men/Shoes
-Hike/Pack/Womens/Shoes,Size,Size,Lifestyle/Women/Shoes
-Hike/Pack/Womens/Shoes,C,Gender,Lifestyle/Women/Shoes
+"Hike, Pack/Map/Book",,,Lifestyle/Accessory
+"Hike, Pack/Mens/Shoes",Size,Size,Lifestyle/Men/Shoes
+"Hike, Pack/Mens/Shoes",C,Gender,Lifestyle/Men/Shoes
+"Hike, Pack/Womens/Shoes",Size,Size,Lifestyle/Women/Shoes
+"Hike, Pack/Womens/Shoes",C,Gender,Lifestyle/Women/Shoes
 Kayak/Accessory,,,Watersport/Kayak
 Mens/Baselayer/Bottom,D,Gender,Outerwear/Base Layer/Men
 Mens/Baselayer/Bottom,Size,Size,Outerwear/Base Layer/Men
